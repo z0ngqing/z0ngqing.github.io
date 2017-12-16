@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Zongqing&#39;s Homepage</title>
+    <link>https://z0ngqing.github.io/news/</link>
+    <description>Recent content in News on Zongqing&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Zongqing Lu</copyright>
+    <lastBuildDate>Tue, 28 Nov 2017 18:26:27 -0400</lastBuildDate>
+    
+	<atom:link href="https://z0ngqing.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>One paper accepted at INFOCOM&#39;18</title>
+      <link>https://z0ngqing.github.io/news/infocom18/</link>
+      <pubDate>Tue, 28 Nov 2017 18:26:27 -0400</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/infocom18/</guid>
+      <description>Our paper &amp;ldquo;A Computing Platform for Video Crowdprocessing Using Deep Learning&amp;rdquo; was accepted at the IEEE International Conference on Computer Communications (INFOCOM) 2018.</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at TON</title>
+      <link>https://z0ngqing.github.io/news/ton17/</link>
+      <pubDate>Thu, 03 Aug 2017 18:26:27 -0400</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/ton17/</guid>
+      <description>Our paper &amp;ldquo;Cooperative Data Offload in Opportunistic Networks: From Mobile Devices to Infrastructure&amp;rdquo; was accepted at IEEE/ACM Transactions on Networking.</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at MM&#39;17</title>
+      <link>https://z0ngqing.github.io/news/mm17/</link>
+      <pubDate>Wed, 12 Jul 2017 18:26:27 -0400</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/mm17/</guid>
+      <description>Our paper &amp;ldquo;Modeling the Resource Requirements of Convolutional Neural Networks on Mobile Devices&amp;rdquo; was accepted at the ACM International Conference on Multimedia (MM) 2017.</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at TMC</title>
+      <link>https://z0ngqing.github.io/news/tmc17/</link>
+      <pubDate>Sun, 09 Apr 2017 18:26:27 -0400</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/tmc17/</guid>
+      <description>Our paper &amp;ldquo;TeamPhone: Networking Smartphones for Disaster Recovery&amp;rdquo; was accepted at IEEE Transactions on Mobile Computing.</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at ICNP&#39;16</title>
+      <link>https://z0ngqing.github.io/news/icnp16/</link>
+      <pubDate>Wed, 17 Aug 2016 18:26:27 -0400</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/icnp16/</guid>
+      <description>Our paper &amp;ldquo;On-demand Video Processing in Wireless Networks&amp;rdquo; was accepted at the IEEE International Conference on Network Protocols (ICNP), 2016.</description>
+    </item>
+    
+    <item>
+      <title>Summer Research at Army Research Laboratory</title>
+      <link>https://z0ngqing.github.io/news/arl16/</link>
+      <pubDate>Thu, 04 Aug 2016 18:26:27 -0400</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/arl16/</guid>
+      <description>I spent this summer at Army Research Laboratory to build an emulation environment for deep learning based video processing in large-scale wireless networks.</description>
+    </item>
+    
+    <item>
+      <title>Best-in-Session Presentation Award at INFOCOM&#39;16</title>
+      <link>https://z0ngqing.github.io/news/infocom16-talk/</link>
+      <pubDate>Sat, 30 Apr 2016 18:26:27 -0400</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/infocom16-talk/</guid>
+      <description>My talk &amp;ldquo;Cooperative Data Offloading in Opportunistic Mobile Networks&amp;rdquo; won the Best-in-Session Presentation Award in the technical session of Data Offloading at INFOCOM&amp;rsquo;16.</description>
+    </item>
+    
+  </channel>
+</rss>

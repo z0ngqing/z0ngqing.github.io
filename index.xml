@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zongqing&#39;s Homepage</title>
+    <link>https://z0ngqing.github.io/</link>
+    <description>Recent content on Zongqing&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Zongqing Lu</copyright>
+    <lastBuildDate>Tue, 28 Nov 2017 18:26:27 -0400</lastBuildDate>
+    
+	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>One paper accepted at INFOCOM&#39;18</title>
+      <link>https://z0ngqing.github.io/news/infocom18/</link>
+      <pubDate>Tue, 28 Nov 2017 18:26:27 -0400</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/infocom18/</guid>
+      <description>Our paper &amp;ldquo;A Computing Platform for Video Crowdprocessing Using Deep Learning&amp;rdquo; was accepted at the IEEE International Conference on Computer Communications (INFOCOM) 2018.</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at TON</title>
+      <link>https://z0ngqing.github.io/news/ton17/</link>
+      <pubDate>Thu, 03 Aug 2017 18:26:27 -0400</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/ton17/</guid>
+      <description>Our paper &amp;ldquo;Cooperative Data Offload in Opportunistic Networks: From Mobile Devices to Infrastructure&amp;rdquo; was accepted at IEEE/ACM Transactions on Networking.</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at MM&#39;17</title>
+      <link>https://z0ngqing.github.io/news/mm17/</link>
+      <pubDate>Wed, 12 Jul 2017 18:26:27 -0400</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/mm17/</guid>
+      <description>Our paper &amp;ldquo;Modeling the Resource Requirements of Convolutional Neural Networks on Mobile Devices&amp;rdquo; was accepted at the ACM International Conference on Multimedia (MM) 2017.</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at TMC</title>
+      <link>https://z0ngqing.github.io/news/tmc17/</link>
+      <pubDate>Sun, 09 Apr 2017 18:26:27 -0400</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/tmc17/</guid>
+      <description>Our paper &amp;ldquo;TeamPhone: Networking Smartphones for Disaster Recovery&amp;rdquo; was accepted at IEEE Transactions on Mobile Computing.</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at ICNP&#39;16</title>
+      <link>https://z0ngqing.github.io/news/icnp16/</link>
+      <pubDate>Wed, 17 Aug 2016 18:26:27 -0400</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/icnp16/</guid>
+      <description>Our paper &amp;ldquo;On-demand Video Processing in Wireless Networks&amp;rdquo; was accepted at the IEEE International Conference on Network Protocols (ICNP), 2016.</description>
+    </item>
+    
+    <item>
+      <title>Summer Research at Army Research Laboratory</title>
+      <link>https://z0ngqing.github.io/news/arl16/</link>
+      <pubDate>Thu, 04 Aug 2016 18:26:27 -0400</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/arl16/</guid>
+      <description>I spent this summer at Army Research Laboratory to build an emulation environment for deep learning based video processing in large-scale wireless networks.</description>
+    </item>
+    
+    <item>
+      <title>Best-in-Session Presentation Award at INFOCOM&#39;16</title>
+      <link>https://z0ngqing.github.io/news/infocom16-talk/</link>
+      <pubDate>Sat, 30 Apr 2016 18:26:27 -0400</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/infocom16-talk/</guid>
+      <description>My talk &amp;ldquo;Cooperative Data Offloading in Opportunistic Mobile Networks&amp;rdquo; won the Best-in-Session Presentation Award in the technical session of Data Offloading at INFOCOM&amp;rsquo;16.</description>
+    </item>
+    
+    <item>
+      <title>teaching</title>
+      <link>https://z0ngqing.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/home/teaching/</guid>
+      <description> Undergraduate Courses  Introduction to Computer Systems, Fall 2017 Data Structures and Algorithms, Spring 2018  </description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://z0ngqing.github.io/home/service/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/home/service/</guid>
+      <description> Technical Program Committee Member  MM 2017
+ INFOCOM 2016
+  Session Chair  INFOCOM 2016, Session of Online Social Networks  Conference Organization  ACM TURC 2018, Award Co-Chair  </description>
+    </item>
+    
+    <item>
+      <title>[Submitted to TMC] Augur: Modeling the Resource Requirements of ConvNets on Mobile Devices</title>
+      <link>https://z0ngqing.github.io/publication/tmc18-augur/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/tmc18-augur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Submitted to TMC] NetVision: On-demand Video Processing in Wireless Networks</title>
+      <link>https://z0ngqing.github.io/publication/tmc18-netvision/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/tmc18-netvision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[INFOCOM&#39;18] A Computing Platform for Video Crowdprocessing Using Deep Learning</title>
+      <link>https://z0ngqing.github.io/publication/infocom18/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/infocom18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[TON] Cooperative Data Offload in Opportunistic Networks: From Mobile Devices to Infrastructure</title>
+      <link>https://z0ngqing.github.io/publication/ton17/</link>
+      <pubDate>Thu, 03 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/ton17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[MM&#39;17] Modeling the Resource Requirements of Convolutional Neural Networks on Mobile Devices</title>
+      <link>https://z0ngqing.github.io/publication/mm17/</link>
+      <pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/mm17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[TPDS] Cluster-Aware Virtual Machine Collaborative Migration in Media Cloud</title>
+      <link>https://z0ngqing.github.io/publication/tpds17/</link>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/tpds17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[TMC] TeamPhone: Networking Smartphones for Disaster Recovery</title>
+      <link>https://z0ngqing.github.io/publication/tmc17/</link>
+      <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/tmc17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICNP&#39;16] On-demand Video Processing in Wireless Networks</title>
+      <link>https://z0ngqing.github.io/publication/icnp16/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/icnp16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Video Processing Using Deep Learning on Networked Devices</title>
+      <link>https://z0ngqing.github.io/project/video/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/video/</guid>
+      <description>The vast adoption of mobile devices with cameras has greatly assisted in the proliferation of the creation and distribution of videos. Videos, which are a rich source of information, can be exploited for on-demand information retrieval. Deep learning using Convolutional Neural Networks (CNNs) is state of the art computer vision techniques that can be used for information retrieval. However, due to the high computation of video processing using CNNs, it is not feasible or costs too much to process all videos at a centralized entity, considering a large set of videos which is common in this big data epoch.</description>
+    </item>
+    
+    <item>
+      <title>[TMC] Towards Information Diffusion in Mobile Social Networks</title>
+      <link>https://z0ngqing.github.io/publication/tmc15/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/tmc15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Access] Infectious Disease Containment Based on a Wireless Sensor System</title>
+      <link>https://z0ngqing.github.io/publication/access16/</link>
+      <pubDate>Fri, 29 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/access16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://z0ngqing.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/home/about/</guid>
+      <description>I am an Assistant Professor in the Department of Computer Science, Peking University.
+Before joining Peking University in 2017, I worked as a postdoc in the Department of Computer Science and Engineering, Pennsylvania State University. I received the PhD degree from Nanyang Technological University in 2014, master and bachelor degrees from Southeast University.
+Interests  Deep Learning Mobile/Edge AI Systems Networked Multimedia Systems  
+I am looking for self-motivated graduate and undergraduate students for research internships.</description>
+    </item>
+    
+    <item>
+      <title>[INFOCOM&#39;16] Cooperative Data Offloading in Opportunistic Mobile Networks</title>
+      <link>https://z0ngqing.github.io/publication/infocom16/</link>
+      <pubDate>Sun, 10 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/infocom16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[PerCom&#39;16] Networking Smartphones for Disaster Recovery</title>
+      <link>https://z0ngqing.github.io/publication/percom16/</link>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/percom16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[TPDS] Algorithms and Applications for Community Detection in Weighted Networks</title>
+      <link>https://z0ngqing.github.io/publication/tpds15/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/tpds15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[UbiComp&#39;15] SymDetector: Detecting Sound-Related Respiratory Symptoms Using Smartphones</title>
+      <link>https://z0ngqing.github.io/publication/ubicomp15/</link>
+      <pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/ubicomp15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICCCN&#39;15] Task Allocation for Mobile Cloud Computing in Heterogeneous Wireless Networks</title>
+      <link>https://z0ngqing.github.io/publication/icccn15/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/icccn15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Smartphone Networks</title>
+      <link>https://z0ngqing.github.io/project/mobile/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/mobile/</guid>
+      <description>Smartphones have great networking capabilities. They can access the Internet through cellular networks or wireless access points and communicate with nearby devices using WiFi Direct or Bluetooth. However, these network functions may not work in some circumstances where cellular towers and network infrastructure are destroyed, e.g. in disaster recovery. Nevertheless, communications in such scenarios are very important, and hence, in this research, we aim to build smartphone networks to provide communications without relying on cellular networks, wireless access points, or network infrastructure.</description>
+    </item>
+    
+    <item>
+      <title>[PerCom&#39;15] Targeted Vaccination Based on a Wireless Sensor System</title>
+      <link>https://z0ngqing.github.io/publication/percom15/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/percom15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health Sensing Using Mobile Devices</title>
+      <link>https://z0ngqing.github.io/project/health/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/health/</guid>
+      <description>Mobile devices, such as smartphones, have become commonplace in health care settings, leading to the development of both platforms and applications for health care, e.g., HealthKit on iOS, where apps can collect users&amp;rsquo; health and activity data and the data will be used for medical research to bring more powerful health solutions. However, no data is collected for the research of infectious diseases. Moreover, currently, most health data are collected by manual input or external devices.</description>
+    </item>
+    
+    <item>
+      <title>[SECON&#39;14] Skeleton Construction in in Mobile Social Networks: Algorithms and Applications</title>
+      <link>https://z0ngqing.github.io/publication/secon14/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/secon14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[INFOCOM&#39;14] Information Diffusion in Mobile Social Networks: The Speed Perspective</title>
+      <link>https://z0ngqing.github.io/publication/infocom14/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/infocom14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Social Structure for Network Designs</title>
+      <link>https://z0ngqing.github.io/project/network/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/network/</guid>
+      <description>The proliferation of mobile devices, such as smartphones and tablets, and the popularity of online social networks that link humans, mobile devices and Internet together, increasingly emphasize the role of human behaviors on network designs. Due to the involvement of human behaviors, social structure provides crucial information of network structure and node organization, and thus can be exploited for network designs, e.g., in online social networks and mobile social networks.</description>
+    </item>
+    
+    <item>
+      <title>[JSAC] Toward Efficient Distributed Algorithms for In-network Binary Operator Tree Placement in Wireless Sensor Networks</title>
+      <link>https://z0ngqing.github.io/publication/jsac13/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/jsac13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[PerCom&#39;13] Community Detection in Weighted Networks: Algorithms and Applications</title>
+      <link>https://z0ngqing.github.io/publication/percom13/</link>
+      <pubDate>Mon, 18 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/percom13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[MASS&#39;12] Credit Routing for Source-location Privacy Protection in Wireless Sensor Networks</title>
+      <link>https://z0ngqing.github.io/publication/mass12/</link>
+      <pubDate>Mon, 08 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/mass12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

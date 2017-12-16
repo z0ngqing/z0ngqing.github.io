@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme" content="hugo-academic">
+    <meta name="generator" content="Hugo 0.31.1" />
+    <meta name="author" content="Zongqing Lu">
+    <meta name="description" content="Assistant Professor">
+
+    <link rel="stylesheet" href="https://z0ngqing.github.io/css/highlight.min.css">
+    <link rel="stylesheet" href="https://z0ngqing.github.io/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://z0ngqing.github.io/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://z0ngqing.github.io/css/academicons.min.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono">
+    <link rel="stylesheet" href="https://z0ngqing.github.io/css/hugo-academic.css">
+    
+
+
+    <link rel="shortcut icon" href="https://z0ngqing.github.io/img/favicon.ico" type="image/x-icon">
+    <link rel="canonical" href="https://z0ngqing.github.io/project/mobile/">
+
+    <title>Building Smartphone Networks | Zongqing&#39;s Homepage</title>
+
+</head>
+<body id="top">
+
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+    <div class="container">
+
+        
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://z0ngqing.github.io/">Zongqing&#39;s Homepage</a>
+        </div>
+
+        
+        <div class="collapse navbar-collapse" id="#navbar-collapse-1">
+
+            
+            <ul class="nav navbar-nav navbar-right">
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#top">Home</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#news">News</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#publications">Publications</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#projects">AI@edge</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#teaching">Teaching</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#services">Services</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#contact">Contact</a></li>
+                
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+
+    <article class="article article-project" itemscope itemtype="http://schema.org/Article">
+        
+
+        <h1 itemprop="name">Building Smartphone Networks</h1>
+        
+        
+
+<div class="article-metadata">
+
+    
+    
+    
+    <span class="article-tags">
+        <i class="fa fa-tags"></i>
+        
+        <a class="article-tag-link" href="https://z0ngqing.github.io/tags/smartphones">Smartphones</a>, 
+        
+        <a class="article-tag-link" href="https://z0ngqing.github.io/tags/opportunistic-networking">Opportunistic Networking</a>, 
+        
+        <a class="article-tag-link" href="https://z0ngqing.github.io/tags/data-offload">Data Offload</a>
+        
+    </span>
+    
+    
+
+    
+
+</div>
+
+
+        
+
+        <div align="justify" class="article-style" itemprop="articleBody">
+            
+
+<p>Smartphones have great networking capabilities. They can access the Internet through cellular networks or wireless access points and communicate with nearby devices using WiFi Direct or Bluetooth. However, these network functions may not work in some circumstances where cellular towers and network infrastructure are destroyed, <em>e.g.</em> in disaster recovery. Nevertheless, communications in such scenarios are very important, and hence, in this research, we aim to build smartphone networks to provide communications without relying on cellular networks, wireless access points, or network infrastructure. The focus of this research is to build a network system for one of these scenarios to prove the importance and feasibility of building smartphone networks.</p>
+
+<h3 id="teamphone">TeamPhone</h3>
+
+<p>We consider the scenario of disaster recovery. Disasters, such as earthquakes, topple countless homes and kill thousands of people. Power failures and fallen cellular towers caused by disasters further leave the affected area cut off from the outside and hinder rescue operations. In disaster recovery, communications are crucial for coordinating rescue operations. Moreover, if trapped survivors in the rubble can send out emergency messages to rescue workers, rescue operations can be greatly accelerated. Therefore, we investigate how to network smartphones to provide communications in disaster recovery.</p>
+
+<p><img style="float: right;  margin: 0px 0px 0px 10px;" src = "/~zxl30/img/project/teamphone.png" width="700" class="article-style" itemprop="image"></p>
+
+<p>we have designed and built TeamPhone, a system for communications in disaster recovery, where smartphones are teamed up and work together to provide data communications. TeamPhone networks smartphones using WiFi ad hoc mode rather than WiFi Direct and Blutooth, since both of them cannot support multihop relays. TeamPhone consists of a messaging system and a self-rescue system. The messaging system can accomplish message transmissions by seamlessly integrating ad hoc routing and opportunistic routing. The self-rescue system can send out emergency messages with location and position information through self-rescue grouping, wake-up scheduling and positioning. We has implemented TeamPhone as an app on the Android platform, deployed it on off-the-shelf smartphones, and demonstrated that TeamPhone can properly provide communications and greatly facilitate rescue operations in disaster recovery.</p>
+
+<h3 id="cooperative-data-offload">Cooperative Data Offload</h3>
+
+<p>TeamPhone demonstrates the feasibility of connecting smartphones as ad hoc networks and opportunistic networks. Ad hoc routing is performed when smartphones are dense, <em>i.e.</em>, they are close to each other. However, when smartphones are sparse, due to the limited coverage of WiFi signals, opportunistic routing is the only choice for communications. Owing to intermittent and stochastic contacts among smartphones, opportunistic routing takes a long time to relay data to the destination. Therefore, we further investigate how to improve the performance of opportunistic routing.</p>
+
+<p>We consider the scenario where data is sent from smartphones to intermittently connected infrastructure, <em>e.g.</em>, a command center in disaster recovery. Unlike existing work, we focus on cooperatively offloading data segments to other smartphones so as to maximally improve the probability of successful data delivery. Unfortunately, the estimation of data delivery probability over an opportunistic path is difficult and cooperative offloading is NP-hard. To this end, we first propose a probabilistic framework that provides the estimation of such probability. Based on the proposed probabilistic framework, we have designed a heuristic algorithm and a distributed algorithm to solve cooperative offloading. We have designed a heuristic algorithm that performs path allocation and data assignment by carefully considering opportunistic contact probability and path capacity. The algorithm approximates the optimum at a low computational cost. We have designed a distributed algorithm which employs criterion assignment, real-time adjustment and assignment update to make data offloading decisions at runtime.</p>
+
+        </div>
+        
+        <div>
+        <br>
+        <h3>Publications</h3>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-md-12">
+
+            <span itemprop="name">
+                <a href="https://z0ngqing.github.io/publication/percom16/" itemprop="url">[PerCom&#39;16] Networking Smartphones for Disaster Recovery</a>
+            </span>
+
+            <div class="pub-authors" itemprop="author">
+                
+                Zongqing Lu, Guohong Cao, and Thomas La Porta
+                
+            </div>
+
+            <div class="pub-publication">
+                
+                    In <em>Proceedings of IEEE International Conference on Pervasive Computing and Communications</em> (PerCom), March 14-18, 2016.
+                
+            </div>
+            <div class="pub-publication">
+                
+                    (Acceptance Rate: 12%=<sup>20</sup>&frasl;<sub>168</sub>)
+                
+            </div>
+
+
+        </div>
+    </div>
+</div>
+ </dl>
+        
+        
+        
+        
+        
+        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-md-12">
+
+            <span itemprop="name">
+                <a href="https://z0ngqing.github.io/publication/infocom16/" itemprop="url">[INFOCOM&#39;16] Cooperative Data Offloading in Opportunistic Mobile Networks</a>
+            </span>
+
+            <div class="pub-authors" itemprop="author">
+                
+                Zongqing Lu, Xiao Sun, and Thomas La Porta
+                
+            </div>
+
+            <div class="pub-publication">
+                
+                    In <em>Proceedings of IEEE International Conference on Computer Communications</em> (INFOCOM), April 10-15, 2016.
+                
+            </div>
+            <div class="pub-publication">
+                
+                    (Acceptance Rate: 18%=<sup>300</sup>&frasl;<sub>1644</sub>)
+                
+            </div>
+
+
+        </div>
+    </div>
+</div>
+ </dl>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-md-12">
+
+            <span itemprop="name">
+                <a href="https://z0ngqing.github.io/publication/tmc17/" itemprop="url">[TMC] TeamPhone: Networking Smartphones for Disaster Recovery</a>
+            </span>
+
+            <div class="pub-authors" itemprop="author">
+                
+                Zongqing Lu, Guohong Cao, and Thomas La Porta
+                
+            </div>
+
+            <div class="pub-publication">
+                
+                    <em>IEEE Transactions on Mobile Computing</em>, vol. 16, no. 12, pp. 3554-3567, 2017.
+                
+            </div>
+            <div class="pub-publication">
+                
+            </div>
+
+
+        </div>
+    </div>
+</div>
+ </dl>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-md-12">
+
+            <span itemprop="name">
+                <a href="https://z0ngqing.github.io/publication/ton17/" itemprop="url">[TON] Cooperative Data Offload in Opportunistic Networks: From Mobile Devices to Infrastructure</a>
+            </span>
+
+            <div class="pub-authors" itemprop="author">
+                
+                Zongqing Lu, Xiao Sun, and Thomas La Porta
+                
+            </div>
+
+            <div class="pub-publication">
+                
+                    <em>IEEE/ACM Transactions on Networking</em>, 2017.
+                
+            </div>
+            <div class="pub-publication">
+                
+            </div>
+
+
+        </div>
+    </div>
+</div>
+ </dl>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </div>
+    </article>
+    
+    <nav>
+    <ul class="pager">
+        
+        <li class="previous"><a href="https://z0ngqing.github.io/project/health/"><span aria-hidden="true">&larr;</span> Health Sensing Using Mobile Devices</a></li>
+        
+
+        
+        <li class="next"><a href="https://z0ngqing.github.io/project/video/">Distributed Video Processing Using Deep Learning on Networked Devices <span aria-hidden="true">&rarr;</span></a></li>
+        
+    </ul>
+</nav>
+
+
+</div>
+<footer class="site-footer">
+    <div class="container">
+        <p class="powered-by">
+
+            &copy; 2017 Zongqing Lu &middot; 
+
+            Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+            <span class="pull-right"><a href="#" id="back_to_top"><span class="button_icon"><i class="fa fa-chevron-up fa-2x" aria-hidden="true"></i></span></a></span>
+
+        </p>
+    </div>
+</footer>
+
+        <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+        <script src="https://z0ngqing.github.io/js/jquery-1.12.3.min.js"></script>
+        <script src="https://z0ngqing.github.io/js/bootstrap.min.js"></script>
+        <script src="https://z0ngqing.github.io/js/hugo-academic.js"></script>
+        
+
+        
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-88925956-1', 'auto');
+            ga('send', 'pageview');
+
+             
+            var links = document.querySelectorAll('a');
+            Array.prototype.map.call(links, function(item) {
+                if (item.host != document.location.host) {
+                    item.addEventListener('click', function() {
+                        var action = item.getAttribute('data-action') || 'follow';
+                        ga('send', 'event', 'outbound', action, item.href);
+                    });
+                }
+            });
+        </script>
+        
+
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.3.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script>
+
+        
+        
+        <script type="text/x-mathjax-config">
+            MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+        </script>
+        <script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+        
+
+    </body>
+</html>
+

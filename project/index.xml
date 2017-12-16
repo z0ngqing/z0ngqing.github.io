@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Zongqing&#39;s Homepage</title>
+    <link>https://z0ngqing.github.io/project/</link>
+    <description>Recent content in Projects on Zongqing&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Zongqing Lu</copyright>
+    <lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://z0ngqing.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distributed Video Processing Using Deep Learning on Networked Devices</title>
+      <link>https://z0ngqing.github.io/project/video/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/video/</guid>
+      <description>The vast adoption of mobile devices with cameras has greatly assisted in the proliferation of the creation and distribution of videos. Videos, which are a rich source of information, can be exploited for on-demand information retrieval. Deep learning using Convolutional Neural Networks (CNNs) is state of the art computer vision techniques that can be used for information retrieval. However, due to the high computation of video processing using CNNs, it is not feasible or costs too much to process all videos at a centralized entity, considering a large set of videos which is common in this big data epoch.</description>
+    </item>
+    
+    <item>
+      <title>Building Smartphone Networks</title>
+      <link>https://z0ngqing.github.io/project/mobile/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/mobile/</guid>
+      <description>Smartphones have great networking capabilities. They can access the Internet through cellular networks or wireless access points and communicate with nearby devices using WiFi Direct or Bluetooth. However, these network functions may not work in some circumstances where cellular towers and network infrastructure are destroyed, e.g. in disaster recovery. Nevertheless, communications in such scenarios are very important, and hence, in this research, we aim to build smartphone networks to provide communications without relying on cellular networks, wireless access points, or network infrastructure.</description>
+    </item>
+    
+    <item>
+      <title>Health Sensing Using Mobile Devices</title>
+      <link>https://z0ngqing.github.io/project/health/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/health/</guid>
+      <description>Mobile devices, such as smartphones, have become commonplace in health care settings, leading to the development of both platforms and applications for health care, e.g., HealthKit on iOS, where apps can collect users&amp;rsquo; health and activity data and the data will be used for medical research to bring more powerful health solutions. However, no data is collected for the research of infectious diseases. Moreover, currently, most health data are collected by manual input or external devices.</description>
+    </item>
+    
+    <item>
+      <title>Exploring Social Structure for Network Designs</title>
+      <link>https://z0ngqing.github.io/project/network/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/network/</guid>
+      <description>The proliferation of mobile devices, such as smartphones and tablets, and the popularity of online social networks that link humans, mobile devices and Internet together, increasingly emphasize the role of human behaviors on network designs. Due to the involvement of human behaviors, social structure provides crucial information of network structure and node organization, and thus can be exploited for network designs, e.g., in online social networks and mobile social networks.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Networks on Zongqing&#39;s Homepage</title>
+    <link>https://z0ngqing.github.io/tags/social-networks/</link>
+    <description>Recent content in Social Networks on Zongqing&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Zongqing Lu</copyright>
+    <lastBuildDate>Thu, 01 Aug 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://z0ngqing.github.io/tags/social-networks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exploring Social Structure for Network Designs</title>
+      <link>https://z0ngqing.github.io/project/network/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/network/</guid>
+      <description>The proliferation of mobile devices, such as smartphones and tablets, and the popularity of online social networks that link humans, mobile devices and Internet together, increasingly emphasize the role of human behaviors on network designs. Due to the involvement of human behaviors, social structure provides crucial information of network structure and node organization, and thus can be exploited for network designs, e.g., in online social networks and mobile social networks.</description>
+    </item>
+    
+  </channel>
+</rss>

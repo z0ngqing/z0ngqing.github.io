@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Zongqing&#39;s Homepage</title>
+    <link>https://z0ngqing.github.io/home/</link>
+    <description>Recent content in Homes on Zongqing&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Zongqing Lu</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://z0ngqing.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>teaching</title>
+      <link>https://z0ngqing.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/home/teaching/</guid>
+      <description> Undergraduate Courses  Introduction to Computer Systems, Fall 2017 Data Structures and Algorithms, Spring 2018  </description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://z0ngqing.github.io/home/service/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/home/service/</guid>
+      <description> Technical Program Committee Member  MM 2017
+ INFOCOM 2016
+  Session Chair  INFOCOM 2016, Session of Online Social Networks  Conference Organization  ACM TURC 2018, Award Co-Chair  </description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://z0ngqing.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/home/about/</guid>
+      <description>I am an Assistant Professor in the Department of Computer Science, Peking University.
+Before joining Peking University in 2017, I worked as a postdoc in the Department of Computer Science and Engineering, Pennsylvania State University. I received the PhD degree from Nanyang Technological University in 2014, master and bachelor degrees from Southeast University.
+Interests  Deep Learning Mobile/Edge AI Systems Networked Multimedia Systems  
+I am looking for self-motivated graduate and undergraduate students for research internships.</description>
+    </item>
+    
+  </channel>
+</rss>

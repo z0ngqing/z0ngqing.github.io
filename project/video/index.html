@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme" content="hugo-academic">
+    <meta name="generator" content="Hugo 0.31.1" />
+    <meta name="author" content="Zongqing Lu">
+    <meta name="description" content="Assistant Professor">
+
+    <link rel="stylesheet" href="https://z0ngqing.github.io/css/highlight.min.css">
+    <link rel="stylesheet" href="https://z0ngqing.github.io/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://z0ngqing.github.io/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://z0ngqing.github.io/css/academicons.min.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono">
+    <link rel="stylesheet" href="https://z0ngqing.github.io/css/hugo-academic.css">
+    
+
+
+    <link rel="shortcut icon" href="https://z0ngqing.github.io/img/favicon.ico" type="image/x-icon">
+    <link rel="canonical" href="https://z0ngqing.github.io/project/video/">
+
+    <title>Distributed Video Processing Using Deep Learning on Networked Devices | Zongqing&#39;s Homepage</title>
+
+</head>
+<body id="top">
+
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+    <div class="container">
+
+        
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://z0ngqing.github.io/">Zongqing&#39;s Homepage</a>
+        </div>
+
+        
+        <div class="collapse navbar-collapse" id="#navbar-collapse-1">
+
+            
+            <ul class="nav navbar-nav navbar-right">
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#top">Home</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#news">News</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#publications">Publications</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#projects">AI@edge</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#teaching">Teaching</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#services">Services</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#contact">Contact</a></li>
+                
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+
+    <article class="article article-project" itemscope itemtype="http://schema.org/Article">
+        
+        <img src="https://z0ngqing.github.io/img/banners/imagenet.png" class="article-banner" itemprop="image">
+        
+
+        <h1 itemprop="name">Distributed Video Processing Using Deep Learning on Networked Devices</h1>
+        
+        
+
+<div class="article-metadata">
+
+    
+    
+    
+    <span class="article-tags">
+        <i class="fa fa-tags"></i>
+        
+        <a class="article-tag-link" href="https://z0ngqing.github.io/tags/deep-learning">Deep Learning</a>, 
+        
+        <a class="article-tag-link" href="https://z0ngqing.github.io/tags/distributed-processing">Distributed Processing</a>, 
+        
+        <a class="article-tag-link" href="https://z0ngqing.github.io/tags/crowdprocessing">Crowdprocessing</a>, 
+        
+        <a class="article-tag-link" href="https://z0ngqing.github.io/tags/smartphones">Smartphones</a>
+        
+    </span>
+    
+    
+
+    
+
+</div>
+
+
+        
+
+        <div align="justify" class="article-style" itemprop="articleBody">
+            
+
+<p>The vast adoption of mobile devices with cameras has greatly assisted in the proliferation of the creation and distribution of videos. Videos, which are a rich source of information, can be exploited for on-demand information retrieval. Deep learning using Convolutional Neural Networks (CNNs) is state of the art computer vision techniques that can be used for information retrieval. However, due to the high computation of video processing using CNNs, it is not feasible or costs too much to process all videos at a centralized entity, considering a large set of videos which is common in this big data epoch. Therefore, the aim of this research is to provide distributed video processing platforms for on-demand information retrieval using deep learning on big video data, and the focus of this research is to design and implement systems for different application scenarios.</p>
+
+<h3 id="netvision">NetVision</h3>
+
+<p>First, we consider on-demand information retrieval from videos stored across a wireless network, where network devices may different computation capabilities, <em>e.g.</em>, computers with a much powerful GPU can significantly accelerate video processing using deep learning. An example application scenario is wireless surveillance systems, where camera devices and more computationally capable computers are deployed to record, store and process videos.</p>
+
+<p>We has designed and built NetVision, a distributed video processing system using deep learning in a wireless network. NetVision takes information queries, filters out stored videos based on metadata, performs CNNs based video processing, balances the computing workload among network devices by computation offload (<em>i.e.</em>, videos can be uploaded to more computationally capable devices). We designed the algorithm that determines the near-optimal video allocation to minimize the overall video processing time, considering the limitations of wireless channels. We has implemented and evaluated NetVision on a small testbed and built an emulation environment of both real devices and virtual devices for large-scale experiments.</p>
+
+<h3 id="crowdvision">CrowdVision</h3>
+
+<p>Then, we consider an application scenario for large-scale videos, <em>e.g.</em>, municipal agencies ask the public to assist in identifying terrorists or criminals through scanning of their videos that may capture suspects, as the FBI did after the Boston Marathon bombing. We propose a much smarter and more automatic way to handle this using deep learning. We also allow individuals to process some of the data rather than having a centralized entity process everything, which we call <em>crowdprocessing</em>.</p>
+
+<p><img style="float: right;  margin: 10px 0px 0px 10px;" src = "/~zxl30/img/project/deCaffe-overview.png" width="400" class="article-style" itemprop="image">
+We designed and built CrowdVision, a system that enables smartphones to crowdprocess videos using deep learning framework <em>Caffe</em> in a distributed and energy-efficient way, leveraging cloud offload under different network connections. CrowdVision is built as a computing platform to quickly and efficiently retrieve information from big video data. It breaks down the workflow of video processing using Caffe, characterizes the computing of CNNs, considers the data and energy usage constraints imposed by users, and determines whether or at which step to offload computation so as to optimize the performance. We have implemented CrowdVision as an Android app and evaluated it on an off-the-shelf smartphone to confirm the performance gains for video crowdprocessing.</p>
+
+        </div>
+        
+        <div>
+        <br>
+        <h3>Publications</h3>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-md-12">
+
+            <span itemprop="name">
+                <a href="https://z0ngqing.github.io/publication/icnp16/" itemprop="url">[ICNP&#39;16] On-demand Video Processing in Wireless Networks</a>
+            </span>
+
+            <div class="pub-authors" itemprop="author">
+                
+                Zongqing Lu, Kevin Chan, Rahul Urgaonkar, and Thomas La Porta
+                
+            </div>
+
+            <div class="pub-publication">
+                
+                    In <em>Proceedings of IEEE International Conference on Network Protocols</em> (ICNP), November 8-11, 2016.
+                
+            </div>
+            <div class="pub-publication">
+                
+                    (Acceptance Rate: 20%=<sup>46</sup>&frasl;<sub>229</sub>)
+                
+            </div>
+
+
+        </div>
+    </div>
+</div>
+ </dl>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-md-12">
+
+            <span itemprop="name">
+                <a href="https://z0ngqing.github.io/publication/mm17/" itemprop="url">[MM&#39;17] Modeling the Resource Requirements of Convolutional Neural Networks on Mobile Devices</a>
+            </span>
+
+            <div class="pub-authors" itemprop="author">
+                
+                Zongqing Lu, Swati Rallapalli, Kevin Chan, and Thomas La Porta
+                
+            </div>
+
+            <div class="pub-publication">
+                
+                    In <em>Proceedings of ACM International Conference on Multimedia</em> (MM), October 23-27, 2017.
+                
+            </div>
+            <div class="pub-publication">
+                
+                    (Acceptance Rate: 28%=<sup>191</sup>&frasl;<sub>675</sub>)
+                
+            </div>
+
+
+        </div>
+    </div>
+</div>
+ </dl>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-md-12">
+
+            <span itemprop="name">
+                <a href="https://z0ngqing.github.io/publication/infocom18/" itemprop="url">[INFOCOM&#39;18] A Computing Platform for Video Crowdprocessing Using Deep Learning</a>
+            </span>
+
+            <div class="pub-authors" itemprop="author">
+                
+                Zongqing Lu, Kevin Chan, and Thomas La Porta
+                
+            </div>
+
+            <div class="pub-publication">
+                
+                    In <em>Proceedings of IEEE International Conference on Computer Communications</em> (INFOCOM), April 15-19, 2018.
+                
+            </div>
+            <div class="pub-publication">
+                
+                    (Acceptance Rate: 19%=<sup>309</sup>&frasl;<sub>1606</sub>)
+                
+            </div>
+
+
+        </div>
+    </div>
+</div>
+ </dl>
+        
+        
+        
+        
+        
+        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-md-12">
+
+            <span itemprop="name">
+                <a href="https://z0ngqing.github.io/publication/tmc18-augur/" itemprop="url">[Submitted to TMC] Augur: Modeling the Resource Requirements of ConvNets on Mobile Devices</a>
+            </span>
+
+            <div class="pub-authors" itemprop="author">
+                
+                Zongqing Lu, Swati Rallapalli, Kevin Chan, and Thomas La Porta
+                
+            </div>
+
+            <div class="pub-publication">
+                
+                    <em>IEEE Transactions on Mobile Computing</em> (under review)
+                
+            </div>
+            <div class="pub-publication">
+                
+            </div>
+
+
+        </div>
+    </div>
+</div>
+ </dl>
+        
+        
+        
+        
+        
+        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-md-12">
+
+            <span itemprop="name">
+                <a href="https://z0ngqing.github.io/publication/tmc18-netvision/" itemprop="url">[Submitted to TMC] NetVision: On-demand Video Processing in Wireless Networks</a>
+            </span>
+
+            <div class="pub-authors" itemprop="author">
+                
+                Zongqing Lu, Kevin Chan, Rahul Urgaonkar, and Thomas La Porta
+                
+            </div>
+
+            <div class="pub-publication">
+                
+                    <em>IEEE Transactions on Mobile Computing</em> (under review)
+                
+            </div>
+            <div class="pub-publication">
+                
+            </div>
+
+
+        </div>
+    </div>
+</div>
+ </dl>
+        
+        
+        
+        
+        
+        </div>
+    </article>
+    
+    <nav>
+    <ul class="pager">
+        
+        <li class="previous"><a href="https://z0ngqing.github.io/project/mobile/"><span aria-hidden="true">&larr;</span> Building Smartphone Networks</a></li>
+        
+
+        
+    </ul>
+</nav>
+
+
+</div>
+<footer class="site-footer">
+    <div class="container">
+        <p class="powered-by">
+
+            &copy; 2017 Zongqing Lu &middot; 
+
+            Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+            <span class="pull-right"><a href="#" id="back_to_top"><span class="button_icon"><i class="fa fa-chevron-up fa-2x" aria-hidden="true"></i></span></a></span>
+
+        </p>
+    </div>
+</footer>
+
+        <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+        <script src="https://z0ngqing.github.io/js/jquery-1.12.3.min.js"></script>
+        <script src="https://z0ngqing.github.io/js/bootstrap.min.js"></script>
+        <script src="https://z0ngqing.github.io/js/hugo-academic.js"></script>
+        
+
+        
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-88925956-1', 'auto');
+            ga('send', 'pageview');
+
+             
+            var links = document.querySelectorAll('a');
+            Array.prototype.map.call(links, function(item) {
+                if (item.host != document.location.host) {
+                    item.addEventListener('click', function() {
+                        var action = item.getAttribute('data-action') || 'follow';
+                        ga('send', 'event', 'outbound', action, item.href);
+                    });
+                }
+            });
+        </script>
+        
+
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.3.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script>
+
+        
+        
+        <script type="text/x-mathjax-config">
+            MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+        </script>
+        <script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+        
+
+    </body>
+</html>
+

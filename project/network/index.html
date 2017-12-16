@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme" content="hugo-academic">
+    <meta name="generator" content="Hugo 0.31.1" />
+    <meta name="author" content="Zongqing Lu">
+    <meta name="description" content="Assistant Professor">
+
+    <link rel="stylesheet" href="https://z0ngqing.github.io/css/highlight.min.css">
+    <link rel="stylesheet" href="https://z0ngqing.github.io/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://z0ngqing.github.io/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://z0ngqing.github.io/css/academicons.min.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono">
+    <link rel="stylesheet" href="https://z0ngqing.github.io/css/hugo-academic.css">
+    
+
+
+    <link rel="shortcut icon" href="https://z0ngqing.github.io/img/favicon.ico" type="image/x-icon">
+    <link rel="canonical" href="https://z0ngqing.github.io/project/network/">
+
+    <title>Exploring Social Structure for Network Designs | Zongqing&#39;s Homepage</title>
+
+</head>
+<body id="top">
+
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+    <div class="container">
+
+        
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://z0ngqing.github.io/">Zongqing&#39;s Homepage</a>
+        </div>
+
+        
+        <div class="collapse navbar-collapse" id="#navbar-collapse-1">
+
+            
+            <ul class="nav navbar-nav navbar-right">
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#top">Home</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#news">News</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#publications">Publications</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#projects">AI@edge</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#teaching">Teaching</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#services">Services</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#contact">Contact</a></li>
+                
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+
+    <article class="article article-project" itemscope itemtype="http://schema.org/Article">
+        
+        <img src="https://z0ngqing.github.io/img/banners/social.jpg" class="article-banner" itemprop="image">
+        
+
+        <h1 itemprop="name">Exploring Social Structure for Network Designs</h1>
+        
+        
+
+<div class="article-metadata">
+
+    
+    
+    
+    <span class="article-tags">
+        <i class="fa fa-tags"></i>
+        
+        <a class="article-tag-link" href="https://z0ngqing.github.io/tags/social-networks">Social Networks</a>, 
+        
+        <a class="article-tag-link" href="https://z0ngqing.github.io/tags/community">Community</a>, 
+        
+        <a class="article-tag-link" href="https://z0ngqing.github.io/tags/information-diffusion">Information Diffusion</a>
+        
+    </span>
+    
+    
+
+    
+
+</div>
+
+
+        
+
+        <div align="justify" class="article-style" itemprop="articleBody">
+            
+
+<p>The proliferation of mobile devices, such as smartphones and tablets, and the popularity of online social networks that link humans, mobile devices and Internet together, increasingly emphasize the role of human behaviors on network designs. Due to the involvement of human behaviors, social structure provides crucial information of network structure and node organization, and thus can be exploited for network designs, <em>e.g.</em>, in online social networks and mobile social networks. Social structure that represents the relations between individuals or the organization of individuals can be seen as a summary of human behaviors. Social structure has been seen as a salient property that is common to many networks in recently studies in sociology, biology, physics and etc. Moreover, social structure is long-term stable, and hence we can also predict future node behaviors based on the given social structure. This research focuses on uncovering social structure from networks and applying social structure to network designs.</p>
+
+<h3 id="uncovering-communities-from-big-network-data">Uncovering Communities from Big Network Data</h3>
+
+<p>First, we consider <em>community</em>. Although community has been widely used in network designs, community detection is still an issue. The existing community detection algorithms focus on binary networks, while most networks are weighted. However, simplifying weighted networked as binary networks will cost the lost of important information. Therefore, we consider the community detection on weighted networks. We has designed a detection algorithm based <em>conductance</em> with very low computational complexity (tailored for big network data). The algorithm starts with a community formed by the two nodes connected by the highest weight edge and iteratively expands the community by adding a neighboring node that can maximally increase the conductance of the community. The algorithm has been evaluated on a large Facebook data set, and its performance is much better than existing algorithms based on the metrics (<em>e.g.</em>, modularity) that quantify the quality of the detected community structure.</p>
+
+<h3 id="information-diffusion-in-online-social-networks">Information Diffusion in Online Social Networks</h3>
+
+<p>Online social networks has played a important role as a medium for information diffusion and it has been utilized as a platform for viral marketing through the power of &ldquo;word-of-mouth&rdquo;. As the essence of viral marketing applications is the information diffusion from a small number of individuals to the network by &ldquo;word-of-mouth&rdquo;, we address the problem of identifying a small number of individuals through whom the information can be diffused to the network quickly, referred as <em>diffusion minimization</em> problem. Unfortunately, the diffusion minimization problem under the probabilistic diffusion model can be formulated as an asymmetric <em>k</em>-center problem which is NP-hard and $\log^*n$-hard to approximate. To deal with this, we design a community based algorithm with better performance and less complexity. Unlike existing approximation algorithms, the community based algorithm, from the social point of view, leverages the community structure to solve the diffusion minimization problem, by deliberately selecting seed nodes from communities based their sociability.</p>
+
+<h3 id="network-skeleton">Network Skeleton</h3>
+
+<p>Community structure is a complex representation of a social network, where a community may largely overlap with other communities, and hence it is hard to determine whether these communities should be seen as individual communities or a single community. To provide a more simple and clear representation, we propose <em>network skeleton</em>, a tree structure specially designed for organizing network nodes, as the underlying structure in mobile social networks. Network skeleton is simple and easy to be uncovered, and we have proposed a lightweight algorithm that constructs skeleton based on best friendship and also adopts to dynamic networks. With skeleton, nodes can be easily connected or separated from other nodes, which better facilitates network designs. We have exploited network skeleton for designing a data forwarding algorithm and a worm containment strategy in mobile social networks.</p>
+
+        </div>
+        
+        <div>
+        <br>
+        <h3>Publications</h3>
+        
+        
+        
+        
+        
+        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-md-12">
+
+            <span itemprop="name">
+                <a href="https://z0ngqing.github.io/publication/percom13/" itemprop="url">[PerCom&#39;13] Community Detection in Weighted Networks: Algorithms and Applications</a>
+            </span>
+
+            <div class="pub-authors" itemprop="author">
+                
+                Zongqing Lu, Yonggang Wen, and Guohong Cao
+                
+            </div>
+
+            <div class="pub-publication">
+                
+                    In <em>Proceedings of IEEE International Conference on Pervasive Computing and Communications</em> (PerCom), March 18-22, 2013.
+                
+            </div>
+            <div class="pub-publication">
+                
+                    (Acceptance Rate: 15%=<sup>20</sup>&frasl;<sub>168</sub>)
+                
+            </div>
+
+
+        </div>
+    </div>
+</div>
+ </dl>
+        
+        
+        
+        
+        
+        
+        
+        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-md-12">
+
+            <span itemprop="name">
+                <a href="https://z0ngqing.github.io/publication/infocom14/" itemprop="url">[INFOCOM&#39;14] Information Diffusion in Mobile Social Networks: The Speed Perspective</a>
+            </span>
+
+            <div class="pub-authors" itemprop="author">
+                
+                Zongqing Lu, Yonggang Wen, and Guohong Cao
+                
+            </div>
+
+            <div class="pub-publication">
+                
+                    In <em>Proceedings of IEEE International Conference on Computer Communicaitons</em> (INFOCOM), April 27-May 2, 2014.
+                
+            </div>
+            <div class="pub-publication">
+                
+                    (Acceptance Rate: 19%=<sup>320</sup>&frasl;<sub>1645</sub>)
+                
+            </div>
+
+
+        </div>
+    </div>
+</div>
+ </dl>
+        
+        
+        
+        
+        
+        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-md-12">
+
+            <span itemprop="name">
+                <a href="https://z0ngqing.github.io/publication/secon14/" itemprop="url">[SECON&#39;14] Skeleton Construction in in Mobile Social Networks: Algorithms and Applications</a>
+            </span>
+
+            <div class="pub-authors" itemprop="author">
+                
+                Zongqing Lu, Xiao Sun, Yonggang Wen, and Guohong Cao
+                
+            </div>
+
+            <div class="pub-publication">
+                
+                    In <em>Proceedings of IEEE International Conference on Sensing, Communication and Networking</em> (SECON), June 30-July 3, 2014.
+                
+            </div>
+            <div class="pub-publication">
+                
+                    (Acceptance Rate: 20%=<sup>68</sup>&frasl;<sub>342</sub>)
+                
+            </div>
+
+
+        </div>
+    </div>
+</div>
+ </dl>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-md-12">
+
+            <span itemprop="name">
+                <a href="https://z0ngqing.github.io/publication/tpds15/" itemprop="url">[TPDS] Algorithms and Applications for Community Detection in Weighted Networks</a>
+            </span>
+
+            <div class="pub-authors" itemprop="author">
+                
+                Zongqing Lu, Xiao Sun, Yonggang Wen, Guohong Cao, and Thomas La Porta
+                
+            </div>
+
+            <div class="pub-publication">
+                
+                    <em>IEEE Transactions on Parallel and Distributed Systems</em>, vol. 26, no. 4, pp. 2916-2916, 2015.
+                
+            </div>
+            <div class="pub-publication">
+                
+            </div>
+
+
+        </div>
+    </div>
+</div>
+ </dl>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-md-12">
+
+            <span itemprop="name">
+                <a href="https://z0ngqing.github.io/publication/tmc15/" itemprop="url">[TMC] Towards Information Diffusion in Mobile Social Networks</a>
+            </span>
+
+            <div class="pub-authors" itemprop="author">
+                
+                Zongqing Lu, Yonggang Wen, Weizhan Zhang, Qinghua Zheng, and Guohong Cao
+                
+            </div>
+
+            <div class="pub-publication">
+                
+                    <em>IEEE Transactions on Mobile Computing</em>, vol. 15, no. 5, pp. 1292-1304, 2016.
+                
+            </div>
+            <div class="pub-publication">
+                
+            </div>
+
+
+        </div>
+    </div>
+</div>
+ </dl>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </div>
+    </article>
+    
+    <nav>
+    <ul class="pager">
+        
+
+        
+        <li class="next"><a href="https://z0ngqing.github.io/project/health/">Health Sensing Using Mobile Devices <span aria-hidden="true">&rarr;</span></a></li>
+        
+    </ul>
+</nav>
+
+
+</div>
+<footer class="site-footer">
+    <div class="container">
+        <p class="powered-by">
+
+            &copy; 2017 Zongqing Lu &middot; 
+
+            Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+            <span class="pull-right"><a href="#" id="back_to_top"><span class="button_icon"><i class="fa fa-chevron-up fa-2x" aria-hidden="true"></i></span></a></span>
+
+        </p>
+    </div>
+</footer>
+
+        <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+        <script src="https://z0ngqing.github.io/js/jquery-1.12.3.min.js"></script>
+        <script src="https://z0ngqing.github.io/js/bootstrap.min.js"></script>
+        <script src="https://z0ngqing.github.io/js/hugo-academic.js"></script>
+        
+
+        
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-88925956-1', 'auto');
+            ga('send', 'pageview');
+
+             
+            var links = document.querySelectorAll('a');
+            Array.prototype.map.call(links, function(item) {
+                if (item.host != document.location.host) {
+                    item.addEventListener('click', function() {
+                        var action = item.getAttribute('data-action') || 'follow';
+                        ga('send', 'event', 'outbound', action, item.href);
+                    });
+                }
+            });
+        </script>
+        
+
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.3.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script>
+
+        
+        
+        <script type="text/x-mathjax-config">
+            MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+        </script>
+        <script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+        
+
+    </body>
+</html>
+

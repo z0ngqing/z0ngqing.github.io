@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Offload on Zongqing&#39;s Homepage</title>
+    <link>https://z0ngqing.github.io/tags/data-offload/</link>
+    <description>Recent content in Data Offload on Zongqing&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Zongqing Lu</copyright>
+    <lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://z0ngqing.github.io/tags/data-offload/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building Smartphone Networks</title>
+      <link>https://z0ngqing.github.io/project/mobile/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/mobile/</guid>
+      <description>Smartphones have great networking capabilities. They can access the Internet through cellular networks or wireless access points and communicate with nearby devices using WiFi Direct or Bluetooth. However, these network functions may not work in some circumstances where cellular towers and network infrastructure are destroyed, e.g. in disaster recovery. Nevertheless, communications in such scenarios are very important, and hence, in this research, we aim to build smartphone networks to provide communications without relying on cellular networks, wireless access points, or network infrastructure.</description>
+    </item>
+    
+  </channel>
+</rss>

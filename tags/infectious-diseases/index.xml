@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infectious Diseases on Zongqing&#39;s Homepage</title>
+    <link>https://z0ngqing.github.io/tags/infectious-diseases/</link>
+    <description>Recent content in Infectious Diseases on Zongqing&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Zongqing Lu</copyright>
+    <lastBuildDate>Fri, 01 Aug 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://z0ngqing.github.io/tags/infectious-diseases/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Health Sensing Using Mobile Devices</title>
+      <link>https://z0ngqing.github.io/project/health/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/health/</guid>
+      <description>Mobile devices, such as smartphones, have become commonplace in health care settings, leading to the development of both platforms and applications for health care, e.g., HealthKit on iOS, where apps can collect users&amp;rsquo; health and activity data and the data will be used for medical research to bring more powerful health solutions. However, no data is collected for the research of infectious diseases. Moreover, currently, most health data are collected by manual input or external devices.</description>
+    </item>
+    
+  </channel>
+</rss>
