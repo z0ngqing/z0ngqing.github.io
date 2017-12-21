@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Zongqing Lu</copyright>
-    <lastBuildDate>Thu, 30 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Submitted to TMC] CrowdVision: A Computing Platform for Video Crowdprocessing Using Deep Learning</title>
+      <link>https://z0ngqing.github.io/publication/tmc18-crowdvision/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/tmc18-crowdvision/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[Submitted to TMC] Augur: Modeling the Resource Requirements of ConvNets on Mobile Devices</title>
