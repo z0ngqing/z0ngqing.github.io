@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Zongqing&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Zongqing Lu</copyright>
+    <copyright>&amp;copy; 2018 Zongqing Lu</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -27,8 +27,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/service/</guid>
-      <description> Technical Program Committee Member  MM 2017
- INFOCOM 2016
+      <description> Technical Program Committee Member  MM 2017 2018
+ INFOCOM 2016 2019
   Session Chair  INFOCOM 2016, Session of Online Social Networks  Conference Organization  ACM TURC 2018, Award Co-Chair  </description>
     </item>
     
@@ -40,8 +40,8 @@
       <guid>https://z0ngqing.github.io/home/about/</guid>
       <description>I am an Assistant Professor in the Department of Computer Science, Peking University.
 Before joining Peking University in 2017, I was a postdoc in the Department of Computer Science and Engineering, Pennsylvania State University. I received the PhD degree from Nanyang Technological University in 2014, master and bachelor degrees from Southeast University.
-Interests  Deep Learning Mobile/Edge AI Systems Networked Multimedia Systems  
-I am looking for self-motivated undergraduate and graduate students for research internships.</description>
+Interests  Mobile/Edge AI Systems Learning to Communicate  
+I am looking for self-motivated undergraduate students for research internships.</description>
     </item>
     
   </channel>
