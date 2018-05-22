@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edge Computing on Zongqing&#39;s Homepage</title>
+    <link>https://z0ngqing.github.io/tags/edge-computing/</link>
+    <description>Recent content in Edge Computing on Zongqing&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Zongqing Lu</copyright>
+    <lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://z0ngqing.github.io/tags/edge-computing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Distributed Video Processing Using Deep Learning on Networked Devices</title>
+      <link>https://z0ngqing.github.io/project/video/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/video/</guid>
+      <description>The vast adoption of mobile devices with cameras has greatly assisted in the proliferation of the creation and distribution of videos. Videos, which are a rich source of information, can be exploited for on-demand information retrieval. Deep learning using Convolutional Neural Networks (CNNs) is state of the art computer vision techniques that can be used for information retrieval. However, due to the high computation of video processing using CNNs, it is not feasible or costs too much to process all videos at a centralized entity, considering a large set of videos which is common in this big data epoch.</description>
+    </item>
+    
+  </channel>
+</rss>
