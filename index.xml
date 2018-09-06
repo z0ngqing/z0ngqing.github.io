@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Zongqing Lu</copyright>
-    <lastBuildDate>Tue, 28 Nov 2017 18:26:27 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 05 Sep 2018 09:26:27 -0400</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>One paper accepted at NIPS&#39;18</title>
+      <link>https://z0ngqing.github.io/news/nips18/</link>
+      <pubDate>Wed, 05 Sep 2018 09:26:27 -0400</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/nips18/</guid>
+      <description>Our paper &amp;ldquo;Learning Attentional Communication for Multiagent Cooperation&amp;rdquo; was accepted at the Thirty-Second Annual Conference on Neural Information Processing Systems (NIPS) 2018.</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at TMC</title>
+      <link>https://z0ngqing.github.io/news/tmc18-crowdvision/</link>
+      <pubDate>Fri, 27 Jul 2018 18:26:27 -0400</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/tmc18-crowdvision/</guid>
+      <description>Our paper &amp;ldquo;CrowdVision: A Computing Platform for Video Crowdprocessing Using Deep Learning&amp;rdquo; was accepted at IEEE Transactions on Mobile Computing.</description>
+    </item>
     
     <item>
       <title>One paper accepted at INFOCOM&#39;18</title>
@@ -96,48 +114,48 @@
     </item>
     
     <item>
-      <title>Learning Attentional Communication for Multi-Agent Cooperation</title>
-      <link>https://z0ngqing.github.io/publication/preprint-atoc/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <title>[NIPS&#39;18] Learning Attentional Communication for Multi-Agent Cooperation</title>
+      <link>https://z0ngqing.github.io/publication/nips18/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/publication/preprint-atoc/</guid>
+      <guid>https://z0ngqing.github.io/publication/nips18/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Learning to Communicate</title>
-      <link>https://z0ngqing.github.io/project/learning/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <title>[Submitted to TON] NetVision: On-demand Video Processing in Wireless Networks</title>
+      <link>https://z0ngqing.github.io/publication/ton18-netvision/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/project/learning/</guid>
-      <description>Biologically, communication is closely related to and probably originated from cooperation. For example, vervet monkeys can make different vocalizations to warn other members of the group about different predators. Similarly, communication can be crucially important in multi-agent reinforcement learning (MARL) for cooperation, especially for the scenarios where a large number of agents work in a collaborative way, such as autonomous vehicles planning, smart grid control, and multi-robot control. MARL can be simply seen as independent reinforcement learning (RL), where each learner treats the other agents as part of its environment.</description>
-    </item>
-    
-    <item>
-      <title>[Submitted to TMC] CrowdVision: A Computing Platform for Video Crowdprocessing Using Deep Learning</title>
-      <link>https://z0ngqing.github.io/publication/tmc18-crowdvision/</link>
-      <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/tmc18-crowdvision/</guid>
+      <guid>https://z0ngqing.github.io/publication/ton18-netvision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[Submitted to TMC] Augur: Modeling the Resource Requirements of ConvNets on Mobile Devices</title>
       <link>https://z0ngqing.github.io/publication/tmc18-augur/</link>
-      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/tmc18-augur/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[Submitted to TMC] NetVision: On-demand Video Processing in Wireless Networks</title>
-      <link>https://z0ngqing.github.io/publication/tmc18-netvision/</link>
-      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      <title>[TMC] CrowdVision: A Computing Platform for Video Crowdprocessing Using Deep Learning</title>
+      <link>https://z0ngqing.github.io/publication/tmc18-crowdvision/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/publication/tmc18-netvision/</guid>
+      <guid>https://z0ngqing.github.io/publication/tmc18-crowdvision/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Cooperate</title>
+      <link>https://z0ngqing.github.io/project/learning/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/learning/</guid>
+      <description>Biologically, communication is closely related to and probably originated from cooperation. For example, vervet monkeys can make different vocalizations to warn other members of the group about different predators. Similarly, communication can be crucially important in multi-agent reinforcement learning (MARL) for cooperation, especially for the scenarios where a large number of agents work in a collaborative way, such as autonomous vehicles planning, smart grid control, and multi-robot control. MARL can be simply seen as independent reinforcement learning (RL), where each learner treats the other agents as part of its environment.</description>
     </item>
     
     <item>
@@ -229,7 +247,7 @@
       <guid>https://z0ngqing.github.io/home/about/</guid>
       <description>I am an Assistant Professor in the Department of Computer Science, Peking University.
 Before joining Peking University in 2017, I was a postdoc in the Department of Computer Science and Engineering, Pennsylvania State University. I received the PhD degree from Nanyang Technological University in 2014, master and bachelor degrees from Southeast University.
-Interests  Mobile/Edge AI Systems Learning to Communicate  
+Interests  Mobile/Edge AI Systems Learning to Cooperate  
 I am looking for self-motivated undergraduate students for research internships.</description>
     </item>
     

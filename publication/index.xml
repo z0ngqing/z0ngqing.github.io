@@ -7,44 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Zongqing Lu</copyright>
-    <lastBuildDate>Sun, 20 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Learning Attentional Communication for Multi-Agent Cooperation</title>
-      <link>https://z0ngqing.github.io/publication/preprint-atoc/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <title>[NIPS&#39;18] Learning Attentional Communication for Multi-Agent Cooperation</title>
+      <link>https://z0ngqing.github.io/publication/nips18/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/publication/preprint-atoc/</guid>
+      <guid>https://z0ngqing.github.io/publication/nips18/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[Submitted to TMC] CrowdVision: A Computing Platform for Video Crowdprocessing Using Deep Learning</title>
-      <link>https://z0ngqing.github.io/publication/tmc18-crowdvision/</link>
-      <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
+      <title>[Submitted to TON] NetVision: On-demand Video Processing in Wireless Networks</title>
+      <link>https://z0ngqing.github.io/publication/ton18-netvision/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/publication/tmc18-crowdvision/</guid>
+      <guid>https://z0ngqing.github.io/publication/ton18-netvision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[Submitted to TMC] Augur: Modeling the Resource Requirements of ConvNets on Mobile Devices</title>
       <link>https://z0ngqing.github.io/publication/tmc18-augur/</link>
-      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/tmc18-augur/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[Submitted to TMC] NetVision: On-demand Video Processing in Wireless Networks</title>
-      <link>https://z0ngqing.github.io/publication/tmc18-netvision/</link>
-      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      <title>[TMC] CrowdVision: A Computing Platform for Video Crowdprocessing Using Deep Learning</title>
+      <link>https://z0ngqing.github.io/publication/tmc18-crowdvision/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/publication/tmc18-netvision/</guid>
+      <guid>https://z0ngqing.github.io/publication/tmc18-crowdvision/</guid>
       <description></description>
     </item>
     
