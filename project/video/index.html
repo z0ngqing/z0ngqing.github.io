@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme" content="hugo-academic">
-    <meta name="generator" content="Hugo 0.31.1" />
+    <meta name="generator" content="Hugo 0.48" />
     <meta name="author" content="Zongqing Lu">
     <meta name="description" content="Assistant Professor">
 
@@ -111,13 +111,14 @@
 
 <p>First, we consider on-demand information retrieval from videos stored across a wireless network, where network devices may different computation capabilities, <em>e.g.</em>, computers with a much powerful GPU can significantly accelerate video processing using deep learning. An example application scenario is wireless surveillance systems, where camera devices and more computationally capable computers are deployed to record, store and process videos.</p>
 
-<p>We has designed and built NetVision, a distributed video processing system using deep learning in a wireless network. NetVision takes information queries, filters out stored videos based on metadata, performs CNNs based video processing, balances the computing workload among network devices by computation offload (<em>i.e.</em>, videos can be uploaded to more computationally capable devices). We designed the algorithm that determines the near-optimal video allocation to minimize the overall video processing time, considering the limitations of wireless channels. We has implemented and evaluated NetVision on a small testbed and built an emulation environment of both real devices and virtual devices for large-scale experiments.</p>
+<p><img style="float: left;  margin: 10px 20px 0px 0px;" src = "/img/project/netvision.png" width="380" class="article-style" itemprop="image">
+We has designed and built NetVision, a distributed video processing system using deep learning in a wireless network. NetVision takes information queries, filters out stored videos based on metadata, performs CNNs based video processing, balances the computing workload among network devices by computation offload (<em>i.e.</em>, videos can be uploaded to more computationally capable devices). We designed the algorithm that determines the near-optimal video allocation to minimize the overall video processing time, considering the limitations of wireless channels. We has implemented and evaluated NetVision on a small testbed and built an emulation environment of both real devices and virtual devices for large-scale experiments.</p>
 
 <h3 id="crowdvision">CrowdVision</h3>
 
 <p>Then, we consider an application scenario for large-scale videos, <em>e.g.</em>, municipal agencies ask the public to assist in identifying terrorists or criminals through scanning of their videos that may capture suspects, as the FBI did after the Boston Marathon bombing. We propose a much smarter and more automatic way to handle this using deep learning. We also allow individuals to process some of the data rather than having a centralized entity process everything, which we call <em>crowdprocessing</em>.</p>
 
-<p><img style="float: right;  margin: 10px 0px 0px 10px;" src = "/img/project/deCaffe-overview.png" width="400" class="article-style" itemprop="image">
+<p><img style="float: right;  margin: 10px 0px 10px 20px;" src = "/img/project/crowdvision.png" width="400" class="article-style" itemprop="image">
 We designed and built CrowdVision, a system that enables smartphones to crowdprocess videos using deep learning framework <em>Caffe</em> in a distributed and energy-efficient way, leveraging cloud offload under different network connections. CrowdVision is built as a computing platform to quickly and efficiently retrieve information from big video data. It breaks down the workflow of video processing using Caffe, characterizes the computing of CNNs, considers the data and energy usage constraints imposed by users, and determines whether or at which step to offload computation so as to optimize the performance. We have implemented CrowdVision as an Android app and evaluated it on an off-the-shelf smartphone to confirm the performance gains for video crowdprocessing.</p>
 
         </div>
@@ -350,6 +351,10 @@ We designed and built CrowdVision, a system that enables smartphones to crowdpro
     </div>
 </div>
  </dl>
+        
+        
+        
+        
         
         
         

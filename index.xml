@@ -18,7 +18,7 @@
       <pubDate>Wed, 05 Sep 2018 09:26:27 -0400</pubDate>
       
       <guid>https://z0ngqing.github.io/news/nips18/</guid>
-      <description>Our paper &amp;ldquo;Learning Attentional Communication for Multiagent Cooperation&amp;rdquo; was accepted at the Thirty-Second Annual Conference on Neural Information Processing Systems (NIPS) 2018.</description>
+      <description>Our paper &amp;ldquo;Learning Attentional Communication for Multiagent Cooperation&amp;rdquo; was accepted at NIPS&amp;rsquo;18. Congratulations to Jiechuan Jiang.</description>
     </item>
     
     <item>
@@ -114,11 +114,11 @@
     </item>
     
     <item>
-      <title>[NIPS&#39;18] Learning Attentional Communication for Multi-Agent Cooperation</title>
-      <link>https://z0ngqing.github.io/publication/nips18/</link>
+      <title>Graph Convolutional Reinforcement Learning for Multi-Agent Cooperation</title>
+      <link>https://z0ngqing.github.io/publication/preprint-dgn/</link>
       <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/publication/nips18/</guid>
+      <guid>https://z0ngqing.github.io/publication/preprint-dgn/</guid>
       <description></description>
     </item>
     
@@ -128,6 +128,15 @@
       <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/ton18-netvision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NIPS&#39;18] Learning Attentional Communication for Multi-Agent Cooperation</title>
+      <link>https://z0ngqing.github.io/publication/nips18/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/nips18/</guid>
       <description></description>
     </item>
     
@@ -155,7 +164,7 @@
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/project/learning/</guid>
-      <description>Biologically, communication is closely related to and probably originated from cooperation. For example, vervet monkeys can make different vocalizations to warn other members of the group about different predators. Similarly, communication can be crucially important in multi-agent reinforcement learning (MARL) for cooperation, especially for the scenarios where a large number of agents work in a collaborative way, such as autonomous vehicles planning, smart grid control, and multi-robot control. MARL can be simply seen as independent reinforcement learning (RL), where each learner treats the other agents as part of its environment.</description>
+      <description>ATOC Biologically, communication is closely related to and probably originated from cooperation. For example, vervet monkeys can make different vocalizations to warn other members of the group about different predators. Similarly, communication can be crucially important in multi-agent reinforcement learning (MARL) for cooperation, especially for the scenarios where a large number of agents work in a collaborative way, such as autonomous vehicles planning, smart grid control, and multi-robot control. MARL can be simply seen as independent reinforcement learning (RL), where each learner treats the other agents as part of its environment.</description>
     </item>
     
     <item>
@@ -247,7 +256,7 @@
       <guid>https://z0ngqing.github.io/home/about/</guid>
       <description>I am an Assistant Professor in the Department of Computer Science, Peking University.
 Before joining Peking University in 2017, I was a postdoc in the Department of Computer Science and Engineering, Pennsylvania State University. I received the PhD degree from Nanyang Technological University in 2014, master and bachelor degrees from Southeast University.
-Interests  Mobile/Edge AI Systems Learning to Cooperate  
+Interests  Learning to Cooperate Mobile/Edge AI Systems  
 I am looking for self-motivated undergraduate students for research internships.</description>
     </item>
     

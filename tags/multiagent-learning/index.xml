@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multiagent Learning on Zongqing&#39;s Homepage</title>
+    <link>https://z0ngqing.github.io/tags/multiagent-learning/</link>
+    <description>Recent content in Multiagent Learning on Zongqing&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Zongqing Lu</copyright>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://z0ngqing.github.io/tags/multiagent-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning to Cooperate</title>
+      <link>https://z0ngqing.github.io/project/learning/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/learning/</guid>
+      <description>ATOC Biologically, communication is closely related to and probably originated from cooperation. For example, vervet monkeys can make different vocalizations to warn other members of the group about different predators. Similarly, communication can be crucially important in multi-agent reinforcement learning (MARL) for cooperation, especially for the scenarios where a large number of agents work in a collaborative way, such as autonomous vehicles planning, smart grid control, and multi-robot control. MARL can be simply seen as independent reinforcement learning (RL), where each learner treats the other agents as part of its environment.</description>
+    </item>
+    
+  </channel>
+</rss>

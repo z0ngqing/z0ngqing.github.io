@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="theme" content="hugo-academic">
-    <meta name="generator" content="Hugo 0.31.1" />
+    <meta name="generator" content="Hugo 0.48" />
     <meta name="author" content="Zongqing Lu">
     <meta name="description" content="Assistant Professor">
 
@@ -89,7 +89,7 @@
         
         <a class="article-tag-link" href="https://z0ngqing.github.io/tags/reinforcement-learning">Reinforcement Learning</a>, 
         
-        <a class="article-tag-link" href="https://z0ngqing.github.io/tags/deep-learning">Deep Learning</a>
+        <a class="article-tag-link" href="https://z0ngqing.github.io/tags/multiagent-learning">Multiagent Learning</a>
         
     </span>
     
@@ -105,13 +105,21 @@
         <div align="justify" class="article-style" itemprop="articleBody">
             
 
-<p>Biologically, communication is closely related to and probably originated from cooperation. For example, vervet monkeys can make different vocalizations to warn other members of the group about different predators. Similarly, communication can be crucially important in multi-agent reinforcement learning (MARL) for cooperation, especially for the scenarios where a large number of agents work in a collaborative way, such as autonomous vehicles planning, smart grid control, and multi-robot control. MARL can be simply seen as independent reinforcement learning (RL), where each learner treats the other agents as part of its environment. However, the strategies of other agents are uncertain and changing as training progresses, so the environment becomes unstable from the perspective of any individual agent and thus it is hard for agents to collaborate. Moreover, policies learned using independent RL can easily overfit to the other agents&rsquo; policies. The aim of this project is to enable agents to learn communication for cooperation in MARL.</p>
-
 <h3 id="atoc">ATOC</h3>
+
+<p><img style="float: right;  margin: 10px 0px 0px 20px;" src = "/img/project/atoc.png" width="250" class="article-style" itemprop="image">
+Biologically, communication is closely related to and probably originated from cooperation. For example, vervet monkeys can make different vocalizations to warn other members of the group about different predators. Similarly, communication can be crucially important in multi-agent reinforcement learning (MARL) for cooperation, especially for the scenarios where a large number of agents work in a collaborative way, such as autonomous vehicles planning, smart grid control, and multi-robot control. MARL can be simply seen as independent reinforcement learning (RL), where each learner treats the other agents as part of its environment. However, the strategies of other agents are uncertain and changing as training progresses, so the environment becomes unstable from the perspective of any individual agent and thus it is hard for agents to collaborate. Moreover, policies learned using independent RL can easily overfit to the other agents&rsquo; policies. The aim of this project is to enable agents to learn communication for cooperation in MARL.</p>
 
 <p>There are several approaches for learning communication in MARL. However, information sharing among all agents or in predefined communication architectures that existing methods adopt can be problematic. When there is a large number of agents, agents hardly differentiate valuable information that helps cooperative decision making from globally shared information, and hence communication barely helps and could even jeopardize the learning of cooperation. Moreover, in real-world applications, it is costly that all agents communicate with each other, since receiving a large amount of information requires high bandwidth and incurs long delay and high computational complexity. Predefined communication architectures might help, however they restrict communication among specific agents and thus restrain potential cooperation.</p>
 
 <p>To tackle these difficulties, we propose an attentional communication model, ATOC, to enable agents to learn effective and efficient communication under partially observable distributed environment for large-scale MARL. Inspired by recurrent models of visual attention, we design an attention unit that receives encoded local observation and action intention of an agent and determines whether the agent should communicate with other agents to cooperate in its observable field. If so, the agent, called <em>initiator</em>, selects collaborators to form a communication group for coordinated strategies. The communication group dynamically changes and retains only when necessary. We exploit a bi-directional LSTM unit as the communication channel to connect each agent within a communication group. The LSTM unit takes as input internal states and returns thoughts that guide agents for coordinated strategies. The LSTM unit selectively outputs important information for cooperative decision making, which makes it possible for agents to learn coordinated strategies in dynamic communication environments. ATOC agents are able to develop coordinated and sophisticated strategies in various cooperation scenarios.</p>
+
+<h3 id="dgn">DGN</h3>
+
+<p><img style="float: right;  margin: 10px 0px 0px 20px;" src = "/img/project/dgn.png" width="420" class="article-style" itemprop="image">
+In multiagent environments, agents are related with each other and agents and their relations can be represented by a graph. Inspired by convolution, we apply convolution operations to the graph of agents for cooperative tasks, where each agent is a node, each node connects to its neighbors, and the local observation of agent is the attributes of node. By using multi-head attention as the convolution kernel, graph convolution is able to extract relation representations, and features from neighboring nodes can be integrated just like the receptive field of a neuron in a normal convolutional neural network. High-order features extracted from gradually increased receptive fields are exploited to learn cooperative strategies. The gradient of an agent not only backpropagates to itself but also to other agents in its receptive fields to reinforce the learned cooperative strategies. Moreover, the relation representations are temporally regularized to make cooperation more consistent.</p>
+
+<p>Our graph convolutional model, DGN, is instantiated as an extension of deep Q network and trained end-to-end, adopting the paradigm of centralized training and distributed execution. DGN abstracts the influence between agents by relation kernels, extracts latent features by convolution, and induces consistent cooperation by temporal relation regularization. Moreover, as DGN shares weights among all agents, it is easy to scale, better suited in large-scale MARL. We empirically show the learning effectiveness of DGN in <em>jungle</em> and <em>battle</em> games and <em>routing</em> in packet switching networks. It is demonstrated DGN agents are able to develop more cooperative and sophisticated strategies than existing methods. To the best of our knowledge, this is the first time that graph convolution is successfully applied to MARL.</p>
 
         </div>
         
@@ -219,6 +227,39 @@
             <div class="pub-publication">
                 
                     (Acceptance Rate: 21%=<sup>1011</sup>&frasl;<sub>4856</sub>)
+                
+            </div>
+
+
+        </div>
+    </div>
+</div>
+ </dl>
+        
+        
+        
+        
+        
+        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-md-12">
+
+            <span itemprop="name">
+                <a href="https://z0ngqing.github.io/publication/preprint-dgn/" itemprop="url">Graph Convolutional Reinforcement Learning for Multi-Agent Cooperation</a>
+            </span>
+
+            <div class="pub-authors" itemprop="author">
+                
+                Jiechuan Jiang, Chen Dun, and Zongqing Lu
+                
+            </div>
+
+            <div class="pub-publication">
+                
+                    <em>arXiv Preprint</em>
+                
+            </div>
+            <div class="pub-publication">
                 
             </div>
 

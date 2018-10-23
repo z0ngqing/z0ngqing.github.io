@@ -18,7 +18,7 @@
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/project/learning/</guid>
-      <description>Biologically, communication is closely related to and probably originated from cooperation. For example, vervet monkeys can make different vocalizations to warn other members of the group about different predators. Similarly, communication can be crucially important in multi-agent reinforcement learning (MARL) for cooperation, especially for the scenarios where a large number of agents work in a collaborative way, such as autonomous vehicles planning, smart grid control, and multi-robot control. MARL can be simply seen as independent reinforcement learning (RL), where each learner treats the other agents as part of its environment.</description>
+      <description>ATOC Biologically, communication is closely related to and probably originated from cooperation. For example, vervet monkeys can make different vocalizations to warn other members of the group about different predators. Similarly, communication can be crucially important in multi-agent reinforcement learning (MARL) for cooperation, especially for the scenarios where a large number of agents work in a collaborative way, such as autonomous vehicles planning, smart grid control, and multi-robot control. MARL can be simply seen as independent reinforcement learning (RL), where each learner treats the other agents as part of its environment.</description>
     </item>
     
     <item>
