@@ -20,9 +20,9 @@
 
 
     <link rel="shortcut icon" href="https://z0ngqing.github.io/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" href="https://z0ngqing.github.io/publication/preprint-dgn/">
+    <link rel="canonical" href="https://z0ngqing.github.io/publication/preprint-gene/">
 
-    <title>[Preprint] Graph Convolutional Reinforcement Learning for Multi-Agent Cooperation | Zongqing&#39;s Homepage</title>
+    <title>[Preprint] Generative Exploration and Exploitation | Zongqing&#39;s Homepage</title>
 
 </head>
 <body id="top">
@@ -72,10 +72,10 @@
 
     <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
         <div class="pub-title">
-            <h1 itemprop="name">[Preprint] Graph Convolutional Reinforcement Learning for Multi-Agent Cooperation</h1>
+            <h1 itemprop="name">[Preprint] Generative Exploration and Exploitation</h1>
             <span class="pub-authors" itemprop="author">
                 
-                Jiechuan Jiang, Chen Dun, and Zongqing Lu
+                Jiechuan Jiang and Zongqing Lu
                 
             </span>
             <span class="pull-right">
@@ -83,27 +83,27 @@
 <div class="share-box">
     <ul class="share">
         <li>
-            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fpreprint-dgn%2f" target="_blank">
+            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fpreprint-gene%2f" target="_blank">
                 <i class="fa fa-facebook"></i>
             </a>
         </li>
         <li>
-            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bPreprint%5d%20Graph%20Convolutional%20Reinforcement%20Learning%20for%20Multi-Agent%20Cooperation&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fpreprint-dgn%2f" target="_blank">
+            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bPreprint%5d%20Generative%20Exploration%20and%20Exploitation&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fpreprint-gene%2f" target="_blank">
                 <i class="fa fa-twitter"></i>
             </a>
         </li>
         <li>
-            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fpreprint-dgn%2f&amp;title=%5bPreprint%5d%20Graph%20Convolutional%20Reinforcement%20Learning%20for%20Multi-Agent%20Cooperation" target="_blank">
+            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fpreprint-gene%2f&amp;title=%5bPreprint%5d%20Generative%20Exploration%20and%20Exploitation" target="_blank">
                 <i class="fa fa-linkedin"></i>
             </a>
         </li>
         <li>
-            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fpreprint-dgn%2f&amp;title=%5bPreprint%5d%20Graph%20Convolutional%20Reinforcement%20Learning%20for%20Multi-Agent%20Cooperation" target="_blank">
+            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fpreprint-gene%2f&amp;title=%5bPreprint%5d%20Generative%20Exploration%20and%20Exploitation" target="_blank">
                 <i class="fa fa-weibo"></i>
             </a>
         </li>
         <li>
-            <a class="email" href="mailto:?subject=%5bPreprint%5d%20Graph%20Convolutional%20Reinforcement%20Learning%20for%20Multi-Agent%20Cooperation&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fpreprint-dgn%2f">
+            <a class="email" href="mailto:?subject=%5bPreprint%5d%20Generative%20Exploration%20and%20Exploitation&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fpreprint-gene%2f">
                 <i class="fa fa-envelope"></i>
             </a>
         </li>
@@ -118,7 +118,7 @@
 
         <h3>Abstract</h3>
 
-	<p align="justify" class="pub-abstract" itemprop="text">Learning to cooperate is crucially important in multi-agent reinforcement learning. The key is to take the influence of other agents into consideration when performing distributed decision making. However, multi-agent environment is highly dynamic, which makes it hard to learn abstract representations of influences between agents by only low-order features that existing methods exploit. In this paper, we propose a graph convolutional model for multi-agent cooperation. The graph convolution architecture adapts to the dynamics of the underlying graph of the multi-agent environment, where the influence among agents is captured by their abstract relation representations. High-order features extracted by relation kernels of convolutional layers from gradually increased receptive fields are exploited to learn cooperative strategies. The gradient of an agent not only backpropagates to itself but also to other agents in its receptive fields to reinforce the learned cooperative strategies. Moreover, the relation representations are temporally regularized to make the cooperation more consistent. %Empirically, we show the learning effectiveness of our model in three cooperative scenarios, where agents are able to develop more cooperative and sophisticated strategies than existing methods. Empirically, we show that our model enables agents to develop more cooperative and sophisticated strategies than existing methods in jungle and battle games and routing in packet switching networks.</p>
+	<p align="justify" class="pub-abstract" itemprop="text">Sparse reward is one of the biggest challenges in reinforcement learning (RL). In this paper, we propose a novel method called Generative Exploration and Exploitation (GENE) to overcome sparse reward. GENE dynamically changes the start state of agent to the generated novel state to encourage the agent to explore the environment or to the generated rewarding state to boost the agent to exploit the received reward signal. GENE relies on no prior knowledge about the environment and can be combined with any RL algorithm, no matter on-policy or off-policy, single-agent or multi-agent. Empirically, we demonstrate that GENE significantly outperforms existing methods in four challenging tasks with only binary rewards indicating whether or not the task is completed, including Maze, Goal Ant, Pushing, and Cooperative Navigation. The ablation studies verify that GENE can adaptively tradeoff between exploration and exploitation as the learning progresses by automatically adjusting the proportion between generated novel states and rewarding states, which is the key for GENE to solving these challenging tasks effectively and efficiently.</p>
 
         <div class="row">
             <div class="col-sm-1"></div>
@@ -137,7 +137,7 @@
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
-                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">September, 2018</div>
+                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">May, 2019</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -156,10 +156,10 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://z0ngqing.github.io/paper/preprint-jiechuan18.pdf">PDF</a>
+<a class="btn btn-primary btn-outline" href="https://z0ngqing.github.io/paper/preprint-gene.pdf">PDF</a>
 
-<a class="btn btn-primary btn-outline" href="https://goo.gl/AFV9qi">Video</a>
-<a class="btn btn-primary btn-outline" href="https://github.com/PKU-AI-Edge/GraphConv4MARL">Code</a>
+
+
 
 <a class="btn btn-primary btn-outline" href="https://z0ngqing.github.io/project/learning/">Project</a>
 
@@ -182,11 +182,9 @@
     <nav>
     <ul class="pager">
         
-        <li class="previous"><a href="https://z0ngqing.github.io/publication/ton18-netvision/"><span aria-hidden="true">&larr;</span> [Submitted to TON] NetVision: On-demand Video Processing in Wireless Networks</a></li>
+        <li class="previous"><a href="https://z0ngqing.github.io/publication/preprint-dgn/"><span aria-hidden="true">&larr;</span> [Preprint] Graph Convolutional Reinforcement Learning for Multi-Agent Cooperation</a></li>
         
 
-        
-        <li class="next"><a href="https://z0ngqing.github.io/publication/preprint-gene/">[Preprint] Generative Exploration and Exploitation <span aria-hidden="true">&rarr;</span></a></li>
         
     </ul>
 </nav>

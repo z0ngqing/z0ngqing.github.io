@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Zongqing Lu</copyright>
-    <lastBuildDate>Thu, 06 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Preprint] Generative Exploration and Exploitation</title>
+      <link>https://z0ngqing.github.io/publication/preprint-gene/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/preprint-gene/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[Preprint] Graph Convolutional Reinforcement Learning for Multi-Agent Cooperation</title>
