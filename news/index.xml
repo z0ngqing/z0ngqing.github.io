@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Zongqing Lu</copyright>
-    <lastBuildDate>Wed, 05 Sep 2018 09:26:27 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2019 09:26:27 -0400</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GENE accepted at ERL&#39;19 as a Spotlight Talk</title>
+      <link>https://z0ngqing.github.io/news/erl19/</link>
+      <pubDate>Mon, 27 May 2019 09:26:27 -0400</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/erl19/</guid>
+      <description>Our paper &amp;ldquo;Generative Exploration and Exploitation&amp;rdquo; was accepted at ICML&amp;rsquo;19 Workshop on Exploration in Reinforcement Learning (ERL&amp;rsquo;19) as a Spotlight Talk.</description>
+    </item>
     
     <item>
       <title>One paper accepted at NIPS&#39;18</title>

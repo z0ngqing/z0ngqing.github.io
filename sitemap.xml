@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://z0ngqing.github.io/news/erl19/</loc>
+    <lastmod>2019-05-27T09:26:27-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://z0ngqing.github.io/news/nips18/</loc>
     <lastmod>2018-09-05T09:26:27-04:00</lastmod>
   </url>
@@ -55,6 +60,11 @@
   <url>
     <loc>https://z0ngqing.github.io/home/service/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/preprint-fen/</loc>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -273,7 +283,7 @@
   
   <url>
     <loc>https://z0ngqing.github.io/news/</loc>
-    <lastmod>2018-09-05T09:26:27-04:00</lastmod>
+    <lastmod>2019-05-27T09:26:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -291,7 +301,7 @@
   
   <url>
     <loc>https://z0ngqing.github.io/publication/</loc>
-    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -333,7 +343,7 @@
   
   <url>
     <loc>https://z0ngqing.github.io/</loc>
-    <lastmod>2018-09-05T09:26:27-04:00</lastmod>
+    <lastmod>2019-05-27T09:26:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   

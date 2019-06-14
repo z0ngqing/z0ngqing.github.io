@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Zongqing Lu</copyright>
-    <lastBuildDate>Wed, 05 Sep 2018 09:26:27 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2019 09:26:27 -0400</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GENE accepted at ERL&#39;19 as a Spotlight Talk</title>
+      <link>https://z0ngqing.github.io/news/erl19/</link>
+      <pubDate>Mon, 27 May 2019 09:26:27 -0400</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/erl19/</guid>
+      <description>Our paper &amp;ldquo;Generative Exploration and Exploitation&amp;rdquo; was accepted at ICML&amp;rsquo;19 Workshop on Exploration in Reinforcement Learning (ERL&amp;rsquo;19) as a Spotlight Talk.</description>
+    </item>
     
     <item>
       <title>One paper accepted at NIPS&#39;18</title>
@@ -111,6 +120,15 @@
       <description> Technical Program Committee Member  INFOCOM 2016 2019 2020
  MM 2017 2018
   Session Chair  INFOCOM 2016, Session of Online Social Networks  Conference Organization  ACM TURC 2018, Award Co-Chair  </description>
+    </item>
+    
+    <item>
+      <title>[Preprint] Learning Fairness in Multi-Agent Systems</title>
+      <link>https://z0ngqing.github.io/publication/preprint-fen/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/preprint-fen/</guid>
+      <description></description>
     </item>
     
     <item>
