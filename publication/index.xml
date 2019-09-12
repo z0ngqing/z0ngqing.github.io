@@ -7,17 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Zongqing Lu</copyright>
-    <lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>[Preprint] Learning Fairness in Multi-Agent Systems</title>
-      <link>https://z0ngqing.github.io/publication/preprint-fen/</link>
-      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <title>[NIPS&#39;19] Learning Fairness in Multi-Agent Systems</title>
+      <link>https://z0ngqing.github.io/publication/nips19/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/publication/preprint-fen/</guid>
+      <guid>https://z0ngqing.github.io/publication/nips19/</guid>
       <description></description>
     </item>
     

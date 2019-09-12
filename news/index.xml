@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Zongqing Lu</copyright>
-    <lastBuildDate>Mon, 27 May 2019 09:26:27 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2019 09:26:27 -0400</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>One paper accepted at NIPS&#39;19</title>
+      <link>https://z0ngqing.github.io/news/nips19/</link>
+      <pubDate>Thu, 05 Sep 2019 09:26:27 -0400</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/nips19/</guid>
+      <description>Our paper &amp;ldquo;Learning Fairness in Multi-Agent Systems&amp;rdquo; was accepted at NIPS&amp;rsquo;19. Congratulations to Jiechuan Jiang.</description>
+    </item>
     
     <item>
       <title>GENE accepted at ERL&#39;19 as a Spotlight Talk</title>
