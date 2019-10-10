@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Zongqing Lu</copyright>
-    <lastBuildDate>Thu, 05 Sep 2019 09:26:27 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2019 18:26:27 -0400</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>One paper accepted at TMC</title>
+      <link>https://z0ngqing.github.io/news/tmc19-augur/</link>
+      <pubDate>Wed, 09 Oct 2019 18:26:27 -0400</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/tmc19-augur/</guid>
+      <description>Our paper &amp;ldquo;Augur: Modeling the Resource Requirements of ConvNets on Mobile Devices&amp;rdquo; was accepted at IEEE Transactions on Mobile Computing.</description>
+    </item>
     
     <item>
       <title>One paper accepted at NIPS&#39;19</title>
