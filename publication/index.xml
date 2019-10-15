@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Zongqing Lu</copyright>
-    <lastBuildDate>Wed, 09 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Submitted to TON] NetVision: On-demand Video Processing in Wireless Networks</title>
+      <link>https://z0ngqing.github.io/publication/ton18-netvision/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/ton18-netvision/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[TMC] Augur: Modeling the Resource Requirements of ConvNets on Mobile Devices</title>
@@ -45,15 +54,6 @@
       <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/preprint-dgn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Submitted to TON] NetVision: On-demand Video Processing in Wireless Networks</title>
-      <link>https://z0ngqing.github.io/publication/ton18-netvision/</link>
-      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/ton18-netvision/</guid>
       <description></description>
     </item>
     
@@ -103,15 +103,6 @@
     </item>
     
     <item>
-      <title>[TPDS] Cluster-Aware Virtual Machine Collaborative Migration in Media Cloud</title>
-      <link>https://z0ngqing.github.io/publication/tpds17/</link>
-      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/tpds17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>[TMC] TeamPhone: Networking Smartphones for Disaster Recovery</title>
       <link>https://z0ngqing.github.io/publication/tmc17/</link>
       <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
@@ -135,15 +126,6 @@
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/tmc15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Access] Infectious Disease Containment Based on a Wireless Sensor System</title>
-      <link>https://z0ngqing.github.io/publication/access16/</link>
-      <pubDate>Fri, 29 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/access16/</guid>
       <description></description>
     </item>
     
@@ -234,15 +216,6 @@
       <pubDate>Mon, 18 Mar 2013 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/percom13/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[MASS&#39;12] Credit Routing for Source-location Privacy Protection in Wireless Sensor Networks</title>
-      <link>https://z0ngqing.github.io/publication/mass12/</link>
-      <pubDate>Mon, 08 Oct 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/mass12/</guid>
       <description></description>
     </item>
     
