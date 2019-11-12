@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Zongqing Lu</copyright>
-    <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[AAAI&#39;20] Generative Exploration and Exploitation</title>
+      <link>https://z0ngqing.github.io/publication/aaai20/</link>
+      <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/aaai20/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[Submitted to TON] NetVision: On-demand Video Processing in Wireless Networks</title>
@@ -36,15 +45,6 @@
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/nips19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Preprint] Generative Exploration and Exploitation</title>
-      <link>https://z0ngqing.github.io/publication/preprint-gene/</link>
-      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/preprint-gene/</guid>
       <description></description>
     </item>
     
