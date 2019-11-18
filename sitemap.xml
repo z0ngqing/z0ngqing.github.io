@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://z0ngqing.github.io/news/ton19-netvision/</loc>
+    <lastmod>2019-11-17T18:26:27-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://z0ngqing.github.io/news/aaai20/</loc>
     <lastmod>2019-11-12T01:26:27-04:00</lastmod>
   </url>
@@ -78,13 +83,13 @@
   </url>
   
   <url>
-    <loc>https://z0ngqing.github.io/publication/aaai20/</loc>
-    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
+    <loc>https://z0ngqing.github.io/publication/ton19/</loc>
+    <lastmod>2019-11-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://z0ngqing.github.io/publication/ton18-netvision/</loc>
-    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
+    <loc>https://z0ngqing.github.io/publication/aaai20/</loc>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -283,7 +288,7 @@
   
   <url>
     <loc>https://z0ngqing.github.io/news/</loc>
-    <lastmod>2019-11-12T01:26:27-04:00</lastmod>
+    <lastmod>2019-11-17T18:26:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -301,7 +306,7 @@
   
   <url>
     <loc>https://z0ngqing.github.io/publication/</loc>
-    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -343,7 +348,7 @@
   
   <url>
     <loc>https://z0ngqing.github.io/</loc>
-    <lastmod>2019-11-12T01:26:27-04:00</lastmod>
+    <lastmod>2019-11-17T18:26:27-04:00</lastmod>
     <priority>0</priority>
   </url>
   
