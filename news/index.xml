@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Zongqing Lu</copyright>
-    <lastBuildDate>Mon, 18 Nov 2019 18:26:27 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2019 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>One paper accepted at ICLR&#39;20</title>
+      <link>https://z0ngqing.github.io/news/iclr20/</link>
+      <pubDate>Fri, 20 Dec 2019 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/iclr20/</guid>
+      <description>Our paper &amp;ldquo;Graph Convolutional Reinforcement Learning&amp;rdquo; was accepted at ICLR&amp;rsquo;20. Congratulations to Jiechuan Jiang.</description>
+    </item>
     
     <item>
       <title>One paper accepted at TON</title>

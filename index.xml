@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Zongqing Lu</copyright>
-    <lastBuildDate>Mon, 18 Nov 2019 18:26:27 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2019 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>One paper accepted at ICLR&#39;20</title>
+      <link>https://z0ngqing.github.io/news/iclr20/</link>
+      <pubDate>Fri, 20 Dec 2019 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/iclr20/</guid>
+      <description>Our paper &amp;ldquo;Graph Convolutional Reinforcement Learning&amp;rdquo; was accepted at ICLR&amp;rsquo;20. Congratulations to Jiechuan Jiang.</description>
+    </item>
     
     <item>
       <title>One paper accepted at TON</title>
@@ -154,11 +163,21 @@
       
       <guid>https://z0ngqing.github.io/home/service/</guid>
       <description> Technical Program Committee Member  INFOCOM 2016 2019 2020
+ IJCAI 2020
  AAMAS 2020
  MM 2017 2018
   Session Chair  INFOCOM 2016, Session of Online Social Networks  Conference Organization  INFOCOM 2020 Worksop on Network Intelligence, General Co-Chair
  ACM TURC 2018, Award Co-Chair
   </description>
+    </item>
+    
+    <item>
+      <title>[ICLR&#39;20] Graph Convolutional Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/iclr20/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/iclr20/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -194,15 +213,6 @@
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/nips19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Preprint] Graph Convolutional Reinforcement Learning</title>
-      <link>https://z0ngqing.github.io/publication/preprint-dgn/</link>
-      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/preprint-dgn/</guid>
       <description></description>
     </item>
     
