@@ -7,26 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Zongqing Lu</copyright>
-    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>[Preprint] Learning Individually Inferred Communication for Multi-Agent Cooperation</title>
-      <link>https://z0ngqing.github.io/publication/i2c/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <title>[Preprint] The Emergence of Individuality in Multi-Agent Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/eoi/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/publication/i2c/</guid>
+      <guid>https://z0ngqing.github.io/publication/eoi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>[Preprint] The Emergence of Individuality in Multi-Agent Reinforcement Learning</title>
-      <link>https://z0ngqing.github.io/publication/eoi/</link>
-      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <title>[NIPS&#39;20] Learning Individually Inferred Communication for Multi-Agent Cooperation</title>
+      <link>https://z0ngqing.github.io/publication/i2c/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/publication/eoi/</guid>
+      <guid>https://z0ngqing.github.io/publication/i2c/</guid>
       <description></description>
     </item>
     
