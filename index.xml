@@ -6,7 +6,7 @@
     <description>Recent content on Zongqing&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Zongqing Lu</copyright>
+    <copyright>&amp;copy; 2021 Zongqing Lu</copyright>
     <lastBuildDate>Tue, 29 Sep 2020 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -162,7 +162,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/teaching/</guid>
-      <description> Undergraduate Courses  Algorithms, Spring 2019, Spring 2020 Data Structures and Algorithms, Spring 2018 Introduction to Computer Systems, Fall 2017  Gradudate Courses  Deep RL and Multi-Agent RL, Spring 2020  </description>
+      <description> Undergraduate Courses  Algorithms, Spring 2019, 2020, 2021 Data Structures and Algorithms, Spring 2018 Introduction to Computer Systems, Fall 2017  Gradudate Courses  Deep RL and Multi-Agent RL, Spring 2020, 2021  </description>
     </item>
     
     <item>
@@ -171,11 +171,121 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/service/</guid>
-      <description> Program Committee Member (Reviewer)  NeurIPS 2020, ICLR 2020, CoRL 2020, IJCAI 2020 2021, AAMAS 2020, INFOCOM 2016 2019 2020, MM 2017 2018
+      <description> Program Committee Member (Reviewer)  ICML 2021, ICLR 2021, NeurIPS 2020, CoRL 2020, IJCAI 2020 2021, AAMAS 2020, INFOCOM 2016 2019 2020, MM 2017 2018
  Nature Machine Intelligence
-  Session Chair  INFOCOM 2016, Session of Online Social Networks  Conference Organization  INFOCOM 2020 Worksop on Network Intelligence, General Co-Chair
+  Conference Organization  INFOCOM 2020 Worksop on Network Intelligence, General Co-Chair
  ACM TURC 2018, Award Co-Chair
   </description>
+    </item>
+    
+    <item>
+      <title>[Preprint] Adaptive Learning Rates for Multi-Agent Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/adama/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/adama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Preprint] What Preserves the Emergence of Language?</title>
+      <link>https://z0ngqing.github.io/publication/lie/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/lie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://z0ngqing.github.io/project/rl/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/rl/</guid>
+      <description>Reinforcement Learning Besides MARL, we also pay attention to the fundamentals of reinforcement learning including the tradeoff between exploration and exploitation, and experience replay for off-policy RL.
+GENE Sparse reward is one of the biggest challenges in RL. We propose a novel method called Generative Exploration and Exploitation (GENE) to overcome sparse reward. GENE dynamically changes the start state of agent to the generated novel state to encourage the agent to explore the environment or to the generated rewarding state to boost the agent to exploit the received reward signal.</description>
+    </item>
+    
+    <item>
+      <title>[Preprint] Learning to Share in Multi-Agent Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/ltos/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/ltos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://z0ngqing.github.io/project/communication/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/communication/</guid>
+      <description>Agent Communication Biologically, communication is closely related to and probably originated from cooperation. For example, vervet monkeys can make different vocalizations to warn other members of the group about different predators. Similarly, communication can be crucially important in MARL for cooperation, especially for the scenarios where a large number of agents work in a collaborative way, such as autonomous vehicles planning, smart grid control, and multi-robot control. Communication enables agents to behave collaboratively.</description>
+    </item>
+    
+    <item>
+      <title>[Preprint] Revisiting Prioritized Experience Replay: A Value Perspective</title>
+      <link>https://z0ngqing.github.io/publication/ver/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/ver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://z0ngqing.github.io/project/cooperation/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/cooperation/</guid>
+      <description>Cooperation Cooperation has been one of the major research topics in MARL. We investigate multi-agent cooperation from many aspects, including adaptive learning rates, reward sharing, roles, and fairness.
+FEN Fairness is essential for human society, contributing to stability and productivity. Similarly, fairness is also the key for many multi-agent systems. Taking fairness into multi-agent learning could help multi-agent systems become both efficient and stable. However, learning efficiency and fairness simultaneously is a complex, multi-objective, joint-policy optimization.</description>
+    </item>
+    
+    <item>
+      <title>[Preprint] Meta Variationally Intrinsic Motivated Reinforcement Learning for Decentralized Traffic Signal Control</title>
+      <link>https://z0ngqing.github.io/publication/metavim/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/metavim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RL/Multi-Agent RL</title>
+      <link>https://z0ngqing.github.io/project/learning/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/learning/</guid>
+      <description>Multi-Agent Reinforcement Learning (MARL) has recently attracted much attention from the communities of machine learning, artificial intelligence, and multi-agent systems. As an interdisciplinary research field, there are so many unsolved problems, from cooperation to competition, from agent communication to agent modeling, from centralized learning to decentralized learning. MARL has been the main research focus of our lab. We are investigating the field from many perspectives. In the following, we introduce some of our studies.</description>
+    </item>
+    
+    <item>
+      <title>[AAAI&#39;21] Hierarchically and Cooperatively Learning Traffic Signal Control</title>
+      <link>https://z0ngqing.github.io/publication/aaai21/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/aaai21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RL/MARL Applications</title>
+      <link>https://z0ngqing.github.io/project/rlapp/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/rlapp/</guid>
+      <description>Reinforcement learning (RL) has the potential be applied to many real-world applications. In our research, we also investigate the applications of RL and Multi-agent RL. Currently, we have been investigating two applications: one is traffic signal control; another is EDA. Traffic signals coordinating traffic movements are the key for transportation efficiency. However, conventional traffic signal control that heavily relies on pre-defined rules and assumptions on traffic conditions is far from intelligence.</description>
+    </item>
+    
+    <item>
+      <title>[DATE&#39;21] Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing</title>
+      <link>https://z0ngqing.github.io/publication/date21/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/date21/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -197,11 +307,29 @@
     </item>
     
     <item>
+      <title>[TBME] Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning</title>
+      <link>https://z0ngqing.github.io/publication/tbme20/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/tbme20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[TMC] PicSys: Energy-Efficient Fast Image Search on Distributed Mobile Networks</title>
       <link>https://z0ngqing.github.io/publication/tmc19-picsys/</link>
-      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/tmc19-picsys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[TMC] Augur: Modeling the Resource Requirements of ConvNets on Mobile Devices</title>
+      <link>https://z0ngqing.github.io/publication/tmc19-augur/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/tmc19-augur/</guid>
       <description></description>
     </item>
     
@@ -233,20 +361,20 @@
     </item>
     
     <item>
-      <title>[TMC] Augur: Modeling the Resource Requirements of ConvNets on Mobile Devices</title>
-      <link>https://z0ngqing.github.io/publication/tmc19-augur/</link>
-      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/tmc19-augur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>[NIPS&#39;19] Learning Fairness in Multi-Agent Systems</title>
       <link>https://z0ngqing.github.io/publication/nips19/</link>
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/nips19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[BuildSys&#39;19] Heterogeneous Transfer Learning for Thermal Comfort Modeling</title>
+      <link>https://z0ngqing.github.io/publication/buildsys19/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/buildsys19/</guid>
       <description></description>
     </item>
     
@@ -266,15 +394,6 @@
       
       <guid>https://z0ngqing.github.io/publication/tmc18-crowdvision/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Learning to Cooperate</title>
-      <link>https://z0ngqing.github.io/project/learning/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/project/learning/</guid>
-      <description>ATOC Biologically, communication is closely related to and probably originated from cooperation. For example, vervet monkeys can make different vocalizations to warn other members of the group about different predators. Similarly, communication can be crucially important in multi-agent reinforcement learning (MARL) for cooperation, especially for the scenarios where a large number of agents work in a collaborative way, such as autonomous vehicles planning, smart grid control, and multi-robot control. MARL can be simply seen as independent reinforcement learning (RL), where each learner treats the other agents as part of its environment.</description>
     </item>
     
     <item>
@@ -346,9 +465,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/about/</guid>
-      <description>I am a Boya Assistant Professor in the Department of Computer Science, Peking University.
-Before joining Peking University in September 2017, I was a postdoc in the Department of Computer Science and Engineering, Pennsylvania State University. I received the PhD degree from the School of Computer Science and Engineering, Nanyang Technological University in April 2014, master and bachelor degrees from Southeast University.
-My research interests fall at the intersection of distributed systems, multi-agent reinforcement learning, and artificial intelligence, and I currently focus on</description>
+      <description>I am a Boya Assistant Professor in the Department of Computer Science, also affiliated with the Institute for Artificial Intelligence, Peking University.
+My research interests fall at the intersection between machine learning and distributed systems, with the aim of developing algorithms that can endow machines with the ability to autonomously acquire the skills to cooperate, communicate, and compete, and building next generation of intelligent systems that can better serve for our daily life.</description>
     </item>
     
     <item>

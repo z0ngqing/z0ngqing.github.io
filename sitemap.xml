@@ -93,6 +93,66 @@
   </url>
   
   <url>
+    <loc>https://z0ngqing.github.io/publication/adama/</loc>
+    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/lie/</loc>
+    <lastmod>2021-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/project/rl/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/ltos/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/project/communication/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/ver/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/project/cooperation/</loc>
+    <lastmod>2021-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/metavim/</loc>
+    <lastmod>2021-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/project/learning/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/aaai21/</loc>
+    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/project/rlapp/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/date21/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://z0ngqing.github.io/publication/eoi/</loc>
     <lastmod>2020-09-30T00:00:00+00:00</lastmod>
   </url>
@@ -103,8 +163,18 @@
   </url>
   
   <url>
+    <loc>https://z0ngqing.github.io/publication/tbme20/</loc>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://z0ngqing.github.io/publication/tmc19-picsys/</loc>
-    <lastmod>2019-12-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/tmc19-augur/</loc>
+    <lastmod>2020-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -123,13 +193,13 @@
   </url>
   
   <url>
-    <loc>https://z0ngqing.github.io/publication/tmc19-augur/</loc>
-    <lastmod>2019-10-09T00:00:00+00:00</lastmod>
+    <loc>https://z0ngqing.github.io/publication/nips19/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://z0ngqing.github.io/publication/nips19/</loc>
-    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+    <loc>https://z0ngqing.github.io/publication/buildsys19/</loc>
+    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -140,11 +210,6 @@
   <url>
     <loc>https://z0ngqing.github.io/publication/tmc18-crowdvision/</loc>
     <lastmod>2018-07-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://z0ngqing.github.io/project/learning/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -253,6 +318,12 @@
   </url>
   
   <url>
+    <loc>https://z0ngqing.github.io/tags/applications/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://z0ngqing.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -307,7 +378,7 @@
   
   <url>
     <loc>https://z0ngqing.github.io/tags/multiagent-learning/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -325,19 +396,19 @@
   
   <url>
     <loc>https://z0ngqing.github.io/project/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://z0ngqing.github.io/publication/</loc>
-    <lastmod>2020-09-30T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://z0ngqing.github.io/tags/reinforcement-learning/</loc>
-    <lastmod>2018-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -361,7 +432,7 @@
   
   <url>
     <loc>https://z0ngqing.github.io/tags/</loc>
-    <lastmod>2013-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

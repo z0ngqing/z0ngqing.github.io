@@ -6,19 +6,28 @@
     <description>Recent content in Reinforcement Learning on Zongqing&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Zongqing Lu</copyright>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2021 Zongqing Lu</copyright>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/tags/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Learning to Cooperate</title>
+      <title>RL/Multi-Agent RL</title>
       <link>https://z0ngqing.github.io/project/learning/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/project/learning/</guid>
-      <description>ATOC Biologically, communication is closely related to and probably originated from cooperation. For example, vervet monkeys can make different vocalizations to warn other members of the group about different predators. Similarly, communication can be crucially important in multi-agent reinforcement learning (MARL) for cooperation, especially for the scenarios where a large number of agents work in a collaborative way, such as autonomous vehicles planning, smart grid control, and multi-robot control. MARL can be simply seen as independent reinforcement learning (RL), where each learner treats the other agents as part of its environment.</description>
+      <description>Multi-Agent Reinforcement Learning (MARL) has recently attracted much attention from the communities of machine learning, artificial intelligence, and multi-agent systems. As an interdisciplinary research field, there are so many unsolved problems, from cooperation to competition, from agent communication to agent modeling, from centralized learning to decentralized learning. MARL has been the main research focus of our lab. We are investigating the field from many perspectives. In the following, we introduce some of our studies.</description>
+    </item>
+    
+    <item>
+      <title>RL/MARL Applications</title>
+      <link>https://z0ngqing.github.io/project/rlapp/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/rlapp/</guid>
+      <description>Reinforcement learning (RL) has the potential be applied to many real-world applications. In our research, we also investigate the applications of RL and Multi-agent RL. Currently, we have been investigating two applications: one is traffic signal control; another is EDA. Traffic signals coordinating traffic movements are the key for transportation efficiency. However, conventional traffic signal control that heavily relies on pre-defined rules and assumptions on traffic conditions is far from intelligence.</description>
     </item>
     
   </channel>

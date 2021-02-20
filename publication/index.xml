@@ -6,11 +6,74 @@
     <description>Recent content in Publications on Zongqing&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Zongqing Lu</copyright>
-    <lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2021 Zongqing Lu</copyright>
+    <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Preprint] Adaptive Learning Rates for Multi-Agent Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/adama/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/adama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Preprint] What Preserves the Emergence of Language?</title>
+      <link>https://z0ngqing.github.io/publication/lie/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/lie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Preprint] Learning to Share in Multi-Agent Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/ltos/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/ltos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Preprint] Revisiting Prioritized Experience Replay: A Value Perspective</title>
+      <link>https://z0ngqing.github.io/publication/ver/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/ver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Preprint] Meta Variationally Intrinsic Motivated Reinforcement Learning for Decentralized Traffic Signal Control</title>
+      <link>https://z0ngqing.github.io/publication/metavim/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/metavim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[AAAI&#39;21] Hierarchically and Cooperatively Learning Traffic Signal Control</title>
+      <link>https://z0ngqing.github.io/publication/aaai21/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/aaai21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[DATE&#39;21] Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing</title>
+      <link>https://z0ngqing.github.io/publication/date21/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/date21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[Preprint] The Emergence of Individuality in Multi-Agent Reinforcement Learning</title>
@@ -31,11 +94,29 @@
     </item>
     
     <item>
+      <title>[TBME] Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning</title>
+      <link>https://z0ngqing.github.io/publication/tbme20/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/tbme20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[TMC] PicSys: Energy-Efficient Fast Image Search on Distributed Mobile Networks</title>
       <link>https://z0ngqing.github.io/publication/tmc19-picsys/</link>
-      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/tmc19-picsys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[TMC] Augur: Modeling the Resource Requirements of ConvNets on Mobile Devices</title>
+      <link>https://z0ngqing.github.io/publication/tmc19-augur/</link>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/tmc19-augur/</guid>
       <description></description>
     </item>
     
@@ -67,20 +148,20 @@
     </item>
     
     <item>
-      <title>[TMC] Augur: Modeling the Resource Requirements of ConvNets on Mobile Devices</title>
-      <link>https://z0ngqing.github.io/publication/tmc19-augur/</link>
-      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/tmc19-augur/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>[NIPS&#39;19] Learning Fairness in Multi-Agent Systems</title>
       <link>https://z0ngqing.github.io/publication/nips19/</link>
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/nips19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[BuildSys&#39;19] Heterogeneous Transfer Learning for Thermal Comfort Modeling</title>
+      <link>https://z0ngqing.github.io/publication/buildsys19/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/buildsys19/</guid>
       <description></description>
     </item>
     

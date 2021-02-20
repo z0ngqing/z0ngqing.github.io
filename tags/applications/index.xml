@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Applications on Zongqing&#39;s Homepage</title>
+    <link>https://z0ngqing.github.io/tags/applications/</link>
+    <description>Recent content in Applications on Zongqing&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2021 Zongqing Lu</copyright>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://z0ngqing.github.io/tags/applications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RL/MARL Applications</title>
+      <link>https://z0ngqing.github.io/project/rlapp/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/rlapp/</guid>
+      <description>Reinforcement learning (RL) has the potential be applied to many real-world applications. In our research, we also investigate the applications of RL and Multi-agent RL. Currently, we have been investigating two applications: one is traffic signal control; another is EDA. Traffic signals coordinating traffic movements are the key for transportation efficiency. However, conventional traffic signal control that heavily relies on pre-defined rules and assumptions on traffic conditions is far from intelligence.</description>
+    </item>
+    
+  </channel>
+</rss>

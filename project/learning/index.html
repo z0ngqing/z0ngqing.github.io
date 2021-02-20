@@ -22,7 +22,7 @@
     <link rel="shortcut icon" href="https://z0ngqing.github.io/img/favicon.ico" type="image/x-icon">
     <link rel="canonical" href="https://z0ngqing.github.io/project/learning/">
 
-    <title>Learning to Cooperate | Zongqing&#39;s Homepage</title>
+    <title>RL/Multi-Agent RL | Zongqing&#39;s Homepage</title>
 
 </head>
 <body id="top">
@@ -75,7 +75,7 @@
         <img src="https://z0ngqing.github.io/img/banners/learning.png" class="article-banner" itemprop="image">
         
 
-        <h1 itemprop="name">Learning to Cooperate</h1>
+        <h1 itemprop="name">RL/Multi-Agent RL</h1>
         
         
 
@@ -103,132 +103,122 @@
         
 
         <div align="justify" class="article-style" itemprop="articleBody">
+            <p>Multi-Agent Reinforcement Learning (MARL) has recently attracted much attention from the communities of machine learning, artificial intelligence, and multi-agent systems. As an interdisciplinary research field, there are so many unsolved problems, from cooperation to competition, from agent communication to agent modeling, from centralized learning to decentralized learning. MARL has been the main research focus of our lab. We are investigating the field from many perspectives. In the following, we introduce some of our studies. For detail, please refer to the papers.</p>
+
+        </div>
+
+
+        <div align="justify" class="article-style" itemprop="articleBody">
             
-
-<h3 id="atoc">ATOC</h3>
-
-<p><img style="float: right;  margin: 10px 0px 0px 20px;" src = "/img/project/atoc.png" width="250" class="article-style" itemprop="image">
-Biologically, communication is closely related to and probably originated from cooperation. For example, vervet monkeys can make different vocalizations to warn other members of the group about different predators. Similarly, communication can be crucially important in multi-agent reinforcement learning (MARL) for cooperation, especially for the scenarios where a large number of agents work in a collaborative way, such as autonomous vehicles planning, smart grid control, and multi-robot control. MARL can be simply seen as independent reinforcement learning (RL), where each learner treats the other agents as part of its environment. However, the strategies of other agents are uncertain and changing as training progresses, so the environment becomes unstable from the perspective of any individual agent and thus it is hard for agents to collaborate. Moreover, policies learned using independent RL can easily overfit to the other agents&rsquo; policies. The aim of this project is to enable agents to learn communication for cooperation in MARL.</p>
-
-<p>There are several approaches for learning communication in MARL. However, information sharing among all agents or in predefined communication architectures that existing methods adopt can be problematic. When there is a large number of agents, agents hardly differentiate valuable information that helps cooperative decision making from globally shared information, and hence communication barely helps and could even jeopardize the learning of cooperation. Moreover, in real-world applications, it is costly that all agents communicate with each other, since receiving a large amount of information requires high bandwidth and incurs long delay and high computational complexity. Predefined communication architectures might help, however they restrict communication among specific agents and thus restrain potential cooperation.</p>
-
-<p>To tackle these difficulties, we propose an attentional communication model, ATOC, to enable agents to learn effective and efficient communication under partially observable distributed environment for large-scale MARL. Inspired by recurrent models of visual attention, we design an attention unit that receives encoded local observation and action intention of an agent and determines whether the agent should communicate with other agents to cooperate in its observable field. If so, the agent, called <em>initiator</em>, selects collaborators to form a communication group for coordinated strategies. The communication group dynamically changes and retains only when necessary. We exploit a bi-directional LSTM unit as the communication channel to connect each agent within a communication group. The LSTM unit takes as input internal states and returns thoughts that guide agents for coordinated strategies. The LSTM unit selectively outputs important information for cooperative decision making, which makes it possible for agents to learn coordinated strategies in dynamic communication environments. ATOC agents are able to develop coordinated and sophisticated strategies in various cooperation scenarios.</p>
-
-<h3 id="dgn">DGN</h3>
-
-<p><img style="float: right;  margin: 10px 0px 0px 20px;" src = "/img/project/dgn.png" width="420" class="article-style" itemprop="image">
-In multiagent environments, agents are related with each other and agents and their relations can be represented by a graph. Inspired by convolution, we apply convolution operations to the graph of agents for cooperative tasks, where each agent is a node, each node connects to its neighbors, and the local observation of agent is the attributes of node. By using multi-head attention as the convolution kernel, graph convolution is able to extract relation representations, and features from neighboring nodes can be integrated just like the receptive field of a neuron in a normal convolutional neural network. High-order features extracted from gradually increased receptive fields are exploited to learn cooperative strategies. The gradient of an agent not only backpropagates to itself but also to other agents in its receptive fields to reinforce the learned cooperative strategies. Moreover, the relation representations are temporally regularized to make cooperation more consistent.</p>
-
-<p>Our graph convolutional model, DGN, is instantiated as an extension of deep Q network and trained end-to-end, adopting the paradigm of centralized training and distributed execution. DGN abstracts the influence between agents by relation kernels, extracts latent features by convolution, and induces consistent cooperation by temporal relation regularization. Moreover, as DGN shares weights among all agents, it is easy to scale, better suited in large-scale MARL. We empirically show the learning effectiveness of DGN in <em>jungle</em> and <em>battle</em> games and <em>routing</em> in packet switching networks. It is demonstrated DGN agents are able to develop more cooperative and sophisticated strategies than existing methods. To the best of our knowledge, this is the first time that graph convolution is successfully applied to MARL.</p>
-
-        </div>
-        
-        <div>
-        <br>
-        <h3>Publications</h3>
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
-    <div class="row">
-        <div class="col-md-12">
-
-            <span itemprop="name">
-                <a href="https://z0ngqing.github.io/publication/nips18/" itemprop="url">[NIPS&#39;18] Learning Attentional Communication for Multi-Agent Cooperation</a>
-            </span>
-
-            <div class="pub-authors" itemprop="author">
                 
-                Jiechuan Jiang and Zongqing Lu
+            
                 
-            </div>
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                    
+                        <br>
+                        
 
-            <div class="pub-publication">
-                
-                    <em>Thirty-Second Annual Conference on Neural Information Processing Systems</em> (NIPS), December 3-8, 2018.
-                
-            </div>
-            <div class="pub-publication">
-                
-                    (Acceptance Rate: 21%=<sup>1011</sup>&frasl;<sub>4856</sub>)
-                
-            </div>
+<h2 id="cooperation">Cooperation</h2>
 
+<p>Cooperation has been one of the major research topics in MARL. We investigate multi-agent cooperation from many aspects, including adaptive learning rates, reward sharing, roles, and fairness.</p>
 
-        </div>
-    </div>
-</div>
- </dl>
-        
-        
-        
-        
-        
-        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+<h3 id="fen">FEN</h3>
+
+<p><img style="float: right;  margin: 10px 0px 0px 20px;" src = "/img/project/fen.png" width="250" class="article-style" itemprop="image">
+Fairness is essential for human society, contributing to stability and productivity. Similarly, fairness is also the key for many multi-agent systems. Taking fairness into multi-agent learning could help multi-agent systems become both efficient and stable. However, learning efficiency and fairness simultaneously is a complex, multi-objective, joint-policy optimization. To tackle these difficulties, we propose FEN, a novel hierarchical reinforcement learning model. We first decompose fairness for each agent and propose fair-efficient reward that each agent learns its own policy to optimize. To avoid multi-objective conflict, we design a hierarchy consisting of a controller and several sub-policies, where the controller maximizes the fair-efficient reward by switching among the sub-policies that provides diverse behaviors to interact with the environment. FEN can be trained in a fully decentralized way, making it easy to be deployed in real-world applications. Empirically, we show that FEN easily learns both fairness and efficiency and significantly outperforms baselines in a variety of multi-agent scenarios.</p>
+
+<h3 id="adama">AdaMa</h3>
+
+<p><img style="float: right;  margin: 10px 0px 0px 20px;" src = "/img/project/adama.png" width="450" class="article-style" itemprop="image">
+In multi-agent reinforcement learning (MARL), the learning rates of actors and critic are mostly hand-tuned and fixed. This not only requires heavy tuning but more importantly limits the learning. With adaptive learning rates according to gradient patterns, some optimizers have been proposed for general optimizations, which however do not take into consideration the characteristics of MARL. We propose AdaMa to bring adaptive learning rates to cooperative MARL. AdaMa evaluates the contribution of actors’ updates to the improvement of Q-value and adaptively updates the learning rates of actors to the direction of maximally improving the Q-value. AdaMa could also dynamically balance the learning rates between the critic and actors according to their varying effects on the learning. Moreover, AdaMa can incorporate the second-order approximation to capture the contribution of pairwise actors’ updates and thus more accurately updates the learning rates of actors. Empirically, we show that AdaMa could accelerate the learning and improve the performance in a variety of multi-agent scenarios. Specifically, AdaMa not only obtains better performance than grid search on the learning rates, but also significantly reduces the training cost. The visualizations of learning rates during training clearly explain how and why AdaMa works.</p>
+
+                                <div>
+                                <h3>Publications</h3>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
     <div class="row">
         <div class="col-md-12">
 
@@ -258,21 +248,45 @@ In multiagent environments, agents are related with each other and agents and th
     </div>
 </div>
  </dl>
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
     <div class="row">
         <div class="col-md-12">
 
             <span itemprop="name">
-                <a href="https://z0ngqing.github.io/publication/aaai20/" itemprop="url">[AAAI&#39;20] Generative Exploration and Exploitation</a>
+                <a href="https://z0ngqing.github.io/publication/eoi/" itemprop="url">[Preprint] The Emergence of Individuality in Multi-Agent Reinforcement Learning</a>
             </span>
 
             <div class="pub-authors" itemprop="author">
@@ -283,12 +297,10 @@ In multiagent environments, agents are related with each other and agents and th
 
             <div class="pub-publication">
                 
-                    <em>Thirty-Fourth AAAI Conference on Artificial Intelligence</em> (AAAI), February 7-12, 2020.
+                    arXiv:2006.05842
                 
             </div>
             <div class="pub-publication">
-                
-                    (Acceptance Rate: 21%=<sup>1591</sup>&frasl;<sub>7737</sub>)
                 
             </div>
 
@@ -297,16 +309,241 @@ In multiagent environments, agents are related with each other and agents and th
     </div>
 </div>
  </dl>
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-md-12">
+
+            <span itemprop="name">
+                <a href="https://z0ngqing.github.io/publication/ltos/" itemprop="url">[Preprint] Learning to Share in Multi-Agent Reinforcement Learning</a>
+            </span>
+
+            <div class="pub-authors" itemprop="author">
+                
+                Yuxuan Yi, Ge Li, Yaowei Wang, and Zongqing Lu
+                
+            </div>
+
+            <div class="pub-publication">
+                
+                    
+                
+            </div>
+            <div class="pub-publication">
+                
+            </div>
+
+
+        </div>
+    </div>
+</div>
+ </dl>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-md-12">
+
+            <span itemprop="name">
+                <a href="https://z0ngqing.github.io/publication/adama/" itemprop="url">[Preprint] Adaptive Learning Rates for Multi-Agent Reinforcement Learning</a>
+            </span>
+
+            <div class="pub-authors" itemprop="author">
+                
+                Jiechuan Jiang and Zongqing Lu
+                
+            </div>
+
+            <div class="pub-publication">
+                
+                    
+                
+            </div>
+            <div class="pub-publication">
+                
+            </div>
+
+
+        </div>
+    </div>
+</div>
+ </dl>
+                                
+                                
+                                
+                                
+                                
+                                </div>
+                    
+                
+            
+                
+                    
+                        <br>
+                        
+
+<h2 id="agent-communication">Agent Communication</h2>
+
+<p>Biologically, communication is closely related to and probably originated from cooperation. For example, vervet monkeys can make different vocalizations to warn other members of the group about different predators. Similarly, communication can be crucially important in MARL for cooperation, especially for the scenarios where a large number of agents work in a collaborative way, such as autonomous vehicles planning, smart grid control, and multi-robot control. Communication enables agents to behave collaboratively.</p>
+
+<h3 id="atoc">ATOC</h3>
+
+<p><img style="float: right;  margin: 10px 0px 0px 20px;" src = "/img/project/atoc.png" width="220" class="article-style" itemprop="image">
+There are several approaches for learning communication in MARL. However, information sharing among all agents or in predefined communication architectures that existing methods adopt can be problematic. When there is a large number of agents, agents hardly differentiate valuable information that helps cooperative decision making from globally shared information, and hence communication barely helps and could even jeopardize the learning of cooperation. Moreover, in real-world applications, it is costly that all agents communicate with each other, since receiving a large amount of information requires high bandwidth and incurs long delay and high computational complexity. Predefined communication architectures might help, however they restrict communication among specific agents and thus restrain potential cooperation. To tackle these difficulties, we propose an attentional communication model, ATOC, to enable agents to learn effective and efficient communication under partially observable distributed environment for large-scale MARL. Inspired by recurrent models of visual attention, we design an attention unit that receives encoded local observation and action intention of an agent and determines whether the agent should communicate with other agents to cooperate in its observable field. If so, the agent, called <em>initiator</em>, selects collaborators to form a communication group for coordinated strategies. The communication group dynamically changes and retains only when necessary. We exploit a bi-directional LSTM unit as the communication channel to connect each agent within a communication group. The LSTM unit takes as input internal states and returns thoughts that guide agents for coordinated strategies. The LSTM unit selectively outputs important information for cooperative decision making, which makes it possible for agents to learn coordinated strategies in dynamic communication environments. ATOC agents are able to develop coordinated and sophisticated strategies in various cooperation scenarios.</p>
+
+<h3 id="i2c">I2C</h3>
+
+<p><img style="float: right;  margin: 10px 0px 0px 20px;" src = "/img/project/i2c.png" width="300" class="article-style" itemprop="image">
+Most existing work of multi-agent communication focuses on broadcast communication, which is not only impractical but also leads to information redundancy that could even impair the learning process. To tackle these difficulties, we propose Individually Inferred Communication (I2C), a simple yet effective model to enable agents to learn a prior for agent-agent communication. The prior knowledge is learned via causal inference and realized by a feed-forward neural network that maps the agent’s local observation to a belief about who to communicate with. The influence of one agent on another is inferred via the joint action-value function in multi-agent reinforcement learning and quantified to label the necessity of agent-agent communication. Furthermore, the agent policy is regularized to better exploit communicated messages. Empirically, we show that I2C can not only reduce communication overhead but also improve the performance in a variety of multi-agent cooperative scenarios, comparing to existing methods.</p>
+
+                                <div>
+                                <h3>Publications</h3>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-md-12">
+
+            <span itemprop="name">
+                <a href="https://z0ngqing.github.io/publication/nips18/" itemprop="url">[NIPS&#39;18] Learning Attentional Communication for Multi-Agent Cooperation</a>
+            </span>
+
+            <div class="pub-authors" itemprop="author">
+                
+                Jiechuan Jiang and Zongqing Lu
+                
+            </div>
+
+            <div class="pub-publication">
+                
+                    <em>Thirty-Second Annual Conference on Neural Information Processing Systems</em> (NIPS), December 3-8, 2018.
+                
+            </div>
+            <div class="pub-publication">
+                
+                    (Acceptance Rate: 21%=<sup>1011</sup>&frasl;<sub>4856</sub>)
+                
+            </div>
+
+
+        </div>
+    </div>
+</div>
+ </dl>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
     <div class="row">
         <div class="col-md-12">
 
@@ -336,16 +573,24 @@ In multiagent environments, agents are related with each other and agents and th
     </div>
 </div>
  </dl>
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
     <div class="row">
         <div class="col-md-12">
 
@@ -375,28 +620,52 @@ In multiagent environments, agents are related with each other and agents and th
     </div>
 </div>
  </dl>
-        
-        
-        
-        
-        
-        <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
     <div class="row">
         <div class="col-md-12">
 
             <span itemprop="name">
-                <a href="https://z0ngqing.github.io/publication/eoi/" itemprop="url">[Preprint] The Emergence of Individuality in Multi-Agent Reinforcement Learning</a>
+                <a href="https://z0ngqing.github.io/publication/lie/" itemprop="url">[Preprint] What Preserves the Emergence of Language?</a>
             </span>
 
             <div class="pub-authors" itemprop="author">
                 
-                Jiechuan Jiang and Zongqing Lu
+                Ziluo Ding, Tiejun Huang, and Zongqing Lu
                 
             </div>
 
             <div class="pub-publication">
                 
-                    arXiv:2006.05842
+                    
                 
             </div>
             <div class="pub-publication">
@@ -408,20 +677,262 @@ In multiagent environments, agents are related with each other and agents and th
     </div>
 </div>
  </dl>
-        
-        
-        
-        
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                </div>
+                    
+                
+            
+                
+                    
+                        <br>
+                        
+
+<h2 id="reinforcement-learning">Reinforcement Learning</h2>
+
+<p>Besides MARL, we also pay attention to the fundamentals of reinforcement learning including the tradeoff between exploration and exploitation, and experience replay for off-policy RL.</p>
+
+<h3 id="gene">GENE</h3>
+
+<p><img style="float: right;  margin: 10px 0px 0px 20px;" src = "/img/project/gene.png" width="330" class="article-style" itemprop="image">
+Sparse reward is one of the biggest challenges in RL. We propose a novel method called Generative Exploration and Exploitation (GENE) to overcome sparse reward. GENE dynamically changes the start state of agent to the generated novel state to encourage the agent to explore the environment or to the generated rewarding state to boost the agent to exploit the received reward signal. GENE relies on no prior knowledge about the environment and can be combined with any RL algorithm, no matter on-policy or off-policy, single-agent or multi-agent. Empirically, we demonstrate that GENE significantly outperforms existing methods in four challenging tasks with only binary rewards indicating whether or not the task is completed, including Maze, Goal Ant, Pushing, and Cooperative Navigation. The ablation studies verify that GENE can adaptively tradeoff between exploration and exploitation as the learning progresses by automatically adjusting the proportion between generated novel states and rewarding states, which is the key for GENE to solving these challenging tasks effectively and efficiently.</p>
+
+<h3 id="ver">VER</h3>
+
+<p><img style="float: right;  margin: 10px 0px 0px 20px;" src = "/img/project/ver.png" width="500" class="article-style" itemprop="image">
+Experience replay enables off-policy RL agents to utilize past experiences to maximize the cumulative reward. Prioritized experience replay that weighs experiences by the magnitude of their temporal-difference error (|TD|) significantly improves the learning efficiency. But how |TD| is related to the importance of experience is not well understood. We address this problem from an economic perspective, by linking |TD| to value of experience, which is defined as the value added to the cumulative reward by accessing the experience. We theoretically show the value metrics of experience are upper-bounded by |TD| for Q-learning. Furthermore, we successfully extend our theoretical framework to maximum-entropy RL by deriving the lower and upper bounds of these value metrics for soft Q-learning, which turn out to be the product of |TD| and “on-policyness” of the experiences. Our framework links two important quantities in RL: |TD| and value of experience. We empirically show that the bounds hold in practice, and experience replay using the upper bound as priority improves maximum-entropy RL in Atari games.</p>
+
+                                <div>
+                                <h3>Publications</h3>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-md-12">
+
+            <span itemprop="name">
+                <a href="https://z0ngqing.github.io/publication/aaai20/" itemprop="url">[AAAI&#39;20] Generative Exploration and Exploitation</a>
+            </span>
+
+            <div class="pub-authors" itemprop="author">
+                
+                Jiechuan Jiang and Zongqing Lu
+                
+            </div>
+
+            <div class="pub-publication">
+                
+                    <em>Thirty-Fourth AAAI Conference on Artificial Intelligence</em> (AAAI), February 7-12, 2020.
+                
+            </div>
+            <div class="pub-publication">
+                
+                    (Acceptance Rate: 21%=<sup>1591</sup>&frasl;<sub>7737</sub>)
+                
+            </div>
+
+
+        </div>
+    </div>
+</div>
+ </dl>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                <dl> <div itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="row">
+        <div class="col-md-12">
+
+            <span itemprop="name">
+                <a href="https://z0ngqing.github.io/publication/ver/" itemprop="url">[Preprint] Revisiting Prioritized Experience Replay: A Value Perspective</a>
+            </span>
+
+            <div class="pub-authors" itemprop="author">
+                
+                Ang Li, Zongqing Lu, and Chenglin Miao
+                
+            </div>
+
+            <div class="pub-publication">
+                
+                    arXiv:2102.03261
+                
+            </div>
+            <div class="pub-publication">
+                
+            </div>
+
+
+        </div>
+    </div>
+</div>
+ </dl>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                </div>
+                    
+                
+            
+                
+            
+        </div>
+
+        <div>
         
         </div>
     </article>
     
     <nav>
     <ul class="pager">
+    	
         
-        <li class="previous"><a href="https://z0ngqing.github.io/project/video/"><span aria-hidden="true">&larr;</span> Distributed Video Processing Using Deep Learning on Networked Devices</a></li>
+        <li class="previous"><a href="https://z0ngqing.github.io/project/rlapp/"><span aria-hidden="true">&larr;</span> RL/MARL Applications</a></li>
+        
         
 
+        
+        
         
     </ul>
 </nav>
@@ -432,7 +943,7 @@ In multiagent environments, agents are related with each other and agents and th
     <div class="container">
         <p class="powered-by">
 
-            &copy; 2018 Zongqing Lu &middot; 
+            &copy; 2021 Zongqing Lu &middot; 
 
             Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
 
