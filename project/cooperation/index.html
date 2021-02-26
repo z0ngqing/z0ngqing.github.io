@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme" content="hugo-academic">
+    <meta name="generator" content="Hugo 0.31.1" />
+    <meta name="author" content="Zongqing Lu">
+    <meta name="description" content="Assistant Professor">
+
+    <link rel="stylesheet" href="https://z0ngqing.github.io/css/highlight.min.css">
+    <link rel="stylesheet" href="https://z0ngqing.github.io/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://z0ngqing.github.io/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://z0ngqing.github.io/css/academicons.min.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono">
+    <link rel="stylesheet" href="https://z0ngqing.github.io/css/hugo-academic.css">
+    
+
+
+    <link rel="shortcut icon" href="https://z0ngqing.github.io/img/favicon.ico" type="image/x-icon">
+    <link rel="canonical" href="https://z0ngqing.github.io/project/cooperation/">
+
+    <title> | Zongqing&#39;s Homepage</title>
+
+</head>
+<body id="top">
+
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+    <div class="container">
+
+        
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://z0ngqing.github.io/">Zongqing&#39;s Homepage</a>
+        </div>
+
+        
+        <div class="collapse navbar-collapse" id="#navbar-collapse-1">
+
+            
+            <ul class="nav navbar-nav navbar-right">
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#top">Home</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#news">News</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#publications">Publications</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#projects">AI@edge</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#teaching">Teaching</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#services">Services</a></li>
+                
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#contact">Contact</a></li>
+                
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+
+    <article class="article article-project" itemscope itemtype="http://schema.org/Article">
+        
+
+        <h1 itemprop="name"></h1>
+        
+        
+
+<div class="article-metadata">
+
+    
+
+    
+
+</div>
+
+
+        
+
+        <div align="justify" class="article-style" itemprop="articleBody">
+            
+
+<h2 id="cooperation">Cooperation</h2>
+
+<p>Cooperation has been one of the major research topics in MARL. We investigate multi-agent cooperation from many aspects, including adaptive learning rates, reward sharing, roles, and fairness.</p>
+
+<h3 id="fen">FEN</h3>
+
+<p><img style="float: right;  margin: 10px 0px 0px 20px;" src = "/img/project/fen.png" width="250" class="article-style" itemprop="image">
+Fairness is essential for human society, contributing to stability and productivity. Similarly, fairness is also the key for many multi-agent systems. Taking fairness into multi-agent learning could help multi-agent systems become both efficient and stable. However, learning efficiency and fairness simultaneously is a complex, multi-objective, joint-policy optimization. To tackle these difficulties, we propose FEN, a novel hierarchical reinforcement learning model. We first decompose fairness for each agent and propose fair-efficient reward that each agent learns its own policy to optimize. To avoid multi-objective conflict, we design a hierarchy consisting of a controller and several sub-policies, where the controller maximizes the fair-efficient reward by switching among the sub-policies that provides diverse behaviors to interact with the environment. FEN can be trained in a fully decentralized way, making it easy to be deployed in real-world applications. Empirically, we show that FEN easily learns both fairness and efficiency and significantly outperforms baselines in a variety of multi-agent scenarios.</p>
+
+<h3 id="adama">AdaMa</h3>
+
+<p><img style="float: right;  margin: 10px 0px 0px 20px;" src = "/img/project/adama.png" width="450" class="article-style" itemprop="image">
+In multi-agent reinforcement learning (MARL), the learning rates of actors and critic are mostly hand-tuned and fixed. This not only requires heavy tuning but more importantly limits the learning. With adaptive learning rates according to gradient patterns, some optimizers have been proposed for general optimizations, which however do not take into consideration the characteristics of MARL. We propose AdaMa to bring adaptive learning rates to cooperative MARL. AdaMa evaluates the contribution of actors’ updates to the improvement of Q-value and adaptively updates the learning rates of actors to the direction of maximally improving the Q-value. AdaMa could also dynamically balance the learning rates between the critic and actors according to their varying effects on the learning. Moreover, AdaMa can incorporate the second-order approximation to capture the contribution of pairwise actors’ updates and thus more accurately updates the learning rates of actors. Empirically, we show that AdaMa could accelerate the learning and improve the performance in a variety of multi-agent scenarios. Specifically, AdaMa not only obtains better performance than grid search on the learning rates, but also significantly reduces the training cost. The visualizations of learning rates during training clearly explain how and why AdaMa works.</p>
+
+        </div>
+
+
+        <div align="justify" class="article-style" itemprop="articleBody">
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                    
+                
+            
+                
+                    
+                
+            
+                
+                    
+                
+            
+                
+            
+        </div>
+
+        <div>
+        
+        </div>
+    </article>
+    
+    <nav>
+    <ul class="pager">
+    	
+        
+        <li class="previous"><a href="https://z0ngqing.github.io/project/learning/"><span aria-hidden="true">&larr;</span> RL/Multi-Agent RL</a></li>
+        
+        
+
+        
+        
+        
+    </ul>
+</nav>
+
+
+</div>
+<footer class="site-footer">
+    <div class="container">
+        <p class="powered-by">
+
+            &copy; 2021 Zongqing Lu &middot; 
+
+            Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+            <span class="pull-right"><a href="#" id="back_to_top"><span class="button_icon"><i class="fa fa-chevron-up fa-2x" aria-hidden="true"></i></span></a></span>
+
+        </p>
+    </div>
+</footer>
+
+        <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+        <script src="https://z0ngqing.github.io/js/jquery-1.12.3.min.js"></script>
+        <script src="https://z0ngqing.github.io/js/bootstrap.min.js"></script>
+        <script src="https://z0ngqing.github.io/js/hugo-academic.js"></script>
+        
+
+        
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-88925956-1', 'auto');
+            ga('send', 'pageview');
+
+             
+            var links = document.querySelectorAll('a');
+            Array.prototype.map.call(links, function(item) {
+                if (item.host != document.location.host) {
+                    item.addEventListener('click', function() {
+                        var action = item.getAttribute('data-action') || 'follow';
+                        ga('send', 'event', 'outbound', action, item.href);
+                    });
+                }
+            });
+        </script>
+        
+
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.3.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script>
+
+        
+        
+        <script type="text/x-mathjax-config">
+            MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+        </script>
+        <script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+        
+
+    </body>
+</html>
+

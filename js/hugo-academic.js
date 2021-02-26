@@ -27,12 +27,17 @@
         scrollTop: $(hash).offset().top - navbarHeight
       }, 800, function () {
         // Add hash (#) to URL once finished scrolling to hash position
-        if (hash == "#top"){
-          window.location.hash = ""
-        }else {
-          window.location.hash = hash;
-        }
+        // if (hash == "#top"){
+        //   window.location.hash = ""
+        // }else {
+        //   window.location.hash = hash;
+        // }
       });
+      if (hash == "#top"){
+          window.location.hash = ""
+      }else {
+          window.location.hash = hash;
+      }
     }
   });
 
