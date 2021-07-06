@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021 Zongqing Lu</copyright>
-    <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[ICML&#39;21] The Emergence of Individuality</title>
+      <link>https://z0ngqing.github.io/publication/eoi/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/eoi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICML&#39;21] FOP: Factorizing Optimal Joint Policy of Maximum-Entropy Multi-Agent Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/fop/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/fop/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[Preprint] Adaptive Learning Rates for Multi-Agent Reinforcement Learning</title>
@@ -72,15 +90,6 @@
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/date21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Preprint] The Emergence of Individuality in Multi-Agent Reinforcement Learning</title>
-      <link>https://z0ngqing.github.io/publication/eoi/</link>
-      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/eoi/</guid>
       <description></description>
     </item>
     

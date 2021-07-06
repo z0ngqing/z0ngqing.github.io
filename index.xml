@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2021 Zongqing Lu</copyright>
-    <lastBuildDate>Tue, 29 Sep 2020 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Two papers accepted at ICML&#39;21</title>
+      <link>https://z0ngqing.github.io/news/icml21/</link>
+      <pubDate>Tue, 01 Jun 2021 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/icml21/</guid>
+      <description>Our two papers &amp;ldquo;The Emergence of Individuality&amp;rdquo; and &amp;ldquo;FOP: Factorizing Optimal Joint Policy of Maximum-Entropy Multi-Agent Reinforcement Learning&amp;rdquo; were accepted at ICML&amp;rsquo;21.</description>
+    </item>
     
     <item>
       <title>One paper accepted at NIPS&#39;20</title>
@@ -162,7 +171,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/teaching/</guid>
-      <description> Undergraduate Courses  Algorithms, Spring 2019, 2020, 2021 Data Structures and Algorithms, Spring 2018 Introduction to Computer Systems, Fall 2017  Gradudate Courses  Deep RL and Multi-Agent RL, Spring 2020, 2021  </description>
+      <description> Undergraduate Courses  Algorithms, Spring 2019, 2020, 2021 Data Structures and Algorithms, Spring 2018 Introduction to Computer Systems, Fall 2017  Gradudate Courses  Deep Reinforcement Learning, Spring 2022 Deep RL and Multi-Agent RL, Spring 2020, 2021  </description>
     </item>
     
     <item>
@@ -171,11 +180,30 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/service/</guid>
-      <description> Program Committee Member (Reviewer)  ICML 2021, ICLR 2021, NeurIPS 2020, CoRL 2020, IJCAI 2020 2021, AAMAS 2020, INFOCOM 2016 2019 2020, MM 2017 2018
+      <description> Program Committee Member (Reviewer)  ICML 2021, ICLR 2021 2022, NeurIPS 2021 2020, CoRL 2020, IJCAI 2020 2021, AAMAS 2020, INFOCOM 2016 2019 2020, MM 2017 2018
  Nature Machine Intelligence
-  Conference Organization  INFOCOM 2020 Worksop on Network Intelligence, General Co-Chair
+  Conference Organization  ICML 2021 Workshop on Reinforcement Learning for Real Life, General Co-Chair
+ INFOCOM 2020 Worksop on Network Intelligence, General Co-Chair
  ACM TURC 2018, Award Co-Chair
   </description>
+    </item>
+    
+    <item>
+      <title>[ICML&#39;21] The Emergence of Individuality</title>
+      <link>https://z0ngqing.github.io/publication/eoi/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/eoi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICML&#39;21] FOP: Factorizing Optimal Joint Policy of Maximum-Entropy Multi-Agent Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/fop/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/fop/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -285,15 +313,6 @@ FEN Fairness is essential for human society, contributing to stability and produ
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/date21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Preprint] The Emergence of Individuality in Multi-Agent Reinforcement Learning</title>
-      <link>https://z0ngqing.github.io/publication/eoi/</link>
-      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/eoi/</guid>
       <description></description>
     </item>
     
