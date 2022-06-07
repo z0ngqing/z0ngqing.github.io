@@ -6,11 +6,29 @@
     <description>Recent content on Zongqing&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 Zongqing Lu</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 10:00:00 +0800</lastBuildDate>
+    <copyright>&amp;copy; 2022 Zongqing Lu</copyright>
+    <lastBuildDate>Mon, 06 Jun 2022 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Three papers accepted at ICML&#39;22</title>
+      <link>https://z0ngqing.github.io/news/icml22/</link>
+      <pubDate>Mon, 06 Jun 2022 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/icml22/</guid>
+      <description>Our three papers about multi-agent RL and offline RL were accepted at ICML&amp;rsquo;22.</description>
+    </item>
+    
+    <item>
+      <title>Best Cooperative AI Paper Award</title>
+      <link>https://z0ngqing.github.io/news/gms/</link>
+      <pubDate>Tue, 17 May 2022 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/gms/</guid>
+      <description>Our paper &amp;ldquo;Learning to Sharing in Multi-Agent Reinforcement Learning&amp;rdquo; won the Best Cooperative AI Paper Award at ICLR&amp;rsquo;22 Workshop on Gamification and Multiagent Solutions.</description>
+    </item>
     
     <item>
       <title>Two papers accepted at ICML&#39;21</title>
@@ -18,7 +36,7 @@
       <pubDate>Tue, 01 Jun 2021 10:00:00 +0800</pubDate>
       
       <guid>https://z0ngqing.github.io/news/icml21/</guid>
-      <description>Our two papers &amp;ldquo;The Emergence of Individuality&amp;rdquo; and &amp;ldquo;FOP: Factorizing Optimal Joint Policy of Maximum-Entropy Multi-Agent Reinforcement Learning&amp;rdquo; were accepted at ICML&amp;rsquo;21.</description>
+      <description>Our two papers, EOI and FOP, were accepted at ICML&amp;rsquo;21.</description>
     </item>
     
     <item>
@@ -171,7 +189,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/teaching/</guid>
-      <description> Undergraduate Courses  Algorithms, Spring 2019, 2020, 2021 Data Structures and Algorithms, Spring 2018 Introduction to Computer Systems, Fall 2017  Gradudate Courses  Deep Reinforcement Learning, Spring 2022 Deep RL and Multi-Agent RL, Spring 2020, 2021  </description>
+      <description> Undergraduate Courses  Algorithms, Spring 2019, 2020, 2021, 2022 Data Structures and Algorithms, Spring 2018 Introduction to Computer Systems, Fall 2017  Gradudate Courses  Deep Reinforcement Learning, Spring 2022, 2023 Deep RL and Multi-Agent RL, Spring 2020, 2021  </description>
     </item>
     
     <item>
@@ -180,12 +198,46 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/service/</guid>
-      <description> Program Committee Member (Reviewer)  ICLR 2022 2021, NeurIPS 2021 2020, ICML 2021, CoRL 2020, IJCAI 2020 2021, AAMAS 2020, INFOCOM 2016 2019 2020, MM 2017 2018
- Nature Machine Intelligence
-  Conference Organization  ICML 2021 Workshop on Reinforcement Learning for Real Life, General Co-Chair
+      <description> Program Committee Member (Reviewer)  ICLR 2022 2021 2020, NeurIPS 2022 2021 2020, ICML 2022 2021, AAAI 2022, IJCAI 2022 2021 2020, AAMAS 2020, CoRL 2020 Nature Machine Intelligence  Conference Organization  ICML 2021 Workshop on Reinforcement Learning for Real Life, General Co-Chair
  INFOCOM 2020 Worksop on Network Intelligence, General Co-Chair
  ACM TURC 2018, Award Co-Chair
-  </description>
+  Editorship  Associate Editor, ACM Journal on Autonomous Transportation Systems  </description>
+    </item>
+    
+    <item>
+      <title>[ICML&#39;22] Divergence-Regularized Multi-Agent Actor-Critic</title>
+      <link>https://z0ngqing.github.io/publication/dmac22/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/dmac22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICML&#39;22] Robust Task Representations for Offline Meta-Reinforcement Learning via Contrastive Learning</title>
+      <link>https://z0ngqing.github.io/publication/corro22/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/corro22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICML&#39;22] Difference Advantage Estimation for Multi-Agent Policy Gradients</title>
+      <link>https://z0ngqing.github.io/publication/dae22/</link>
+      <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/dae22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[TCAD] Asynchronous Reinforcement Learning Framework and Knowledge Transfer for Net Order Exploration in Detailed Routing</title>
+      <link>https://z0ngqing.github.io/publication/tcad21/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/tcad21/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -207,20 +259,11 @@
     </item>
     
     <item>
-      <title>[Preprint] Adaptive Learning Rates for Multi-Agent Reinforcement Learning</title>
+      <title>Adaptive Learning Rates for Multi-Agent Reinforcement Learning</title>
       <link>https://z0ngqing.github.io/publication/adama/</link>
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/adama/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Preprint] What Preserves the Emergence of Language?</title>
-      <link>https://z0ngqing.github.io/publication/lie/</link>
-      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/lie/</guid>
       <description></description>
     </item>
     
@@ -235,15 +278,6 @@ GENE Sparse reward is one of the biggest challenges in RL. We propose a novel me
     </item>
     
     <item>
-      <title>[Preprint] Learning to Share in Multi-Agent Reinforcement Learning</title>
-      <link>https://z0ngqing.github.io/publication/ltos/</link>
-      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/ltos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://z0ngqing.github.io/project/communication/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
@@ -253,11 +287,20 @@ GENE Sparse reward is one of the biggest challenges in RL. We propose a novel me
     </item>
     
     <item>
-      <title>[Preprint] Revisiting Prioritized Experience Replay: A Value Perspective</title>
+      <title>Revisiting Prioritized Experience Replay: A Value Perspective</title>
       <link>https://z0ngqing.github.io/publication/ver/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/ver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variationally and Intrinsically motivated reinforcement learning for decentralized traffic signal control</title>
+      <link>https://z0ngqing.github.io/publication/metavim/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/metavim/</guid>
       <description></description>
     </item>
     
@@ -272,11 +315,20 @@ FEN Fairness is essential for human society, contributing to stability and produ
     </item>
     
     <item>
-      <title>[Preprint] Meta Variationally Intrinsic Motivated Reinforcement Learning for Decentralized Traffic Signal Control</title>
-      <link>https://z0ngqing.github.io/publication/metavim/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Learning to Share in Multi-Agent Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/ltos/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/publication/metavim/</guid>
+      <guid>https://z0ngqing.github.io/publication/ltos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MTLight: Efficient Multi-Task Reinforcement Learning for Traffic Signal Control</title>
+      <link>https://z0ngqing.github.io/publication/mtlight/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/mtlight/</guid>
       <description></description>
     </item>
     
@@ -484,8 +536,8 @@ FEN Fairness is essential for human society, contributing to stability and produ
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/about/</guid>
-      <description>I am a Boya Assistant Professor in the Department of Computer Science, also affiliated with the Institute for Artificial Intelligence, Peking University.
-My research interests fall at the intersection between machine learning and distributed systems, with the aim of developing algorithms that can endow machines with the ability to autonomously acquire the skills to cooperate, communicate, and compete, and building next generation of intelligent systems that can better serve for our daily life.</description>
+      <description>I am a Boya Assistant Professor in the School of Computer Science, also affiliated with the Institute for Artificial Intelligence, Peking University.
+My research interests fall at the intersection between reinforcement learning and intelligent systems, with the aim of developing algorithms that can endow machines with the ability to autonomously acquire the skills to cooperate, communicate, and compete, and building next generation of intelligent systems that can better serve for our daily life.</description>
     </item>
     
     <item>

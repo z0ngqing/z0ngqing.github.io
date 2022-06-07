@@ -6,11 +6,47 @@
     <description>Recent content in Publications on Zongqing&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 Zongqing Lu</copyright>
-    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2022 Zongqing Lu</copyright>
+    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[ICML&#39;22] Divergence-Regularized Multi-Agent Actor-Critic</title>
+      <link>https://z0ngqing.github.io/publication/dmac22/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/dmac22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICML&#39;22] Robust Task Representations for Offline Meta-Reinforcement Learning via Contrastive Learning</title>
+      <link>https://z0ngqing.github.io/publication/corro22/</link>
+      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/corro22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICML&#39;22] Difference Advantage Estimation for Multi-Agent Policy Gradients</title>
+      <link>https://z0ngqing.github.io/publication/dae22/</link>
+      <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/dae22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[TCAD] Asynchronous Reinforcement Learning Framework and Knowledge Transfer for Net Order Exploration in Detailed Routing</title>
+      <link>https://z0ngqing.github.io/publication/tcad21/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/tcad21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[ICML&#39;21] The Emergence of Individuality</title>
@@ -31,7 +67,7 @@
     </item>
     
     <item>
-      <title>[Preprint] Adaptive Learning Rates for Multi-Agent Reinforcement Learning</title>
+      <title>Adaptive Learning Rates for Multi-Agent Reinforcement Learning</title>
       <link>https://z0ngqing.github.io/publication/adama/</link>
       <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
       
@@ -40,25 +76,7 @@
     </item>
     
     <item>
-      <title>[Preprint] What Preserves the Emergence of Language?</title>
-      <link>https://z0ngqing.github.io/publication/lie/</link>
-      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/lie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Preprint] Learning to Share in Multi-Agent Reinforcement Learning</title>
-      <link>https://z0ngqing.github.io/publication/ltos/</link>
-      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/ltos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Preprint] Revisiting Prioritized Experience Replay: A Value Perspective</title>
+      <title>Revisiting Prioritized Experience Replay: A Value Perspective</title>
       <link>https://z0ngqing.github.io/publication/ver/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
@@ -67,11 +85,29 @@
     </item>
     
     <item>
-      <title>[Preprint] Meta Variationally Intrinsic Motivated Reinforcement Learning for Decentralized Traffic Signal Control</title>
+      <title>Variationally and Intrinsically motivated reinforcement learning for decentralized traffic signal control</title>
       <link>https://z0ngqing.github.io/publication/metavim/</link>
-      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/metavim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Share in Multi-Agent Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/ltos/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/ltos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MTLight: Efficient Multi-Task Reinforcement Learning for Traffic Signal Control</title>
+      <link>https://z0ngqing.github.io/publication/mtlight/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/mtlight/</guid>
       <description></description>
     </item>
     

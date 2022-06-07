@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Zongqing&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 Zongqing Lu</copyright>
+    <copyright>&amp;copy; 2022 Zongqing Lu</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/teaching/</guid>
-      <description> Undergraduate Courses  Algorithms, Spring 2019, 2020, 2021 Data Structures and Algorithms, Spring 2018 Introduction to Computer Systems, Fall 2017  Gradudate Courses  Deep Reinforcement Learning, Spring 2022 Deep RL and Multi-Agent RL, Spring 2020, 2021  </description>
+      <description> Undergraduate Courses  Algorithms, Spring 2019, 2020, 2021, 2022 Data Structures and Algorithms, Spring 2018 Introduction to Computer Systems, Fall 2017  Gradudate Courses  Deep Reinforcement Learning, Spring 2022, 2023 Deep RL and Multi-Agent RL, Spring 2020, 2021  </description>
     </item>
     
     <item>
@@ -27,12 +27,10 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/service/</guid>
-      <description> Program Committee Member (Reviewer)  ICLR 2022 2021, NeurIPS 2021 2020, ICML 2021, CoRL 2020, IJCAI 2020 2021, AAMAS 2020, INFOCOM 2016 2019 2020, MM 2017 2018
- Nature Machine Intelligence
-  Conference Organization  ICML 2021 Workshop on Reinforcement Learning for Real Life, General Co-Chair
+      <description> Program Committee Member (Reviewer)  ICLR 2022 2021 2020, NeurIPS 2022 2021 2020, ICML 2022 2021, AAAI 2022, IJCAI 2022 2021 2020, AAMAS 2020, CoRL 2020 Nature Machine Intelligence  Conference Organization  ICML 2021 Workshop on Reinforcement Learning for Real Life, General Co-Chair
  INFOCOM 2020 Worksop on Network Intelligence, General Co-Chair
  ACM TURC 2018, Award Co-Chair
-  </description>
+  Editorship  Associate Editor, ACM Journal on Autonomous Transportation Systems  </description>
     </item>
     
     <item>
@@ -41,8 +39,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/about/</guid>
-      <description>I am a Boya Assistant Professor in the Department of Computer Science, also affiliated with the Institute for Artificial Intelligence, Peking University.
-My research interests fall at the intersection between machine learning and distributed systems, with the aim of developing algorithms that can endow machines with the ability to autonomously acquire the skills to cooperate, communicate, and compete, and building next generation of intelligent systems that can better serve for our daily life.</description>
+      <description>I am a Boya Assistant Professor in the School of Computer Science, also affiliated with the Institute for Artificial Intelligence, Peking University.
+My research interests fall at the intersection between reinforcement learning and intelligent systems, with the aim of developing algorithms that can endow machines with the ability to autonomously acquire the skills to cooperate, communicate, and compete, and building next generation of intelligent systems that can better serve for our daily life.</description>
     </item>
     
   </channel>
