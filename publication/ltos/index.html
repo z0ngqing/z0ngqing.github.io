@@ -8,7 +8,7 @@
     <meta name="theme" content="hugo-academic">
     <meta name="generator" content="Hugo 0.31.1" />
     <meta name="author" content="Zongqing Lu">
-    <meta name="description" content="Assistant Professor">
+    <meta name="description" content="BOYA Assistant Professor">
 
     <link rel="stylesheet" href="https://z0ngqing.github.io/css/highlight.min.css">
     <link rel="stylesheet" href="https://z0ngqing.github.io/css/bootstrap.min.css">
@@ -22,7 +22,7 @@
     <link rel="shortcut icon" href="https://z0ngqing.github.io/img/favicon.ico" type="image/x-icon">
     <link rel="canonical" href="https://z0ngqing.github.io/publication/ltos/">
 
-    <title>Learning to Share in Multi-Agent Reinforcement Learning | Zongqing&#39;s Homepage</title>
+    <title>[NIPS&#39;22] Learning to Share in Multi-Agent Reinforcement Learning | Zongqing&#39;s Homepage</title>
 
 </head>
 <body id="top">
@@ -54,7 +54,7 @@
                 
                 <li class="nav-item"><a href="https://z0ngqing.github.io/#publications">Publications</a></li>
                 
-                <li class="nav-item"><a href="https://z0ngqing.github.io/#projects">AI@edge</a></li>
+                <li class="nav-item"><a href="https://z0ngqing.github.io/#projects">Lab</a></li>
                 
                 <li class="nav-item"><a href="https://z0ngqing.github.io/#teaching">Teaching</a></li>
                 
@@ -72,7 +72,7 @@
 
     <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
         <div class="pub-title">
-            <h1 itemprop="name">Learning to Share in Multi-Agent Reinforcement Learning</h1>
+            <h1 itemprop="name">[NIPS&#39;22] Learning to Share in Multi-Agent Reinforcement Learning</h1>
             <span class="pub-authors" itemprop="author">
                 
                 Yuxuan Yi, Ge Li, Yaowei Wang, and Zongqing Lu
@@ -88,22 +88,22 @@
             </a>
         </li>
         <li>
-            <a class="twitter" href="https://twitter.com/intent/tweet?text=Learning%20to%20Share%20in%20Multi-Agent%20Reinforcement%20Learning&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fltos%2f" target="_blank">
+            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bNIPS%2722%5d%20Learning%20to%20Share%20in%20Multi-Agent%20Reinforcement%20Learning&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fltos%2f" target="_blank">
                 <i class="fa fa-twitter"></i>
             </a>
         </li>
         <li>
-            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fltos%2f&amp;title=Learning%20to%20Share%20in%20Multi-Agent%20Reinforcement%20Learning" target="_blank">
+            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fltos%2f&amp;title=%5bNIPS%2722%5d%20Learning%20to%20Share%20in%20Multi-Agent%20Reinforcement%20Learning" target="_blank">
                 <i class="fa fa-linkedin"></i>
             </a>
         </li>
         <li>
-            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fltos%2f&amp;title=Learning%20to%20Share%20in%20Multi-Agent%20Reinforcement%20Learning" target="_blank">
+            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fltos%2f&amp;title=%5bNIPS%2722%5d%20Learning%20to%20Share%20in%20Multi-Agent%20Reinforcement%20Learning" target="_blank">
                 <i class="fa fa-weibo"></i>
             </a>
         </li>
         <li>
-            <a class="email" href="mailto:?subject=Learning%20to%20Share%20in%20Multi-Agent%20Reinforcement%20Learning&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fltos%2f">
+            <a class="email" href="mailto:?subject=%5bNIPS%2722%5d%20Learning%20to%20Share%20in%20Multi-Agent%20Reinforcement%20Learning&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fltos%2f">
                 <i class="fa fa-envelope"></i>
             </a>
         </li>
@@ -118,14 +118,14 @@
 
         <h3>Abstract</h3>
 
-	<p align="justify" class="pub-abstract" itemprop="text">In this paper, we study the problem of networked multi-agent reinforcement learning (MARL), where a number of agents are deployed as a partially connected network. Networked MARL requires all agents make decision in a decentralized manner to optimize a global objective with restricted communication between neighbors over the network. We propose a hierarchically decentralized MARL method,  extit{LToS}, which enables agents to learn to dynamically share reward with neighbors so as to encourage agents to cooperate on the global objective. For each agent, the high-level policy learns how to share reward with neighbors to decompose the global objective, while the low-level policy learns to optimize local objective induced by the high-level policies in the neighborhood. The two policies form a bi-level optimization and learn alternately. We empirically demonstrate that LToS outperforms existing methods in both social dilemma and two networked MARL scenarios.</p>
+	<p align="justify" class="pub-abstract" itemprop="text">In this paper, we study the problem of networked multi-agent reinforcement learning (MARL), where a number of agents are deployed as a partially connected network and each interacts only with nearby agents. Networked MARL requires all agents to make decisions in a decentralized manner to optimize a global objective with restricted communication between neighbors over the network. Inspired by the fact that sharing plays a key role in human&rsquo;s learning of cooperation, we propose LToS, a hierarchically decentralized MARL framework that enables agents to learn to dynamically share reward with neighbors so as to encourage agents to cooperate on the global objective through collectives. For each agent, the high-level policy learns how to share reward with neighbors to decompose the global objective, while the low-level policy learns to optimize the local objective induced by the high-level policies in the neighborhood. The two policies form a bi-level optimization and learn alternately. We empirically demonstrate that LToS outperforms existing methods in both social dilemma and networked MARL scenarios across scales.</p>
 
         <div class="row">
             <div class="col-sm-1"></div>
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-                    <div class="col-xs-12 col-sm-9">ICLR’22 Workshop on Gamification and Multiagent Solutions</div>
+                    <div class="col-xs-12 col-sm-9"><em>Thirty-Sixth Annual Conference on Neural Information Processing Systems</em> (NIPS), November 28 - December 9, 2022.</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -137,7 +137,7 @@
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
-                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">January, 2021</div>
+                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">October, 2022</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -156,15 +156,17 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://openreview.net/pdf?id=Sqxvjqy6xc">PDF</a>
+<a class="btn btn-primary btn-outline" href="https://openreview.net/pdf?id=0vJH6C_h4-">PDF</a>
 
 
-
-<a class="btn btn-primary btn-outline" href="https://github.com/zhuliwen/RoadnetSZ">Dataset</a>
-<a class="btn btn-primary btn-outline" href="https://z0ngqing.github.io/project/learning/">Project</a>
+<a class="btn btn-primary btn-outline" href="https://github.com/PKU-RL/RoadnetSZ">Code</a>
+<a class="btn btn-primary btn-outline" href="https://github.com/PKU-RL/RoadnetSZ">Dataset</a>
+<a class="btn btn-primary btn-outline" href="https://z0ngqing.github.io/project/cooperation/">Project</a>
 
 
 <a class="btn btn-primary btn-outline" href="https://mobile.twitter.com/GamificationMAS/status/1526217447665283074?cxt=HHwWhMC9odarm64qAAAA">Best Cooperative AI Paper Award</a>
+
+<a class="btn btn-primary btn-outline" href="https://sites.google.com/view/collective-learning/home?authuser=0">ICLR’22 Workshop on GamificationMAS</a>
 
 <a class="btn btn-primary btn-outline" href="https://sites.google.com/view/collective-learning/home?authuser=0">ICLR&#39;22 Workshop on Cells2Societies (oral)</a>
 

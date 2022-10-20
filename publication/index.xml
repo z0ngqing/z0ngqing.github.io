@@ -7,10 +7,100 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Zongqing Lu</copyright>
-    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Multi-Agent Automated Machine Learning</title>
+      <link>https://z0ngqing.github.io/publication/ma2ml/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/ma2ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NIPS&#39;22] I2Q: A Fully Decentralized Q-Learning Algorithm</title>
+      <link>https://z0ngqing.github.io/publication/i2q/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/i2q/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Agent Sequential Decision-Making via Communication</title>
+      <link>https://z0ngqing.github.io/publication/seqcomm/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/seqcomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NIPS&#39;22] Model-Based Opponent Modeling</title>
+      <link>https://z0ngqing.github.io/publication/mbom/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/mbom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More Centralized Training, Still Decentralized Execution: Multi-Agent Conditional Policy Factorization</title>
+      <link>https://z0ngqing.github.io/publication/macpf/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/macpf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NIPS&#39;22] Mildly Conservative Q-Learning for Offline Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/mcq/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/mcq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MA2QL: A Minimalist Approach to Fully Decentralized Multi-Agent Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/ma2ql/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/ma2ql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NIPS&#39;22] Double Check Your State Before Trusting It: Confidence-Aware Bidirectional Offline Model-Based Imagination</title>
+      <link>https://z0ngqing.github.io/publication/cabi/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/cabi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NIPS&#39;22] Learning to Share in Multi-Agent Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/ltos/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/ltos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NIPS&#39;22] Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/dexhands/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/dexhands/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[ICML&#39;22] Divergence-Regularized Multi-Agent Actor-Critic</title>
@@ -90,15 +180,6 @@
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/metavim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning to Share in Multi-Agent Reinforcement Learning</title>
-      <link>https://z0ngqing.github.io/publication/ltos/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/ltos/</guid>
       <description></description>
     </item>
     

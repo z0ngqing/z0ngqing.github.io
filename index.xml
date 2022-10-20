@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Zongqing Lu</copyright>
-    <lastBuildDate>Mon, 06 Jun 2022 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 29 Sep 2022 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Six papers accepted at NIPS&#39;22</title>
+      <link>https://z0ngqing.github.io/news/nips22/</link>
+      <pubDate>Thu, 29 Sep 2022 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/nips22/</guid>
+      <description>Our six papers about reinforcement learning were accepted at NIPS&amp;rsquo;22.</description>
+    </item>
     
     <item>
       <title>Three papers accepted at ICML&#39;22</title>
@@ -198,10 +207,101 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/service/</guid>
-      <description> Program Committee Member (Reviewer)  ICLR 2022 2021 2020, NeurIPS 2022 2021 2020, ICML 2022 2021, AAAI 2022, IJCAI 2022 2021 2020, AAMAS 2020, CoRL 2020 Nature Machine Intelligence  Conference Organization  ICML 2021 Workshop on Reinforcement Learning for Real Life, General Co-Chair
+      <description> Program Committee Member (Reviewer)  ICLR 2023 2022 2021 2020, NeurIPS 2022 2021 2020, ICML 2022 2021, AAAI 2022, IJCAI 2022 2021 2020, AAMAS 2020, CoRL 2020 Nature Machine Intelligence  Conference Organization  IEEE Conference on Games 2022, Keynote Co-Chair
+ ICML 2021 Workshop on Reinforcement Learning for Real Life, General Co-Chair
  INFOCOM 2020 Worksop on Network Intelligence, General Co-Chair
  ACM TURC 2018, Award Co-Chair
   Editorship  Associate Editor, ACM Journal on Autonomous Transportation Systems  </description>
+    </item>
+    
+    <item>
+      <title>Multi-Agent Automated Machine Learning</title>
+      <link>https://z0ngqing.github.io/publication/ma2ml/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/ma2ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NIPS&#39;22] I2Q: A Fully Decentralized Q-Learning Algorithm</title>
+      <link>https://z0ngqing.github.io/publication/i2q/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/i2q/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Agent Sequential Decision-Making via Communication</title>
+      <link>https://z0ngqing.github.io/publication/seqcomm/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/seqcomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NIPS&#39;22] Model-Based Opponent Modeling</title>
+      <link>https://z0ngqing.github.io/publication/mbom/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/mbom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More Centralized Training, Still Decentralized Execution: Multi-Agent Conditional Policy Factorization</title>
+      <link>https://z0ngqing.github.io/publication/macpf/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/macpf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NIPS&#39;22] Mildly Conservative Q-Learning for Offline Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/mcq/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/mcq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MA2QL: A Minimalist Approach to Fully Decentralized Multi-Agent Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/ma2ql/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/ma2ql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NIPS&#39;22] Double Check Your State Before Trusting It: Confidence-Aware Bidirectional Offline Model-Based Imagination</title>
+      <link>https://z0ngqing.github.io/publication/cabi/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/cabi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NIPS&#39;22] Learning to Share in Multi-Agent Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/ltos/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/ltos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NIPS&#39;22] Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/dexhands/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/dexhands/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -312,15 +412,6 @@ GENE Sparse reward is one of the biggest challenges in RL. We propose a novel me
       <guid>https://z0ngqing.github.io/project/cooperation/</guid>
       <description>Cooperation Cooperation has been one of the major research topics in MARL. We investigate multi-agent cooperation from many aspects, including adaptive learning rates, reward sharing, roles, and fairness.
 FEN Fairness is essential for human society, contributing to stability and productivity. Similarly, fairness is also the key for many multi-agent systems. Taking fairness into multi-agent learning could help multi-agent systems become both efficient and stable. However, learning efficiency and fairness simultaneously is a complex, multi-objective, joint-policy optimization.</description>
-    </item>
-    
-    <item>
-      <title>Learning to Share in Multi-Agent Reinforcement Learning</title>
-      <link>https://z0ngqing.github.io/publication/ltos/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/ltos/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -536,8 +627,9 @@ FEN Fairness is essential for human society, contributing to stability and produ
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/about/</guid>
-      <description>I am a Boya Assistant Professor in the School of Computer Science, also affiliated with the Institute for Artificial Intelligence, Peking University.
-My research interests fall at the intersection between reinforcement learning and intelligent systems, with the aim of developing algorithms that can endow machines with the ability to autonomously acquire the skills to cooperate, communicate, and compete, and building next generation of intelligent systems that can better serve for our daily life.</description>
+      <description>I am a BOYA Assistant Professor in the School of Computer Science, also affiliated with the Institute for Artificial Intelligence, Peking University.
+My current research focuses on
+ Reinforcement Learning AI Systems  with the aim of developing learning algorithms that can endow agents with the ability to autonomously acquire the skills to cooperate, communicate, and compete, and building next generation of AI systems that can better serve for our daily life.</description>
     </item>
     
     <item>

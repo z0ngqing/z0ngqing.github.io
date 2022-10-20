@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Zongqing Lu</copyright>
-    <lastBuildDate>Mon, 06 Jun 2022 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 29 Sep 2022 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Six papers accepted at NIPS&#39;22</title>
+      <link>https://z0ngqing.github.io/news/nips22/</link>
+      <pubDate>Thu, 29 Sep 2022 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/nips22/</guid>
+      <description>Our six papers about reinforcement learning were accepted at NIPS&amp;rsquo;22.</description>
+    </item>
     
     <item>
       <title>Three papers accepted at ICML&#39;22</title>
