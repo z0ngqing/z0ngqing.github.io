@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://z0ngqing.github.io/news/iclr23/</loc>
+    <lastmod>2023-01-05T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://z0ngqing.github.io/news/nips22/</loc>
     <lastmod>2022-09-29T10:00:00+08:00</lastmod>
   </url>
@@ -113,6 +118,26 @@
   </url>
   
   <url>
+    <loc>https://z0ngqing.github.io/publication/macpf/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/adama/</loc>
+    <lastmod>2023-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/otc/</loc>
+    <lastmod>2023-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/tkde23/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://z0ngqing.github.io/publication/ma2ml/</loc>
     <lastmod>2022-10-17T00:00:00+00:00</lastmod>
   </url>
@@ -130,11 +155,6 @@
   <url>
     <loc>https://z0ngqing.github.io/publication/mbom/</loc>
     <lastmod>2022-10-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://z0ngqing.github.io/publication/macpf/</loc>
-    <lastmod>2022-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -163,6 +183,11 @@
   </url>
   
   <url>
+    <loc>https://z0ngqing.github.io/publication/tcad21/</loc>
+    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://z0ngqing.github.io/publication/dmac22/</loc>
     <lastmod>2022-06-06T00:00:00+00:00</lastmod>
   </url>
@@ -178,11 +203,6 @@
   </url>
   
   <url>
-    <loc>https://z0ngqing.github.io/publication/tcad21/</loc>
-    <lastmod>2021-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://z0ngqing.github.io/publication/eoi/</loc>
     <lastmod>2021-07-06T00:00:00+00:00</lastmod>
   </url>
@@ -190,11 +210,6 @@
   <url>
     <loc>https://z0ngqing.github.io/publication/fop/</loc>
     <lastmod>2021-07-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://z0ngqing.github.io/publication/adama/</loc>
-    <lastmod>2021-02-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -209,11 +224,6 @@
   
   <url>
     <loc>https://z0ngqing.github.io/publication/ver/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://z0ngqing.github.io/publication/metavim/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -474,7 +484,7 @@
   
   <url>
     <loc>https://z0ngqing.github.io/news/</loc>
-    <lastmod>2022-09-29T10:00:00+08:00</lastmod>
+    <lastmod>2023-01-05T10:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -492,7 +502,7 @@
   
   <url>
     <loc>https://z0ngqing.github.io/publication/</loc>
-    <lastmod>2022-10-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -534,7 +544,7 @@
   
   <url>
     <loc>https://z0ngqing.github.io/</loc>
-    <lastmod>2022-09-29T10:00:00+08:00</lastmod>
+    <lastmod>2023-01-05T10:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
