@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Zongqing Lu</copyright>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Multiagent Learning</title>
+      <link>https://z0ngqing.github.io/tags/multiagent-learning/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/tags/multiagent-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/tags/reinforcement-learning/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Applications</title>
@@ -18,24 +36,6 @@
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/tags/applications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Community</title>
-      <link>https://z0ngqing.github.io/tags/community/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/tags/community/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Offload</title>
-      <link>https://z0ngqing.github.io/tags/data-offload/</link>
-      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/tags/data-offload/</guid>
       <description></description>
     </item>
     
@@ -58,6 +58,33 @@
     </item>
     
     <item>
+      <title>Data Offload</title>
+      <link>https://z0ngqing.github.io/tags/data-offload/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/tags/data-offload/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opportunistic Networking</title>
+      <link>https://z0ngqing.github.io/tags/opportunistic-networking/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/tags/opportunistic-networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smartphones</title>
+      <link>https://z0ngqing.github.io/tags/smartphones/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/tags/smartphones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Human Contact Networks</title>
       <link>https://z0ngqing.github.io/tags/human-contact-networks/</link>
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
@@ -76,42 +103,6 @@
     </item>
     
     <item>
-      <title>Information Diffusion</title>
-      <link>https://z0ngqing.github.io/tags/information-diffusion/</link>
-      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/tags/information-diffusion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multiagent Learning</title>
-      <link>https://z0ngqing.github.io/tags/multiagent-learning/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/tags/multiagent-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Opportunistic Networking</title>
-      <link>https://z0ngqing.github.io/tags/opportunistic-networking/</link>
-      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/tags/opportunistic-networking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning</title>
-      <link>https://z0ngqing.github.io/tags/reinforcement-learning/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/tags/reinforcement-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Respiratory Symptoms</title>
       <link>https://z0ngqing.github.io/tags/respiratory-symptoms/</link>
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
@@ -121,11 +112,29 @@
     </item>
     
     <item>
-      <title>Smartphones</title>
-      <link>https://z0ngqing.github.io/tags/smartphones/</link>
-      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <title>video</title>
+      <link>https://z0ngqing.github.io/tags/video/</link>
+      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/tags/smartphones/</guid>
+      <guid>https://z0ngqing.github.io/tags/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>https://z0ngqing.github.io/tags/community/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/tags/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information Diffusion</title>
+      <link>https://z0ngqing.github.io/tags/information-diffusion/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/tags/information-diffusion/</guid>
       <description></description>
     </item>
     
@@ -135,15 +144,6 @@
       <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/tags/social-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video</title>
-      <link>https://z0ngqing.github.io/tags/video/</link>
-      <pubDate>Sun, 27 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/tags/video/</guid>
       <description></description>
     </item>
     

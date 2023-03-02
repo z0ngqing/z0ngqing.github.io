@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Zongqing Lu</copyright>
-    <lastBuildDate>Thu, 05 Jan 2023 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 28 Feb 2023 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>One paper accepted at CVPR&#39;23</title>
+      <link>https://z0ngqing.github.io/news/cvpr23/</link>
+      <pubDate>Tue, 28 Feb 2023 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/cvpr23/</guid>
+      <description>Our paper, MA2ML, was accepted at CVPR&amp;rsquo;23. MA2ML is a MARL algorithm for full-pipeline automated machine learning.</description>
+    </item>
     
     <item>
       <title>Three papers accepted respectively at ICLR&#39;23, AAAI&#39;23, and AAMAS&#39;23</title>
