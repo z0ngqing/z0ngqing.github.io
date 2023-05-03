@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Zongqing Lu</copyright>
-    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[ACL&#39;23] Multi-Agent Language Learning: Symbolic Mapping</title>
+      <link>https://z0ngqing.github.io/publication/acl23/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/acl23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICML&#39;23] Entity Divider with Language Grounding in Multi-Agent Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/endi/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/endi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[CVPR&#39;23] Multi-Agent Automated Machine Learning</title>
@@ -108,15 +126,6 @@
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/dpo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Entity Divider with Language Grounding in Multi-Agent Reinforcement Learning</title>
-      <link>https://z0ngqing.github.io/publication/endi/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/endi/</guid>
       <description></description>
     </item>
     

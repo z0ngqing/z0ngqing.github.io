@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Zongqing Lu</copyright>
-    <lastBuildDate>Tue, 28 Feb 2023 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2023 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Two papers accepted respectively at ACL&#39;23 and ICML&#39;23</title>
+      <link>https://z0ngqing.github.io/news/icml23/</link>
+      <pubDate>Mon, 01 May 2023 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/icml23/</guid>
+      <description>Our two papers about language learning and language grounding via reinforcement learning were respectively accepted at ACL&amp;rsquo;23 and ICML&amp;rsquo;23.</description>
+    </item>
     
     <item>
       <title>One paper accepted at CVPR&#39;23</title>
