@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Zongqing Lu</copyright>
-    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[ICCV&#39;23] ReLeaPS: Reinforcement Learning-based Illumination Planning for Generalized Photometric Stereo</title>
+      <link>https://z0ngqing.github.io/publication/releaps/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/releaps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ECAI&#39;23] Offline Decentralized Multi-Agent Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/mabcq/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/mabcq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tackling Non-Stationarity in Reinforcement Learning via Causal-Origin Representation</title>
+      <link>https://z0ngqing.github.io/publication/corep/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/corep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Off-Policy RL Algorithms Can be Sample-Efficient for Continuous Control via Sample Multiple Reuse</title>
+      <link>https://z0ngqing.github.io/publication/smr/</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/smr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[ACL&#39;23] Multi-Agent Language Learning: Symbolic Mapping</title>
@@ -67,6 +103,15 @@
     </item>
     
     <item>
+      <title>[ICLR&#39;23] State Advantage Weighting for Offline RL</title>
+      <link>https://z0ngqing.github.io/publication/saw/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/saw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[ICLR&#39;23] More Centralized Training, Still Decentralized Execution: Multi-Agent Conditional Policy Factorization</title>
       <link>https://z0ngqing.github.io/publication/macpf/</link>
       <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
@@ -76,20 +121,20 @@
     </item>
     
     <item>
+      <title>[AAMAS&#39;23] Adaptive Learning Rates for Multi-Agent Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/adama/</link>
+      <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/adama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Survey on Transformers in Reinforcement Learning</title>
       <link>https://z0ngqing.github.io/publication/transformer/</link>
       <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/transformer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[AAMAS&#39;23] Adaptive Learning Rates for Multi-Agent Reinforcement Learning</title>
-      <link>https://z0ngqing.github.io/publication/adama/</link>
-      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/adama/</guid>
       <description></description>
     </item>
     
@@ -108,15 +153,6 @@
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/tkde23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>State Advantage Weighting for Offline RL</title>
-      <link>https://z0ngqing.github.io/publication/saw/</link>
-      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/saw/</guid>
       <description></description>
     </item>
     
@@ -212,37 +248,28 @@
     
     <item>
       <title>[ICML&#39;22] Divergence-Regularized Multi-Agent Actor-Critic</title>
-      <link>https://z0ngqing.github.io/publication/dmac22/</link>
+      <link>https://z0ngqing.github.io/publication/dmac/</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/publication/dmac22/</guid>
+      <guid>https://z0ngqing.github.io/publication/dmac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[ICML&#39;22] Robust Task Representations for Offline Meta-Reinforcement Learning via Contrastive Learning</title>
-      <link>https://z0ngqing.github.io/publication/corro22/</link>
+      <link>https://z0ngqing.github.io/publication/corro/</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/publication/corro22/</guid>
+      <guid>https://z0ngqing.github.io/publication/corro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[ICML&#39;22] Difference Advantage Estimation for Multi-Agent Policy Gradients</title>
-      <link>https://z0ngqing.github.io/publication/dae22/</link>
+      <link>https://z0ngqing.github.io/publication/dae/</link>
       <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/publication/dae22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Offline Decentralized Multi-Agent Reinforcement Learning</title>
-      <link>https://z0ngqing.github.io/publication/mabcq/</link>
-      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/mabcq/</guid>
+      <guid>https://z0ngqing.github.io/publication/dae/</guid>
       <description></description>
     </item>
     
@@ -284,19 +311,19 @@
     
     <item>
       <title>[AAAI&#39;21] Hierarchically and Cooperatively Learning Traffic Signal Control</title>
-      <link>https://z0ngqing.github.io/publication/aaai21/</link>
+      <link>https://z0ngqing.github.io/publication/hilight/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/publication/aaai21/</guid>
+      <guid>https://z0ngqing.github.io/publication/hilight/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[DATE&#39;21] Asynchronous Reinforcement Learning Framework for Net Order Exploration in Detailed Routing</title>
-      <link>https://z0ngqing.github.io/publication/date21/</link>
+      <link>https://z0ngqing.github.io/publication/date/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/publication/date21/</guid>
+      <guid>https://z0ngqing.github.io/publication/date/</guid>
       <description></description>
     </item>
     
@@ -338,10 +365,10 @@
     
     <item>
       <title>[ICLR&#39;20] Graph Convolutional Reinforcement Learning</title>
-      <link>https://z0ngqing.github.io/publication/iclr20/</link>
+      <link>https://z0ngqing.github.io/publication/dgn/</link>
       <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/publication/iclr20/</guid>
+      <guid>https://z0ngqing.github.io/publication/dgn/</guid>
       <description></description>
     </item>
     
@@ -356,19 +383,19 @@
     
     <item>
       <title>[AAAI&#39;20] Generative Exploration and Exploitation</title>
-      <link>https://z0ngqing.github.io/publication/aaai20/</link>
+      <link>https://z0ngqing.github.io/publication/gene/</link>
       <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/publication/aaai20/</guid>
+      <guid>https://z0ngqing.github.io/publication/gene/</guid>
       <description></description>
     </item>
     
     <item>
       <title>[NIPS&#39;19] Learning Fairness in Multi-Agent Systems</title>
-      <link>https://z0ngqing.github.io/publication/nips19/</link>
+      <link>https://z0ngqing.github.io/publication/fen/</link>
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/publication/nips19/</guid>
+      <guid>https://z0ngqing.github.io/publication/fen/</guid>
       <description></description>
     </item>
     
@@ -383,10 +410,10 @@
     
     <item>
       <title>[NIPS&#39;18] Learning Attentional Communication for Multi-Agent Cooperation</title>
-      <link>https://z0ngqing.github.io/publication/nips18/</link>
+      <link>https://z0ngqing.github.io/publication/atoc/</link>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/publication/nips18/</guid>
+      <guid>https://z0ngqing.github.io/publication/atoc/</guid>
       <description></description>
     </item>
     

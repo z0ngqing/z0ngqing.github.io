@@ -20,9 +20,9 @@
 
 
     <link rel="shortcut icon" href="https://z0ngqing.github.io/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" href="https://z0ngqing.github.io/publication/adama/">
+    <link rel="canonical" href="https://z0ngqing.github.io/publication/fen/">
 
-    <title>[AAMAS&#39;23] Adaptive Learning Rates for Multi-Agent Reinforcement Learning | Zongqing&#39;s Homepage</title>
+    <title>[NIPS&#39;19] Learning Fairness in Multi-Agent Systems | Zongqing&#39;s Homepage</title>
 
 </head>
 <body id="top">
@@ -72,7 +72,7 @@
 
     <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
         <div class="pub-title">
-            <h1 itemprop="name">[AAMAS&#39;23] Adaptive Learning Rates for Multi-Agent Reinforcement Learning</h1>
+            <h1 itemprop="name">[NIPS&#39;19] Learning Fairness in Multi-Agent Systems</h1>
             <span class="pub-authors" itemprop="author">
                 
                 Jiechuan Jiang and Zongqing Lu
@@ -83,27 +83,27 @@
 <div class="share-box">
     <ul class="share">
         <li>
-            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fadama%2f" target="_blank">
+            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2ffen%2f" target="_blank">
                 <i class="fa fa-facebook"></i>
             </a>
         </li>
         <li>
-            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bAAMAS%2723%5d%20Adaptive%20Learning%20Rates%20for%20Multi-Agent%20Reinforcement%20Learning&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fadama%2f" target="_blank">
+            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bNIPS%2719%5d%20Learning%20Fairness%20in%20Multi-Agent%20Systems&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2ffen%2f" target="_blank">
                 <i class="fa fa-twitter"></i>
             </a>
         </li>
         <li>
-            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fadama%2f&amp;title=%5bAAMAS%2723%5d%20Adaptive%20Learning%20Rates%20for%20Multi-Agent%20Reinforcement%20Learning" target="_blank">
+            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2ffen%2f&amp;title=%5bNIPS%2719%5d%20Learning%20Fairness%20in%20Multi-Agent%20Systems" target="_blank">
                 <i class="fa fa-linkedin"></i>
             </a>
         </li>
         <li>
-            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fadama%2f&amp;title=%5bAAMAS%2723%5d%20Adaptive%20Learning%20Rates%20for%20Multi-Agent%20Reinforcement%20Learning" target="_blank">
+            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2ffen%2f&amp;title=%5bNIPS%2719%5d%20Learning%20Fairness%20in%20Multi-Agent%20Systems" target="_blank">
                 <i class="fa fa-weibo"></i>
             </a>
         </li>
         <li>
-            <a class="email" href="mailto:?subject=%5bAAMAS%2723%5d%20Adaptive%20Learning%20Rates%20for%20Multi-Agent%20Reinforcement%20Learning&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fadama%2f">
+            <a class="email" href="mailto:?subject=%5bNIPS%2719%5d%20Learning%20Fairness%20in%20Multi-Agent%20Systems&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2ffen%2f">
                 <i class="fa fa-envelope"></i>
             </a>
         </li>
@@ -118,14 +118,14 @@
 
         <h3>Abstract</h3>
 
-	<p align="justify" class="pub-abstract" itemprop="text">In multi-agent reinforcement learning (MARL), the learning rates of actors and critic are mostly hand-tuned and fixed. This not only requires heavy tuning but more importantly limits the learning. With adaptive learning rates according to gradient patterns, some optimizers have been proposed for general optimizations, which however do not take into consideration the characteristics of MARL. In this paper, we propose AdaMa to bring adaptive learning rates to cooperative MARL. AdaMa evaluates the contribution of actors’ updates to the improvement of Q-value and adaptively updates the learning rates of actors to the direction of maximally improving the Q-value. AdaMa could also dynamically balance the learning rates between the critic and actors according to their varying effects on the learning. Moreover, AdaMa can incorporate the second-order approximation to capture the contribution of pairwise actors’ updates and thus more accurately updates the learning rates of actors. Empirically, we show that AdaMa could accelerate the learning and improve the performance in a variety of multi-agent scenarios. Specifically, AdaMa not only obtains better performance than grid search on the learning rates, but also significantly reduces the training cost. The visualizations of learning rates during training clearly explain how and why AdaMa works.</p>
+	<p align="justify" class="pub-abstract" itemprop="text">Fairness is essential for human society, contributing to stability and productivity. Similarly, fairness is also the key for many multi-agent systems. Taking fairness into multi-agent learning could help multi-agent systems become both efficient and stable. However, learning efficiency and fairness simultaneously is a complex, multi-objective, joint-policy optimization. To tackle these difficulties, we propose FEN, a novel hierarchical reinforcement learning model. We first decompose fairness for each agent and propose <em>fair-efficient</em> reward that each agent learns its own policy to optimize. To avoid multi-objective conflict, we design a hierarchy consisting of a controller and several sub-policies, where the controller maximizes the fair-efficient reward by switching among the sub-policies that provides diverse behaviors to interact with the environment. FEN can be trained in a fully decentralized way, making it easy to be deployed in real-world applications. Empirically, we show that FEN easily learns both fairness and efficiency and significantly outperforms baselines in a variety of multi-agent scenarios.</p>
 
         <div class="row">
             <div class="col-sm-1"></div>
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-                    <div class="col-xs-12 col-sm-9">Twenty-Second International Conference on Autonomous Agents and Multiagent Systems (AAMAS), May 29 - June 2, 2023.</div>
+                    <div class="col-xs-12 col-sm-9"><em>Thirty-Third Annual Conference on Neural Information Processing Systems</em> (NIPS), December 8-14, 2019.</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -137,7 +137,7 @@
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
-                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">January, 2023</div>
+                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">September, 2019</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -156,10 +156,10 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://dl.acm.org/doi/pdf/10.5555/3545946.3598615">PDF</a>
+<a class="btn btn-primary btn-outline" href="https://proceedings.neurips.cc/paper_files/paper/2019/file/10493aa88605cad5ab4752b04a63d172-Paper.pdf">PDF</a>
 
-
-
+<a class="btn btn-primary btn-outline" href="https://github.com/PKU-AI-Edge/FEN">Video</a>
+<a class="btn btn-primary btn-outline" href="https://github.com/PKU-AI-Edge/FEN">Code</a>
 
 <a class="btn btn-primary btn-outline" href="https://z0ngqing.github.io/project/learning/">Project</a>
 
