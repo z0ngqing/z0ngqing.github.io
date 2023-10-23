@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Zongqing Lu</copyright>
-    <lastBuildDate>Mon, 01 May 2023 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2023 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Two papers accepted at NeurIPS&#39;23</title>
+      <link>https://z0ngqing.github.io/news/nips23/</link>
+      <pubDate>Sun, 01 Oct 2023 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/nips23/</guid>
+      <description>Our two papers about learning from observation and multi-agent reinforcement learning were accepted at NeurIPS&amp;rsquo;23. Congratulations to Bohan and Jiangxing.</description>
+    </item>
     
     <item>
       <title>Two papers accepted respectively at ACL&#39;23 and ICML&#39;23</title>

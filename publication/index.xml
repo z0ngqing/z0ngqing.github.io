@@ -7,10 +7,73 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Zongqing Lu</copyright>
-    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds</title>
+      <link>https://z0ngqing.github.io/publication/steve-eye/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/steve-eye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLaMA Rider: Spurring Large Language Models to Explore the Open World</title>
+      <link>https://z0ngqing.github.io/publication/llama-rider/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/llama-rider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NeurIPS&#39;23] Learning from Visual Observation via Offline Pretrained State-to-Go Transformer</title>
+      <link>https://z0ngqing.github.io/publication/stg/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/stg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NeurIPS&#39;23] Mutual-Information Regularized Multi-Agent Policy Iteration</title>
+      <link>https://z0ngqing.github.io/publication/mipi/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/mipi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RLAdapter: Bridging Large Language Models to Reinforcement Learning in Open Worlds</title>
+      <link>https://z0ngqing.github.io/publication/rladapter/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/rladapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[TMLR] A Survey on Transformers in Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/transformer/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks</title>
+      <link>https://z0ngqing.github.io/publication/plan4mc/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/plan4mc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[ICCV&#39;23] ReLeaPS: Reinforcement Learning-based Illumination Planning for Generalized Photometric Stereo</title>
@@ -126,15 +189,6 @@
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/adama/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Survey on Transformers in Reinforcement Learning</title>
-      <link>https://z0ngqing.github.io/publication/transformer/</link>
-      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/transformer/</guid>
       <description></description>
     </item>
     

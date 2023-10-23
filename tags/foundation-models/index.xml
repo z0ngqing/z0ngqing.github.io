@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foundation Models on Zongqing&#39;s Homepage</title>
+    <link>https://z0ngqing.github.io/tags/foundation-models/</link>
+    <description>Recent content in Foundation Models on Zongqing&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2022 Zongqing Lu</copyright>
+    <lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://z0ngqing.github.io/tags/foundation-models/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Generalist Agents</title>
+      <link>https://z0ngqing.github.io/project/agi/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/agi/</guid>
+      <description>Recently developed foundation models, such as large language models and multi-modal models, open great opportunities to build generally capable agents, combined with reinforcement learning. This project focuses on learning skills and foundation models and connecting them to build generalist agents. In the following, we introduce some of our studies. For more details, please refer to the papers.
+Plan4MC We study building a multi-task agent in Minecraft. Without human demonstrations, solving long-horizon tasks in this open-ended environment with reinforcement learning (RL) is extremely sample inefficient.</description>
+    </item>
+    
+  </channel>
+</rss>

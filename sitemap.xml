@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://z0ngqing.github.io/news/nips23/</loc>
+    <lastmod>2023-10-01T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://z0ngqing.github.io/news/icml23/</loc>
     <lastmod>2023-05-01T10:00:00+08:00</lastmod>
   </url>
@@ -129,13 +134,83 @@
   
   <url>
     <loc>https://z0ngqing.github.io/publication/</loc>
-    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://z0ngqing.github.io/publication/steve-eye/</loc>
+    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://z0ngqing.github.io/</loc>
-    <lastmod>2023-07-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/llama-rider/</loc>
+    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/news/</loc>
+    <lastmod>2023-10-01T10:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/stg/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/mipi/</loc>
+    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/rladapter/</loc>
+    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/transformer/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/plan4mc/</loc>
+    <lastmod>2023-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/tags/foundation-models/</loc>
+    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/project/agi/</loc>
+    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/project/</loc>
+    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/tags/reinforcement-learning/</loc>
+    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/tags/</loc>
+    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -162,12 +237,6 @@
   <url>
     <loc>https://z0ngqing.github.io/publication/acl23/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://z0ngqing.github.io/news/</loc>
-    <lastmod>2023-05-01T10:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -208,11 +277,6 @@
   <url>
     <loc>https://z0ngqing.github.io/publication/adama/</loc>
     <lastmod>2023-01-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://z0ngqing.github.io/publication/transformer/</loc>
-    <lastmod>2023-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -306,12 +370,6 @@
   </url>
   
   <url>
-    <loc>https://z0ngqing.github.io/project/</loc>
-    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://z0ngqing.github.io/project/communication/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url>
@@ -340,18 +398,6 @@
   <url>
     <loc>https://z0ngqing.github.io/project/learning/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://z0ngqing.github.io/tags/reinforcement-learning/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://z0ngqing.github.io/tags/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

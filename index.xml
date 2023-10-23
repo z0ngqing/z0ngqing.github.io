@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2022 Zongqing Lu</copyright>
-    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Two papers accepted at NeurIPS&#39;23</title>
+      <link>https://z0ngqing.github.io/news/nips23/</link>
+      <pubDate>Sun, 01 Oct 2023 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/nips23/</guid>
+      <description>Our two papers about learning from observation and multi-agent reinforcement learning were accepted at NeurIPS&amp;rsquo;23. Congratulations to Bohan and Jiangxing.</description>
+    </item>
     
     <item>
       <title>Two papers accepted respectively at ACL&#39;23 and ICML&#39;23</title>
@@ -234,10 +243,86 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/service/</guid>
-      <description>Program Committee Member (Reviewer)  ICLR 2023 2022 2021 2020, NeurIPS 2023 2022 2021 2020, ICML 2023 2022 2021, AAAI 2022, IJCAI 2022 2021 2020, AAMAS 2020, CoRL 2020 Nature Machine Intelligence  Conference Organization  IEEE Conference on Games 2022, Keynote Co-Chair
+      <description>Editorship and Area Chair  Associate Editor, ACM Journal on Autonomous Transportation Systems, 2022 -
+ Guest Editor, Machine Learning Special Issue on RL for Real Life, 2023
+ Area Chair, ICLR 2024
+  Conference Organization  IEEE Conference on Games 2022, Keynote Co-Chair
  ICML 2021 Workshop on Reinforcement Learning for Real Life, General Co-Chair
  INFOCOM 2020 Worksop on Network Intelligence, General Co-Chair
  ACM TURC 2018, Award Co-Chair</description>
+    </item>
+    
+    <item>
+      <title>Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds</title>
+      <link>https://z0ngqing.github.io/publication/steve-eye/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/steve-eye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LLaMA Rider: Spurring Large Language Models to Explore the Open World</title>
+      <link>https://z0ngqing.github.io/publication/llama-rider/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/llama-rider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NeurIPS&#39;23] Learning from Visual Observation via Offline Pretrained State-to-Go Transformer</title>
+      <link>https://z0ngqing.github.io/publication/stg/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/stg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NeurIPS&#39;23] Mutual-Information Regularized Multi-Agent Policy Iteration</title>
+      <link>https://z0ngqing.github.io/publication/mipi/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/mipi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RLAdapter: Bridging Large Language Models to Reinforcement Learning in Open Worlds</title>
+      <link>https://z0ngqing.github.io/publication/rladapter/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/rladapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[TMLR] A Survey on Transformers in Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/transformer/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks</title>
+      <link>https://z0ngqing.github.io/publication/plan4mc/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/plan4mc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalist Agents</title>
+      <link>https://z0ngqing.github.io/project/agi/</link>
+      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/agi/</guid>
+      <description>Recently developed foundation models, such as large language models and multi-modal models, open great opportunities to build generally capable agents, combined with reinforcement learning. This project focuses on learning skills and foundation models and connecting them to build generalist agents. In the following, we introduce some of our studies. For more details, please refer to the papers.
+Plan4MC We study building a multi-task agent in Minecraft. Without human demonstrations, solving long-horizon tasks in this open-ended environment with reinforcement learning (RL) is extremely sample inefficient.</description>
     </item>
     
     <item>
@@ -354,15 +439,6 @@
       <pubDate>Tue, 10 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/adama/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Survey on Transformers in Reinforcement Learning</title>
-      <link>https://z0ngqing.github.io/publication/transformer/</link>
-      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/transformer/</guid>
       <description></description>
     </item>
     
@@ -770,9 +846,10 @@ FEN Fairness is essential for human society, contributing to stability and produ
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/about/</guid>
-      <description>I am a BOYA Assistant Professor in the School of Computer Science, also affiliated with the Institute for Artificial Intelligence, Peking University.
+      <description>I am a BOYA Assistant Professor in the School of Computer Science, also affiliated with the Institute for Artificial Intelligence, Peking University (PKU).
+I also lead the Multimodal Interaction Research Center at Beijing Academy of Artificial Intelligence (BAAI).
 My current research focuses on
- Reinforcement Learning AI Systems  with the aim of developing learning algorithms that can endow agents with the ability to autonomously acquire the skills to cooperate, communicate, and compete, and building next generation of AI systems that can better serve for our daily life.</description>
+ Reinforcement Learning Generalist Agents  with the aim of developing learning algorithms that can endow agents with the ability to autonomously acquire the skills to cooperate, communicate, and compete, and building next generation of AI systems that can better serve for our daily life.</description>
     </item>
     
     <item>
