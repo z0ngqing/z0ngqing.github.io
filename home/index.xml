@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Zongqing&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 Zongqing Lu</copyright>
+    <copyright>&amp;copy; 2024 Zongqing Lu</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/teaching/</guid>
-      <description> Undergraduate Courses  Algorithms, Spring 2019, 2020, 2021, 2022 Data Structures and Algorithms, Spring 2018 Introduction to Computer Systems, Fall 2017  Gradudate Courses  Deep Reinforcement Learning, Spring 2020, 2021, 2022, 2023  </description>
+      <description> Undergraduate Courses  Algorithms, Spring 2019, 2020, 2021, 2022 Data Structures and Algorithms, Spring 2018 Introduction to Computer Systems, Fall 2017  Gradudate Courses  Deep Reinforcement Learning, Spring 2020, 2021, 2022, 2023, 2024  </description>
     </item>
     
     <item>
@@ -29,7 +29,7 @@
       <guid>https://z0ngqing.github.io/home/service/</guid>
       <description>Editorship and Area Chair  Associate Editor, ACM Journal on Autonomous Transportation Systems, 2022 -
  Guest Editor, Machine Learning Special Issue on RL for Real Life, 2023
- Area Chair, ICLR 2024
+ Area Chair, ICLR 2024, ICML 2024
   Conference Organization  IEEE Conference on Games 2022, Keynote Co-Chair
  ICML 2021 Workshop on Reinforcement Learning for Real Life, General Co-Chair
  INFOCOM 2020 Worksop on Network Intelligence, General Co-Chair
@@ -42,10 +42,10 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/about/</guid>
-      <description>I am a BOYA Assistant Professor in the School of Computer Science, also affiliated with the Institute for Artificial Intelligence, Peking University (PKU).
+      <description>I am an Associate Professor with tenure in the School of Computer Science at Peking University (PKU).
 I also lead the Multimodal Interaction Research Center at Beijing Academy of Artificial Intelligence (BAAI).
 My current research focuses on
- Reinforcement Learning Generalist Agents  with the aim of endowing agents with the ability to autonomously acquire skills to accomplish tasks, cooperate, and communicate in the open world, towards artificial general intelligence.</description>
+ Reinforcement Learning General Agents  with the aim of endowing agents with the ability to autonomously acquire skills to accomplish tasks, cooperate, and communicate in the open world, towards artificial general intelligence.</description>
     </item>
     
   </channel>

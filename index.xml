@@ -6,11 +6,20 @@
     <description>Recent content on Zongqing&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 Zongqing Lu</copyright>
-    <lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2024 Zongqing Lu</copyright>
+    <lastBuildDate>Tue, 16 Jan 2024 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Several papers accepted at ICLR&#39;24 and TMLR</title>
+      <link>https://z0ngqing.github.io/news/iclr24/</link>
+      <pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/iclr24/</guid>
+      <description>Three papers respectively on LMMs, policy pre-training and offline RL were accepted at ICLR&amp;rsquo;24. One paper on decentralized MARL was accepted at TMLR. Congratulations to all.</description>
+    </item>
     
     <item>
       <title>Two papers accepted at NeurIPS&#39;23</title>
@@ -234,7 +243,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/teaching/</guid>
-      <description> Undergraduate Courses  Algorithms, Spring 2019, 2020, 2021, 2022 Data Structures and Algorithms, Spring 2018 Introduction to Computer Systems, Fall 2017  Gradudate Courses  Deep Reinforcement Learning, Spring 2020, 2021, 2022, 2023  </description>
+      <description> Undergraduate Courses  Algorithms, Spring 2019, 2020, 2021, 2022 Data Structures and Algorithms, Spring 2018 Introduction to Computer Systems, Fall 2017  Gradudate Courses  Deep Reinforcement Learning, Spring 2020, 2021, 2022, 2023, 2024  </description>
     </item>
     
     <item>
@@ -245,7 +254,7 @@
       <guid>https://z0ngqing.github.io/home/service/</guid>
       <description>Editorship and Area Chair  Associate Editor, ACM Journal on Autonomous Transportation Systems, 2022 -
  Guest Editor, Machine Learning Special Issue on RL for Real Life, 2023
- Area Chair, ICLR 2024
+ Area Chair, ICLR 2024, ICML 2024
   Conference Organization  IEEE Conference on Games 2022, Keynote Co-Chair
  ICML 2021 Workshop on Reinforcement Learning for Real Life, General Co-Chair
  INFOCOM 2020 Worksop on Network Intelligence, General Co-Chair
@@ -253,11 +262,83 @@
     </item>
     
     <item>
-      <title>Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds</title>
+      <title>[ICLR&#39;24] Pre-Training Goal-Based Models for Sample-Efficient Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/ptgm/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/ptgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICLR&#39;24] SEABO: A Simple Search-Based Method for Offline Imitation Learning</title>
+      <link>https://z0ngqing.github.io/publication/seabo/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/seabo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICLR&#39;24] Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds</title>
       <link>https://z0ngqing.github.io/publication/steve-eye/</link>
-      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/steve-eye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[TMLR] A Fully Decentralized Surrogate for Multi-Agent Policy Optimization</title>
+      <link>https://z0ngqing.github.io/publication/dpo/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/dpo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[AAMAS&#39;24] Multi-Agent Alternate Q-Learning</title>
+      <link>https://z0ngqing.github.io/publication/ma2ql/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/ma2ql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[AAAI&#39;24] Learning Multi-Object Positional Relationships via Emergent Communication</title>
+      <link>https://z0ngqing.github.io/publication/position/</link>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/position/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[AAAI&#39;24] Settling Decentralized Multi-Agent Coordinated Exploration by Novelty Sharing</title>
+      <link>https://z0ngqing.github.io/publication/mace/</link>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/mace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skill Reinforcement Learning and Planning for Open-World Long-Horizon Tasks</title>
+      <link>https://z0ngqing.github.io/publication/plan4mc/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/plan4mc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[TPAMI] Bi-DexHands: Towards Human-Level Bimanual Dexterous Manipulation</title>
+      <link>https://z0ngqing.github.io/publication/bidexhands/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/bidexhands/</guid>
       <description></description>
     </item>
     
@@ -303,15 +384,6 @@
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/transformer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks</title>
-      <link>https://z0ngqing.github.io/publication/plan4mc/</link>
-      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/plan4mc/</guid>
       <description></description>
     </item>
     
@@ -398,15 +470,6 @@ Plan4MC We study building a multi-task agent in Minecraft. Without human demonst
     </item>
     
     <item>
-      <title>Learning Multi-Object Positional Relationships via Emergent Communication</title>
-      <link>https://z0ngqing.github.io/publication/position/</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/position/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Best Possible Q-Learning</title>
       <link>https://z0ngqing.github.io/publication/bql/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
@@ -461,15 +524,6 @@ Plan4MC We study building a multi-task agent in Minecraft. Without human demonst
     </item>
     
     <item>
-      <title>Decentralized Policy Optimization</title>
-      <link>https://z0ngqing.github.io/publication/dpo/</link>
-      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/dpo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>[NIPS&#39;22] I2Q: A Fully Decentralized Q-Learning Algorithm</title>
       <link>https://z0ngqing.github.io/publication/i2q/</link>
       <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
@@ -502,15 +556,6 @@ Plan4MC We study building a multi-task agent in Minecraft. Without human demonst
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/mcq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MA2QL: A Minimalist Approach to Fully Decentralized Multi-Agent Reinforcement Learning</title>
-      <link>https://z0ngqing.github.io/publication/ma2ql/</link>
-      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/ma2ql/</guid>
       <description></description>
     </item>
     
@@ -846,10 +891,10 @@ FEN Fairness is essential for human society, contributing to stability and produ
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/about/</guid>
-      <description>I am a BOYA Assistant Professor in the School of Computer Science, also affiliated with the Institute for Artificial Intelligence, Peking University (PKU).
+      <description>I am an Associate Professor with tenure in the School of Computer Science at Peking University (PKU).
 I also lead the Multimodal Interaction Research Center at Beijing Academy of Artificial Intelligence (BAAI).
 My current research focuses on
- Reinforcement Learning Generalist Agents  with the aim of endowing agents with the ability to autonomously acquire skills to accomplish tasks, cooperate, and communicate in the open world, towards artificial general intelligence.</description>
+ Reinforcement Learning General Agents  with the aim of endowing agents with the ability to autonomously acquire skills to accomplish tasks, cooperate, and communicate in the open world, towards artificial general intelligence.</description>
     </item>
     
     <item>

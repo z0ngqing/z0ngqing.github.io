@@ -6,18 +6,90 @@
     <description>Recent content in Publications on Zongqing&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 Zongqing Lu</copyright>
-    <lastBuildDate>Fri, 06 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2024 Zongqing Lu</copyright>
+    <lastBuildDate>Tue, 16 Jan 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds</title>
+      <title>[ICLR&#39;24] Pre-Training Goal-Based Models for Sample-Efficient Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/ptgm/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/ptgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICLR&#39;24] SEABO: A Simple Search-Based Method for Offline Imitation Learning</title>
+      <link>https://z0ngqing.github.io/publication/seabo/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/seabo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICLR&#39;24] Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds</title>
       <link>https://z0ngqing.github.io/publication/steve-eye/</link>
-      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/steve-eye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[TMLR] A Fully Decentralized Surrogate for Multi-Agent Policy Optimization</title>
+      <link>https://z0ngqing.github.io/publication/dpo/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/dpo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[AAMAS&#39;24] Multi-Agent Alternate Q-Learning</title>
+      <link>https://z0ngqing.github.io/publication/ma2ql/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/ma2ql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[AAAI&#39;24] Learning Multi-Object Positional Relationships via Emergent Communication</title>
+      <link>https://z0ngqing.github.io/publication/position/</link>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/position/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[AAAI&#39;24] Settling Decentralized Multi-Agent Coordinated Exploration by Novelty Sharing</title>
+      <link>https://z0ngqing.github.io/publication/mace/</link>
+      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/mace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skill Reinforcement Learning and Planning for Open-World Long-Horizon Tasks</title>
+      <link>https://z0ngqing.github.io/publication/plan4mc/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/plan4mc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[TPAMI] Bi-DexHands: Towards Human-Level Bimanual Dexterous Manipulation</title>
+      <link>https://z0ngqing.github.io/publication/bidexhands/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/bidexhands/</guid>
       <description></description>
     </item>
     
@@ -63,15 +135,6 @@
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/transformer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks</title>
-      <link>https://z0ngqing.github.io/publication/plan4mc/</link>
-      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/plan4mc/</guid>
       <description></description>
     </item>
     
@@ -148,15 +211,6 @@
     </item>
     
     <item>
-      <title>Learning Multi-Object Positional Relationships via Emergent Communication</title>
-      <link>https://z0ngqing.github.io/publication/position/</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/position/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Best Possible Q-Learning</title>
       <link>https://z0ngqing.github.io/publication/bql/</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
@@ -211,15 +265,6 @@
     </item>
     
     <item>
-      <title>Decentralized Policy Optimization</title>
-      <link>https://z0ngqing.github.io/publication/dpo/</link>
-      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/dpo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>[NIPS&#39;22] I2Q: A Fully Decentralized Q-Learning Algorithm</title>
       <link>https://z0ngqing.github.io/publication/i2q/</link>
       <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
@@ -252,15 +297,6 @@
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/mcq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MA2QL: A Minimalist Approach to Fully Decentralized Multi-Agent Reinforcement Learning</title>
-      <link>https://z0ngqing.github.io/publication/ma2ql/</link>
-      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/ma2ql/</guid>
       <description></description>
     </item>
     

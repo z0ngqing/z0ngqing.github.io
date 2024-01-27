@@ -8,7 +8,7 @@
     <meta name="theme" content="hugo-academic">
     <meta name="generator" content="Hugo 0.55.0" />
     <meta name="author" content="Zongqing Lu">
-    <meta name="description" content="BOYA Assistant Professor">
+    <meta name="description" content="Associate Professor">
 
     <link rel="stylesheet" href="https://z0ngqing.github.io/css/highlight.min.css">
     <link rel="stylesheet" href="https://z0ngqing.github.io/css/bootstrap.min.css">
@@ -22,7 +22,7 @@
     <link rel="shortcut icon" href="https://z0ngqing.github.io/img/favicon.ico" type="image/x-icon">
     <link rel="canonical" href="https://z0ngqing.github.io/publication/dpo/">
 
-    <title>Decentralized Policy Optimization | Zongqing&#39;s Homepage</title>
+    <title>[TMLR] A Fully Decentralized Surrogate for Multi-Agent Policy Optimization | Zongqing&#39;s Homepage</title>
 
 </head>
 <body id="top">
@@ -72,7 +72,7 @@
 
     <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
         <div class="pub-title">
-            <h1 itemprop="name">Decentralized Policy Optimization</h1>
+            <h1 itemprop="name">[TMLR] A Fully Decentralized Surrogate for Multi-Agent Policy Optimization</h1>
             <span class="pub-authors" itemprop="author">
                 
                 Kefan Su and Zongqing Lu
@@ -88,22 +88,22 @@
             </a>
         </li>
         <li>
-            <a class="twitter" href="https://twitter.com/intent/tweet?text=Decentralized%20Policy%20Optimization&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fdpo%2f" target="_blank">
+            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bTMLR%5d%20A%20Fully%20Decentralized%20Surrogate%20for%20Multi-Agent%20Policy%20Optimization&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fdpo%2f" target="_blank">
                 <i class="fa fa-twitter"></i>
             </a>
         </li>
         <li>
-            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fdpo%2f&amp;title=Decentralized%20Policy%20Optimization" target="_blank">
+            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fdpo%2f&amp;title=%5bTMLR%5d%20A%20Fully%20Decentralized%20Surrogate%20for%20Multi-Agent%20Policy%20Optimization" target="_blank">
                 <i class="fa fa-linkedin"></i>
             </a>
         </li>
         <li>
-            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fdpo%2f&amp;title=Decentralized%20Policy%20Optimization" target="_blank">
+            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fdpo%2f&amp;title=%5bTMLR%5d%20A%20Fully%20Decentralized%20Surrogate%20for%20Multi-Agent%20Policy%20Optimization" target="_blank">
                 <i class="fa fa-weibo"></i>
             </a>
         </li>
         <li>
-            <a class="email" href="mailto:?subject=Decentralized%20Policy%20Optimization&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fdpo%2f">
+            <a class="email" href="mailto:?subject=%5bTMLR%5d%20A%20Fully%20Decentralized%20Surrogate%20for%20Multi-Agent%20Policy%20Optimization&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fdpo%2f">
                 <i class="fa fa-envelope"></i>
             </a>
         </li>
@@ -118,14 +118,14 @@
 
         <h3>Abstract</h3>
 
-	<p align="justify" class="pub-abstract" itemprop="text">The study of decentralized learning or independent learning in cooperative multi-agent reinforcement learning has a history of decades. Recently empirical studies show that independent PPO (IPPO) can obtain good performance, close to or even better than the methods of centralized training with decentralized execution, in several benchmarks. However, decentralized actor-critic with convergence guarantee is still open. In this paper, we propose decentralized policy optimization (DPO), a decentralized actor-critic algorithm with monotonic improvement and convergence guarantee. We derive a novel decentralized surrogate for policy optimization such that the monotonic improvement of joint policy can be guaranteed by each agent independently optimizing the surrogate. In practice, this decentralized surrogate can be realized by two adaptive coefficients for policy optimization at each agent. Empirically, we compare DPO with IPPO in a variety of cooperative multi-agent tasks, covering discrete and continuous action spaces, and fully and partially observable environments. The results show DPO outperforms IPPO in most tasks, which can be the evidence for our theoretical results.</p>
+	<p align="justify" class="pub-abstract" itemprop="text">The study of fully decentralized learning or independent learning in cooperative multi-agent reinforcement learning has a history of decades. Recent empirical studies have shown that independent PPO (IPPO) can achieve good performance, comparable to or even better than the methods of centralized training with decentralized execution, in several benchmarks. However, a decentralized actor-critic algorithm with a convergence guarantee is still an open problem. In this paper, we propose decentralized policy optimization (DPO), a decentralized actor-critic algorithm with monotonic improvement and convergence guarantee. We derive a novel decentralized surrogate for policy optimization such that the monotonic improvement of joint policy can be guaranteed by each agent independently optimizing the surrogate. For practical implementation, this decentralized surrogate can be realized by two adaptive coefficients for policy optimization at each agent. Empirically, we evaluate DPO, IPPO, and independent Q-learning (IQL) in a variety of cooperative multi-agent tasks, covering discrete and continuous action spaces, as well as fully and partially observable environments. The results show DPO outperforms both IPPO and IQL in most tasks, which serves as evidence for our theoretical results. The code is available at <a href="https://github.com/PKU-RL/DPO">https://github.com/PKU-RL/DPO</a>.</p>
 
         <div class="row">
             <div class="col-sm-1"></div>
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-                    <div class="col-xs-12 col-sm-9">arXiv:2211.03032</div>
+                    <div class="col-xs-12 col-sm-9">Transactions on Machine Learning Research (TMLR), 2024</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -137,7 +137,7 @@
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
-                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">November, 2022</div>
+                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">January, 2024</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -159,7 +159,7 @@
 <a class="btn btn-primary btn-outline" href="https://arxiv.org/abs/arXiv:2211.03032">PDF</a>
 
 
-
+<a class="btn btn-primary btn-outline" href="https://github.com/PKU-RL/DPO">Code</a>
 
 <a class="btn btn-primary btn-outline" href="https://z0ngqing.github.io/project/learning/">Project</a>
 
@@ -197,7 +197,7 @@
     <div class="container">
         <p class="powered-by">
 
-            &copy; 2022 Zongqing Lu &middot; 
+            &copy; 2024 Zongqing Lu &middot; 
 
             Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
 

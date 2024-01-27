@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://z0ngqing.github.io/news/iclr24/</loc>
+    <lastmod>2024-01-16T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://z0ngqing.github.io/news/nips23/</loc>
     <lastmod>2023-10-01T10:00:00+08:00</lastmod>
   </url>
@@ -133,31 +138,71 @@
   </url>
   
   <url>
-    <loc>https://z0ngqing.github.io/publication/</loc>
-    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
+    <loc>https://z0ngqing.github.io/news/</loc>
+    <lastmod>2024-01-16T10:00:00+08:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://z0ngqing.github.io/publication/steve-eye/</loc>
-    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://z0ngqing.github.io/</loc>
-    <lastmod>2023-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-16T10:00:00+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/</loc>
+    <lastmod>2024-01-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/ptgm/</loc>
+    <lastmod>2024-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/seabo/</loc>
+    <lastmod>2024-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/steve-eye/</loc>
+    <lastmod>2024-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/dpo/</loc>
+    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/ma2ql/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/position/</loc>
+    <lastmod>2023-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/mace/</loc>
+    <lastmod>2023-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/plan4mc/</loc>
+    <lastmod>2023-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/bidexhands/</loc>
+    <lastmod>2023-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://z0ngqing.github.io/publication/llama-rider/</loc>
     <lastmod>2023-10-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://z0ngqing.github.io/news/</loc>
-    <lastmod>2023-10-01T10:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -178,11 +223,6 @@
   <url>
     <loc>https://z0ngqing.github.io/publication/transformer/</loc>
     <lastmod>2023-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://z0ngqing.github.io/publication/plan4mc/</loc>
-    <lastmod>2023-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -255,11 +295,6 @@
   </url>
   
   <url>
-    <loc>https://z0ngqing.github.io/publication/position/</loc>
-    <lastmod>2023-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://z0ngqing.github.io/publication/bql/</loc>
     <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url>
@@ -290,11 +325,6 @@
   </url>
   
   <url>
-    <loc>https://z0ngqing.github.io/publication/dpo/</loc>
-    <lastmod>2022-11-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://z0ngqing.github.io/publication/i2q/</loc>
     <lastmod>2022-10-17T00:00:00+00:00</lastmod>
   </url>
@@ -312,11 +342,6 @@
   <url>
     <loc>https://z0ngqing.github.io/publication/mcq/</loc>
     <lastmod>2022-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://z0ngqing.github.io/publication/ma2ql/</loc>
-    <lastmod>2022-10-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>

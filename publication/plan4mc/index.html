@@ -8,7 +8,7 @@
     <meta name="theme" content="hugo-academic">
     <meta name="generator" content="Hugo 0.55.0" />
     <meta name="author" content="Zongqing Lu">
-    <meta name="description" content="BOYA Assistant Professor">
+    <meta name="description" content="Associate Professor">
 
     <link rel="stylesheet" href="https://z0ngqing.github.io/css/highlight.min.css">
     <link rel="stylesheet" href="https://z0ngqing.github.io/css/bootstrap.min.css">
@@ -22,7 +22,7 @@
     <link rel="shortcut icon" href="https://z0ngqing.github.io/img/favicon.ico" type="image/x-icon">
     <link rel="canonical" href="https://z0ngqing.github.io/publication/plan4mc/">
 
-    <title>Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks | Zongqing&#39;s Homepage</title>
+    <title>Skill Reinforcement Learning and Planning for Open-World Long-Horizon Tasks | Zongqing&#39;s Homepage</title>
 
 </head>
 <body id="top">
@@ -72,7 +72,7 @@
 
     <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
         <div class="pub-title">
-            <h1 itemprop="name">Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks</h1>
+            <h1 itemprop="name">Skill Reinforcement Learning and Planning for Open-World Long-Horizon Tasks</h1>
             <span class="pub-authors" itemprop="author">
                 
                 Haoqi Yuan, Chi Zhang, Hongcheng Wang, Feiyang Xie, Penglin Cai, Hao Dong, Zongqing Lu
@@ -88,22 +88,22 @@
             </a>
         </li>
         <li>
-            <a class="twitter" href="https://twitter.com/intent/tweet?text=Plan4MC%3a%20Skill%20Reinforcement%20Learning%20and%20Planning%20for%20Open-World%20Minecraft%20Tasks&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fplan4mc%2f" target="_blank">
+            <a class="twitter" href="https://twitter.com/intent/tweet?text=Skill%20Reinforcement%20Learning%20and%20Planning%20for%20Open-World%20Long-Horizon%20Tasks&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fplan4mc%2f" target="_blank">
                 <i class="fa fa-twitter"></i>
             </a>
         </li>
         <li>
-            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fplan4mc%2f&amp;title=Plan4MC%3a%20Skill%20Reinforcement%20Learning%20and%20Planning%20for%20Open-World%20Minecraft%20Tasks" target="_blank">
+            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fplan4mc%2f&amp;title=Skill%20Reinforcement%20Learning%20and%20Planning%20for%20Open-World%20Long-Horizon%20Tasks" target="_blank">
                 <i class="fa fa-linkedin"></i>
             </a>
         </li>
         <li>
-            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fplan4mc%2f&amp;title=Plan4MC%3a%20Skill%20Reinforcement%20Learning%20and%20Planning%20for%20Open-World%20Minecraft%20Tasks" target="_blank">
+            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fplan4mc%2f&amp;title=Skill%20Reinforcement%20Learning%20and%20Planning%20for%20Open-World%20Long-Horizon%20Tasks" target="_blank">
                 <i class="fa fa-weibo"></i>
             </a>
         </li>
         <li>
-            <a class="email" href="mailto:?subject=Plan4MC%3a%20Skill%20Reinforcement%20Learning%20and%20Planning%20for%20Open-World%20Minecraft%20Tasks&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fplan4mc%2f">
+            <a class="email" href="mailto:?subject=Skill%20Reinforcement%20Learning%20and%20Planning%20for%20Open-World%20Long-Horizon%20Tasks&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fplan4mc%2f">
                 <i class="fa fa-envelope"></i>
             </a>
         </li>
@@ -118,14 +118,14 @@
 
         <h3>Abstract</h3>
 
-	<p align="justify" class="pub-abstract" itemprop="text">We study building a multi-task agent in Minecraft. Without human demonstrations, solving long-horizon tasks in this open-ended environment with reinforcement learning (RL) is extremely sample inefficient. To tackle the challenge, we decompose solving Minecraft tasks into learning basic skills and planning over the skills. We propose three types of fine-grained basic skills in Minecraft, and use RL with intrinsic rewards to accomplish basic skills with high success rates. For skill planning, we use Large Language Models to find the relationships between skills and build a skill graph in advance. When the agent is solving a task, our skill search algorithm walks on the skill graph and generates the proper skill plans for the agent. In experiments, our method accomplishes 24 diverse Minecraft tasks, where many tasks require sequentially executing for more than 10 skills. Our method outperforms baselines in most tasks by a large margin.</p>
+	<p align="justify" class="pub-abstract" itemprop="text">We study building multi-task agents in open-world environments. Without human demonstrations, learning to accomplish long-horizon tasks in a large open-world environment with reinforcement learning (RL) is extremely inefficient. To tackle this challenge, we convert the multi-task learning problem into learning basic skills and planning over the skills. Using the popular open-world game Minecraft as the testbed, we propose three types of fine-grained basic skills, and use RL with intrinsic rewards to acquire skills. A novel Finding-skill that performs exploration to find diverse items provides better initialization for other skills, improving the sample efficiency for skill learning. In skill planning, we leverage the prior knowledge in Large Language Models to find the relationships between skills and build a skill graph. When the agent is solving a task, our skill search algorithm walks on the skill graph and generates the proper skill plans for the agent. In experiments, our method accomplishes 40 diverse Minecraft tasks, where many tasks require sequentially executing for more than 10 skills. Our method outperforms baselines by a large margin and is the most sample-efficient demonstration-free RL method to solve Minecraft Tech Tree tasks. The project&rsquo;s website and code can be found at <a href="https://github.com/PKU-RL/Plan4MC">https://github.com/PKU-RL/Plan4MC</a>.</p>
 
         <div class="row">
             <div class="col-sm-1"></div>
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-                    <div class="col-xs-12 col-sm-9">arXiv:2303.16563</div>
+                    <div class="col-xs-12 col-sm-9">NeurIPS 2023 Workshop on Foundation Models for Decision Making.</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -137,7 +137,7 @@
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
-                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">September, 2023</div>
+                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">December, 2023</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -197,7 +197,7 @@
     <div class="container">
         <p class="powered-by">
 
-            &copy; 2022 Zongqing Lu &middot; 
+            &copy; 2024 Zongqing Lu &middot; 
 
             Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
 

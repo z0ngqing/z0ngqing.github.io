@@ -6,11 +6,20 @@
     <description>Recent content in News on Zongqing&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 Zongqing Lu</copyright>
-    <lastBuildDate>Sun, 01 Oct 2023 10:00:00 +0800</lastBuildDate>
+    <copyright>&amp;copy; 2024 Zongqing Lu</copyright>
+    <lastBuildDate>Tue, 16 Jan 2024 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Several papers accepted at ICLR&#39;24 and TMLR</title>
+      <link>https://z0ngqing.github.io/news/iclr24/</link>
+      <pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/iclr24/</guid>
+      <description>Three papers respectively on LMMs, policy pre-training and offline RL were accepted at ICLR&amp;rsquo;24. One paper on decentralized MARL was accepted at TMLR. Congratulations to all.</description>
+    </item>
     
     <item>
       <title>Two papers accepted at NeurIPS&#39;23</title>
