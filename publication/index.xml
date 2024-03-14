@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Zongqing Lu</copyright>
-    <lastBuildDate>Tue, 16 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[NAACL&#39;24] AdaRefiner: Refining Decisions of Language Models with Adaptive Feedback</title>
+      <link>https://z0ngqing.github.io/publication/adarefiner/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/adarefiner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NAACL&#39;24] LLaMA Rider: Spurring Large Language Models to Explore the Open World</title>
+      <link>https://z0ngqing.github.io/publication/llama-rider/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/llama-rider/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[ICLR&#39;24] Pre-Training Goal-Based Models for Sample-Efficient Reinforcement Learning</title>
@@ -94,15 +112,6 @@
     </item>
     
     <item>
-      <title>LLaMA Rider: Spurring Large Language Models to Explore the Open World</title>
-      <link>https://z0ngqing.github.io/publication/llama-rider/</link>
-      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/llama-rider/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>[NeurIPS&#39;23] Learning from Visual Observation via Offline Pretrained State-to-Go Transformer</title>
       <link>https://z0ngqing.github.io/publication/stg/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
@@ -117,15 +126,6 @@
       <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/mipi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RLAdapter: Bridging Large Language Models to Reinforcement Learning in Open Worlds</title>
-      <link>https://z0ngqing.github.io/publication/rladapter/</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/rladapter/</guid>
       <description></description>
     </item>
     

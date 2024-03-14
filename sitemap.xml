@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://z0ngqing.github.io/news/naacl24/</loc>
+    <lastmod>2024-03-14T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://z0ngqing.github.io/news/iclr24/</loc>
     <lastmod>2024-01-16T10:00:00+08:00</lastmod>
   </url>
@@ -139,20 +144,30 @@
   
   <url>
     <loc>https://z0ngqing.github.io/news/</loc>
-    <lastmod>2024-01-16T10:00:00+08:00</lastmod>
+    <lastmod>2024-03-14T10:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://z0ngqing.github.io/</loc>
-    <lastmod>2024-01-16T10:00:00+08:00</lastmod>
+    <lastmod>2024-03-14T10:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://z0ngqing.github.io/publication/</loc>
-    <lastmod>2024-01-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/adarefiner/</loc>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/llama-rider/</loc>
+    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -201,11 +216,6 @@
   </url>
   
   <url>
-    <loc>https://z0ngqing.github.io/publication/llama-rider/</loc>
-    <lastmod>2023-10-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://z0ngqing.github.io/publication/stg/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -213,11 +223,6 @@
   <url>
     <loc>https://z0ngqing.github.io/publication/mipi/</loc>
     <lastmod>2023-09-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://z0ngqing.github.io/publication/rladapter/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>

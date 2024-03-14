@@ -7,13 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Zongqing Lu</copyright>
-    <lastBuildDate>Tue, 16 Jan 2024 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Several papers accepted at ICLR&#39;24, AAAI&#39;24, AAMAS&#39;24, and TMLR</title>
+      <title>Two papers accepted at NAACL&#39;24</title>
+      <link>https://z0ngqing.github.io/news/naacl24/</link>
+      <pubDate>Thu, 14 Mar 2024 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/naacl24/</guid>
+      <description>Two papers about fine-tuning LLMs for decision-making tasks, AdaRefiner and LLaMA-Rider, were accepted at NAACL&amp;rsquo;24.</description>
+    </item>
+    
+    <item>
+      <title>Eight papers accepted at ICLR&#39;24, AAAI&#39;24, AAMAS&#39;24, and TMLR</title>
       <link>https://z0ngqing.github.io/news/iclr24/</link>
       <pubDate>Tue, 16 Jan 2024 10:00:00 +0800</pubDate>
       
@@ -262,6 +271,24 @@
     </item>
     
     <item>
+      <title>[NAACL&#39;24] AdaRefiner: Refining Decisions of Language Models with Adaptive Feedback</title>
+      <link>https://z0ngqing.github.io/publication/adarefiner/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/adarefiner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NAACL&#39;24] LLaMA Rider: Spurring Large Language Models to Explore the Open World</title>
+      <link>https://z0ngqing.github.io/publication/llama-rider/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/llama-rider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>[ICLR&#39;24] Pre-Training Goal-Based Models for Sample-Efficient Reinforcement Learning</title>
       <link>https://z0ngqing.github.io/publication/ptgm/</link>
       <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
@@ -343,15 +370,6 @@
     </item>
     
     <item>
-      <title>LLaMA Rider: Spurring Large Language Models to Explore the Open World</title>
-      <link>https://z0ngqing.github.io/publication/llama-rider/</link>
-      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/llama-rider/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>[NeurIPS&#39;23] Learning from Visual Observation via Offline Pretrained State-to-Go Transformer</title>
       <link>https://z0ngqing.github.io/publication/stg/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
@@ -366,15 +384,6 @@
       <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/mipi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RLAdapter: Bridging Large Language Models to Reinforcement Learning in Open Worlds</title>
-      <link>https://z0ngqing.github.io/publication/rladapter/</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/rladapter/</guid>
       <description></description>
     </item>
     
@@ -891,7 +900,7 @@ FEN Fairness is essential for human society, contributing to stability and produ
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/about/</guid>
-      <description>I am an Associate Professor with tenure in the School of Computer Science at Peking University (PKU).
+      <description>I am a tenured Associate Professor in the School of Computer Science at Peking University (PKU).
 I also lead the Multimodal Interaction Research Center at Beijing Academy of Artificial Intelligence (BAAI).
 My current research focuses on
  Reinforcement Learning General Agents  with the aim of endowing agents with the ability to autonomously acquire skills to accomplish tasks, cooperate, and communicate in the open world, towards artificial general intelligence.</description>
