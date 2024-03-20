@@ -143,20 +143,25 @@
   </url>
   
   <url>
-    <loc>https://z0ngqing.github.io/news/</loc>
-    <lastmod>2024-03-14T10:00:00+08:00</lastmod>
+    <loc>https://z0ngqing.github.io/publication/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/cradle/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://z0ngqing.github.io/</loc>
-    <lastmod>2024-03-14T10:00:00+08:00</lastmod>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://z0ngqing.github.io/publication/</loc>
-    <lastmod>2024-03-14T00:00:00+00:00</lastmod>
+    <loc>https://z0ngqing.github.io/news/</loc>
+    <lastmod>2024-03-14T10:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   

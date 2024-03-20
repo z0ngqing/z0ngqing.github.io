@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Zongqing Lu</copyright>
-    <lastBuildDate>Thu, 14 Mar 2024 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -268,6 +268,15 @@
  ICML 2021 Workshop on Reinforcement Learning for Real Life, General Co-Chair
  INFOCOM 2020 Worksop on Network Intelligence, General Co-Chair
  ACM TURC 2018, Award Co-Chair</description>
+    </item>
+    
+    <item>
+      <title>Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study</title>
+      <link>https://z0ngqing.github.io/publication/cradle/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/cradle/</guid>
+      <description></description>
     </item>
     
     <item>

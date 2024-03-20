@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Zongqing Lu</copyright>
-    <lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study</title>
+      <link>https://z0ngqing.github.io/publication/cradle/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/cradle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[NAACL&#39;24] AdaRefiner: Refining Decisions of Language Models with Adaptive Feedback</title>
