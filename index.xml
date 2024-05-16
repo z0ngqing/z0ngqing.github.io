@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Zongqing Lu</copyright>
-    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Two papers accepted at ICML&#39;24, while one accepted at ACL&#39;24</title>
+      <link>https://z0ngqing.github.io/news/icml24/</link>
+      <pubDate>Thu, 16 May 2024 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/icml24/</guid>
+      <description>Two papers on RL, COREP and PAR, were accepted at ICML&amp;rsquo;24, and one paper about RL with natural language action space, MIPO, was accepted at ACL&amp;rsquo;24</description>
+    </item>
     
     <item>
       <title>Two papers accepted at NAACL&#39;24</title>
@@ -261,13 +270,39 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/service/</guid>
-      <description>Editorship and Area Chair  Associate Editor, ACM Journal on Autonomous Transportation Systems, 2022 -
+      <description>Area Chair and Editorship  Area Chair, ICLR 2024, ICML 2024, NeurIPS 2024
+ Associate Editor, ACM Journal on Autonomous Transportation Systems, 2022 -
  Guest Editor, Machine Learning Special Issue on RL for Real Life, 2023
- Area Chair, ICLR 2024, ICML 2024
   Conference Organization  IEEE Conference on Games 2022, Keynote Co-Chair
  ICML 2021 Workshop on Reinforcement Learning for Real Life, General Co-Chair
- INFOCOM 2020 Worksop on Network Intelligence, General Co-Chair
- ACM TURC 2018, Award Co-Chair</description>
+ INFOCOM 2020 Worksop on Network Intelligence, General Co-Chair</description>
+    </item>
+    
+    <item>
+      <title>[ACL&#39;24] Language Model Adaption for Reinforcement Learning with Natural Language Action Space</title>
+      <link>https://z0ngqing.github.io/publication/mipo/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/mipo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICML&#39;24] Cross-Domain Policy Adaptation by Capturing Representation Mismatch</title>
+      <link>https://z0ngqing.github.io/publication/par/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/par/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICML&#39;24] Tackling Non-Stationarity in Reinforcement Learning via Causal-Origin Representation</title>
+      <link>https://z0ngqing.github.io/publication/corep/</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/corep/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -339,6 +374,15 @@
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/ma2ql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[AAMAS&#39;24] Towards Understanding How to Reduce Generalization Gap in Visual Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/gap/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/gap/</guid>
       <description></description>
     </item>
     
@@ -430,15 +474,6 @@ Plan4MC We study building a multi-task agent in Minecraft. Without human demonst
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/mabcq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tackling Non-Stationarity in Reinforcement Learning via Causal-Origin Representation</title>
-      <link>https://z0ngqing.github.io/publication/corep/</link>
-      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/corep/</guid>
       <description></description>
     </item>
     

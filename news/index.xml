@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Zongqing Lu</copyright>
-    <lastBuildDate>Thu, 14 Mar 2024 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Two papers accepted at ICML&#39;24, while one accepted at ACL&#39;24</title>
+      <link>https://z0ngqing.github.io/news/icml24/</link>
+      <pubDate>Thu, 16 May 2024 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/icml24/</guid>
+      <description>Two papers on RL, COREP and PAR, were accepted at ICML&amp;rsquo;24, and one paper about RL with natural language action space, MIPO, was accepted at ACL&amp;rsquo;24</description>
+    </item>
     
     <item>
       <title>Two papers accepted at NAACL&#39;24</title>

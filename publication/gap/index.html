@@ -20,9 +20,9 @@
 
 
     <link rel="shortcut icon" href="https://z0ngqing.github.io/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" href="https://z0ngqing.github.io/publication/corep/">
+    <link rel="canonical" href="https://z0ngqing.github.io/publication/gap/">
 
-    <title>[ICML&#39;24] Tackling Non-Stationarity in Reinforcement Learning via Causal-Origin Representation | Zongqing&#39;s Homepage</title>
+    <title>[AAMAS&#39;24] Towards Understanding How to Reduce Generalization Gap in Visual Reinforcement Learning | Zongqing&#39;s Homepage</title>
 
 </head>
 <body id="top">
@@ -72,10 +72,10 @@
 
     <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
         <div class="pub-title">
-            <h1 itemprop="name">[ICML&#39;24] Tackling Non-Stationarity in Reinforcement Learning via Causal-Origin Representation</h1>
+            <h1 itemprop="name">[AAMAS&#39;24] Towards Understanding How to Reduce Generalization Gap in Visual Reinforcement Learning</h1>
             <span class="pub-authors" itemprop="author">
                 
-                Wanpeng Zhang, Yilin Li, Boyu Yang, and Zongqing Lu
+                Jiafei Lyu, Le Wan, Xiu Li, and Zongqing Lu
                 
             </span>
             <span class="pull-right">
@@ -83,27 +83,27 @@
 <div class="share-box">
     <ul class="share">
         <li>
-            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcorep%2f" target="_blank">
+            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fgap%2f" target="_blank">
                 <i class="fa fa-facebook"></i>
             </a>
         </li>
         <li>
-            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bICML%2724%5d%20Tackling%20Non-Stationarity%20in%20Reinforcement%20Learning%20via%20Causal-Origin%20Representation&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcorep%2f" target="_blank">
+            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bAAMAS%2724%5d%20Towards%20Understanding%20How%20to%20Reduce%20Generalization%20Gap%20in%20Visual%20Reinforcement%20Learning&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fgap%2f" target="_blank">
                 <i class="fa fa-twitter"></i>
             </a>
         </li>
         <li>
-            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcorep%2f&amp;title=%5bICML%2724%5d%20Tackling%20Non-Stationarity%20in%20Reinforcement%20Learning%20via%20Causal-Origin%20Representation" target="_blank">
+            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fgap%2f&amp;title=%5bAAMAS%2724%5d%20Towards%20Understanding%20How%20to%20Reduce%20Generalization%20Gap%20in%20Visual%20Reinforcement%20Learning" target="_blank">
                 <i class="fa fa-linkedin"></i>
             </a>
         </li>
         <li>
-            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcorep%2f&amp;title=%5bICML%2724%5d%20Tackling%20Non-Stationarity%20in%20Reinforcement%20Learning%20via%20Causal-Origin%20Representation" target="_blank">
+            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fgap%2f&amp;title=%5bAAMAS%2724%5d%20Towards%20Understanding%20How%20to%20Reduce%20Generalization%20Gap%20in%20Visual%20Reinforcement%20Learning" target="_blank">
                 <i class="fa fa-weibo"></i>
             </a>
         </li>
         <li>
-            <a class="email" href="mailto:?subject=%5bICML%2724%5d%20Tackling%20Non-Stationarity%20in%20Reinforcement%20Learning%20via%20Causal-Origin%20Representation&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcorep%2f">
+            <a class="email" href="mailto:?subject=%5bAAMAS%2724%5d%20Towards%20Understanding%20How%20to%20Reduce%20Generalization%20Gap%20in%20Visual%20Reinforcement%20Learning&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fgap%2f">
                 <i class="fa fa-envelope"></i>
             </a>
         </li>
@@ -118,14 +118,14 @@
 
         <h3>Abstract</h3>
 
-	<p align="justify" class="pub-abstract" itemprop="text">In real-world scenarios, the application of reinforcement learning is significantly challenged by complex non-stationarity. Most existing methods attempt to model changes in the environment explicitly, often requiring impractical prior knowledge of environments. In this paper, we propose a new perspective, positing that non-stationarity can propagate and accumulate through complex causal relationships during state transitions, thereby compounding its sophistication and affecting policy learning. We believe that this challenge can be more effectively addressed by tracing the causal origin of non-stationarity. To this end, we introduce the Causal-Origin REPresentation (COREP) algorithm. COREP primarily employs a guided updating mechanism to learn a stable graph representation for the state, termed as causal-origin representation. By leveraging this representation, the learned policy exhibits impressive resilience to non-stationarity. We supplement our approach with a theoretical analysis grounded in the causal interpretation for non-stationary reinforcement learning, advocating for the validity of the causal-origin representation. Experimental results further demonstrate the superior performance of COREP over existing methods in tackling non-stationarity problems.</p>
+	<p align="justify" class="pub-abstract" itemprop="text">It is vital to learn a generalizable policy in visual reinforcement learning (RL). Many algorithms are proposed to handle this problem while none of them theoretically show what affects the generalization gap and why their methods work. In this paper, we bridge this issue by theoretically answering the key factors that contribute to the generalization gap when the testing environment has distractors. Our theories indicate that minimizing the representation distance between training and testing environments is the most critical. Our theoretical results are supported by the empirical evidence in the DMControl Generalization Benchmark.</p>
 
         <div class="row">
             <div class="col-sm-1"></div>
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-                    <div class="col-xs-12 col-sm-9">Forty-first International Conference on Machine Learning (ICML), July 21-27, 2024</div>
+                    <div class="col-xs-12 col-sm-9">Twenty-Third International Conference on Autonomous Agents and Multiagent Systems (AAMAS), <em>extended abstract</em>, May 6-10.</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -137,7 +137,7 @@
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
-                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">May, 2024</div>
+                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">December, 2023</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -156,7 +156,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://arxiv.org/pdf/2306.02747.pdf">PDF</a>
+<a class="btn btn-primary btn-outline" href="https://dl.acm.org/doi/10.5555/3635637.3663163">PDF</a>
 
 
 
