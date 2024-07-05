@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Zongqing Lu</copyright>
-    <lastBuildDate>Thu, 16 May 2024 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Four papers accepted at ECCV&#39;24</title>
+      <link>https://z0ngqing.github.io/news/eccv24/</link>
+      <pubDate>Thu, 04 Jul 2024 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/eccv24/</guid>
+      <description>Four papers on multimodal models, learning from videos, and generalization in RL were accepted at ECCV&amp;rsquo;24.</description>
+    </item>
     
     <item>
       <title>Two papers accepted at ICML&#39;24, while one accepted at ACL&#39;24</title>
@@ -270,12 +279,48 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/service/</guid>
-      <description>Area Chair and Editorship  Area Chair, ICLR 2024, ICML 2024, NeurIPS 2024
+      <description>Area Chair and Editorship  Area Chair, ICLR 2024, ICML 2024, NeurIPS 2024, AAMAS 2025
  Associate Editor, ACM Journal on Autonomous Transportation Systems, 2022 -
  Guest Editor, Machine Learning Special Issue on RL for Real Life, 2023
   Conference Organization  IEEE Conference on Games 2022, Keynote Co-Chair
  ICML 2021 Workshop on Reinforcement Learning for Real Life, General Co-Chair
  INFOCOM 2020 Worksop on Network Intelligence, General Co-Chair</description>
+    </item>
+    
+    <item>
+      <title>[ECCV&#39;24] UniCode: Learning a Unified Codebook for Multimodal Large Language Models</title>
+      <link>https://z0ngqing.github.io/publication/unicode/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/unicode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ECCV&#39;24] Visual Grounding for Object-Level Generalization in Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/copl/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/copl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ECCV&#39;24] Pre-Trained Visual Dynamics Representations for Efficient Policy Learning</title>
+      <link>https://z0ngqing.github.io/publication/pvdr/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/pvdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ECCV&#39;24] Reinforcement Learning Friendly Vision-Language Model for Minecraft</title>
+      <link>https://z0ngqing.github.io/publication/clip4mc/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/clip4mc/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -947,7 +992,7 @@ FEN Fairness is essential for human society, contributing to stability and produ
       <description>I am a tenured Associate Professor in the School of Computer Science at Peking University (PKU).
 I also lead the Multimodal Interaction Research Center at Beijing Academy of Artificial Intelligence (BAAI).
 My current research focuses on
- Reinforcement Learning General Agents  with the aim of endowing agents with the ability to autonomously acquire skills to accomplish tasks, cooperate, and communicate in the open world, towards artificial general intelligence.</description>
+ Reinforcement Learning Multimodal Models General Agents  with the aim of endowing agents with the ability to autonomously acquire skills to accomplish tasks, cooperate, and communicate in the open world, towards artificial general intelligence.</description>
     </item>
     
     <item>

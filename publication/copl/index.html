@@ -20,9 +20,9 @@
 
 
     <link rel="shortcut icon" href="https://z0ngqing.github.io/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" href="https://z0ngqing.github.io/publication/mipo/">
+    <link rel="canonical" href="https://z0ngqing.github.io/publication/copl/">
 
-    <title>[ACL&#39;24] Language Model Adaption for Reinforcement Learning with Natural Language Action Space | Zongqing&#39;s Homepage</title>
+    <title>[ECCV&#39;24] Visual Grounding for Object-Level Generalization in Reinforcement Learning | Zongqing&#39;s Homepage</title>
 
 </head>
 <body id="top">
@@ -72,10 +72,10 @@
 
     <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
         <div class="pub-title">
-            <h1 itemprop="name">[ACL&#39;24] Language Model Adaption for Reinforcement Learning with Natural Language Action Space</h1>
+            <h1 itemprop="name">[ECCV&#39;24] Visual Grounding for Object-Level Generalization in Reinforcement Learning</h1>
             <span class="pub-authors" itemprop="author">
                 
-                Jiangxing Wang, Jiachen Li, Xiao Han, Deheng Ye, and Zongqing Lu
+                Haobin Jiang and Zongqing Lu
                 
             </span>
             <span class="pull-right">
@@ -83,27 +83,27 @@
 <div class="share-box">
     <ul class="share">
         <li>
-            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fmipo%2f" target="_blank">
+            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcopl%2f" target="_blank">
                 <i class="fa fa-facebook"></i>
             </a>
         </li>
         <li>
-            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bACL%2724%5d%20Language%20Model%20Adaption%20for%20Reinforcement%20Learning%20with%20Natural%20Language%20Action%20Space&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fmipo%2f" target="_blank">
+            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bECCV%2724%5d%20Visual%20Grounding%20for%20Object-Level%20Generalization%20in%20Reinforcement%20Learning&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcopl%2f" target="_blank">
                 <i class="fa fa-twitter"></i>
             </a>
         </li>
         <li>
-            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fmipo%2f&amp;title=%5bACL%2724%5d%20Language%20Model%20Adaption%20for%20Reinforcement%20Learning%20with%20Natural%20Language%20Action%20Space" target="_blank">
+            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcopl%2f&amp;title=%5bECCV%2724%5d%20Visual%20Grounding%20for%20Object-Level%20Generalization%20in%20Reinforcement%20Learning" target="_blank">
                 <i class="fa fa-linkedin"></i>
             </a>
         </li>
         <li>
-            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fmipo%2f&amp;title=%5bACL%2724%5d%20Language%20Model%20Adaption%20for%20Reinforcement%20Learning%20with%20Natural%20Language%20Action%20Space" target="_blank">
+            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcopl%2f&amp;title=%5bECCV%2724%5d%20Visual%20Grounding%20for%20Object-Level%20Generalization%20in%20Reinforcement%20Learning" target="_blank">
                 <i class="fa fa-weibo"></i>
             </a>
         </li>
         <li>
-            <a class="email" href="mailto:?subject=%5bACL%2724%5d%20Language%20Model%20Adaption%20for%20Reinforcement%20Learning%20with%20Natural%20Language%20Action%20Space&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fmipo%2f">
+            <a class="email" href="mailto:?subject=%5bECCV%2724%5d%20Visual%20Grounding%20for%20Object-Level%20Generalization%20in%20Reinforcement%20Learning&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcopl%2f">
                 <i class="fa fa-envelope"></i>
             </a>
         </li>
@@ -118,14 +118,14 @@
 
         <h3>Abstract</h3>
 
-	<p align="justify" class="pub-abstract" itemprop="text">Reinforcement learning with natural language action space often suffers from the curse of dimensionality due to the combinatorial nature of the natural language. Previous research leverages pretrained language models to capture action semantics and reduce the size of the action space. However, since pretrained models are typically trained on general corpora, there can be an unpredictable mismatch between the priors encoded in pretrained models and the characteristics of the specific RL environment. To address this issue, we propose Mutual-Information Regularized Policy Optimization, MIPO. MIPO enables implicit and dynamic reduction of the action space. Starting from the prior provided by the pretrained language model, our method dynamically adjusts the prior during the learning process based on the guidance of mutual information regularization. Theoretically, we demonstrate that this policy optimization process leads to the monotonic improvement on the mutual-information regularized RL objective. Empirically, we conduct experiments in various environments and demonstrate the effectiveness of MIPO.</p>
+	<p align="justify" class="pub-abstract" itemprop="text">Generalization is a pivotal challenge for agents following natural language instructions. To approach this goal, we leverage a vision-language model (VLM) for visual grounding and transfer its vision-language knowledge into reinforcement learning (RL) for object-centric tasks, which makes the agent capable of zero-shot generalization to unseen objects and instructions. By visual grounding, we obtain an object-grounded confidence map for the target object indicated in the instruction. Based on this map, we introduce two routes to transfer VLM knowledge into RL. Firstly, we propose an object-grounded intrinsic reward function derived from the confidence map to more effectively guide the agent towards the target object. Secondly, the confidence map offers a more unified, accessible task representation for the agent&rsquo;s policy, compared to language embeddings. This enables the agent to process unseen objects and instructions through comprehensible visual confidence maps, facilitating zero-shot object-level generalization. Single-task experiments prove that our intrinsic reward significantly improves performance on challenging skill learning. In multi-task experiments, through testing on tasks beyond the training set, we show that the agent, when provided with the confidence map as the task representation, possesses better generalization capabilities than language-based conditioning.</p>
 
         <div class="row">
             <div class="col-sm-1"></div>
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-                    <div class="col-xs-12 col-sm-9">Annual Meeting of the Association for Computational Linguistics, August 11-16, 2024.</div>
+                    <div class="col-xs-12 col-sm-9">European Conference on Computer Vision (ECCV), Sep. 29- Oct. 4, 2024.</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -137,7 +137,7 @@
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
-                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">May, 2024</div>
+                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">July, 2024</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -161,7 +161,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://z0ngqing.github.io/project/learning/">Project</a>
+<a class="btn btn-primary btn-outline" href="https://z0ngqing.github.io/project/agi/">Project</a>
 
 
 

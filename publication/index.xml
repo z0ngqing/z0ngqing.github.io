@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Zongqing Lu</copyright>
-    <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[ECCV&#39;24] UniCode: Learning a Unified Codebook for Multimodal Large Language Models</title>
+      <link>https://z0ngqing.github.io/publication/unicode/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/unicode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ECCV&#39;24] Visual Grounding for Object-Level Generalization in Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/copl/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/copl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ECCV&#39;24] Pre-Trained Visual Dynamics Representations for Efficient Policy Learning</title>
+      <link>https://z0ngqing.github.io/publication/pvdr/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/pvdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ECCV&#39;24] Reinforcement Learning Friendly Vision-Language Model for Minecraft</title>
+      <link>https://z0ngqing.github.io/publication/clip4mc/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/clip4mc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[ACL&#39;24] Language Model Adaption for Reinforcement Learning with Natural Language Action Space</title>

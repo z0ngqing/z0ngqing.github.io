@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://z0ngqing.github.io/news/eccv24/</loc>
+    <lastmod>2024-07-04T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://z0ngqing.github.io/news/icml24/</loc>
     <lastmod>2024-05-16T10:00:00+08:00</lastmod>
   </url>
@@ -149,20 +154,40 @@
   
   <url>
     <loc>https://z0ngqing.github.io/news/</loc>
-    <lastmod>2024-05-16T10:00:00+08:00</lastmod>
+    <lastmod>2024-07-04T10:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://z0ngqing.github.io/</loc>
-    <lastmod>2024-05-16T10:00:00+08:00</lastmod>
+    <lastmod>2024-07-04T10:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://z0ngqing.github.io/publication/</loc>
-    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/unicode/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/copl/</loc>
+    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/pvdr/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/clip4mc/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
