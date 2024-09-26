@@ -20,9 +20,9 @@
 
 
     <link rel="shortcut icon" href="https://z0ngqing.github.io/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" href="https://z0ngqing.github.io/publication/unicode/">
+    <link rel="canonical" href="https://z0ngqing.github.io/publication/omg/">
 
-    <title>[ECCV&#39;24] UniCode: Learning a Unified Codebook for Multimodal Large Language Models | Zongqing&#39;s Homepage</title>
+    <title>[NeurIPS&#39;24] Opponent Modeling based on Subgoal Inference | Zongqing&#39;s Homepage</title>
 
 </head>
 <body id="top">
@@ -72,10 +72,10 @@
 
     <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
         <div class="pub-title">
-            <h1 itemprop="name">[ECCV&#39;24] UniCode: Learning a Unified Codebook for Multimodal Large Language Models</h1>
+            <h1 itemprop="name">[NeurIPS&#39;24] Opponent Modeling based on Subgoal Inference</h1>
             <span class="pub-authors" itemprop="author">
                 
-                Sipeng Zheng, Bohan Zhou, Yicheng Feng, Ye Wang, and Zongqing Lu
+                Xiaopeng Yu, Jiechuan Jiang, and Zongqing Lu 
                 
             </span>
             <span class="pull-right">
@@ -83,27 +83,27 @@
 <div class="share-box">
     <ul class="share">
         <li>
-            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2funicode%2f" target="_blank">
+            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fomg%2f" target="_blank">
                 <i class="fa fa-facebook"></i>
             </a>
         </li>
         <li>
-            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bECCV%2724%5d%20UniCode%3a%20Learning%20a%20Unified%20Codebook%20for%20Multimodal%20Large%20Language%20Models&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2funicode%2f" target="_blank">
+            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bNeurIPS%2724%5d%20Opponent%20Modeling%20based%20on%20Subgoal%20Inference&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fomg%2f" target="_blank">
                 <i class="fa fa-twitter"></i>
             </a>
         </li>
         <li>
-            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2funicode%2f&amp;title=%5bECCV%2724%5d%20UniCode%3a%20Learning%20a%20Unified%20Codebook%20for%20Multimodal%20Large%20Language%20Models" target="_blank">
+            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fomg%2f&amp;title=%5bNeurIPS%2724%5d%20Opponent%20Modeling%20based%20on%20Subgoal%20Inference" target="_blank">
                 <i class="fa fa-linkedin"></i>
             </a>
         </li>
         <li>
-            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2funicode%2f&amp;title=%5bECCV%2724%5d%20UniCode%3a%20Learning%20a%20Unified%20Codebook%20for%20Multimodal%20Large%20Language%20Models" target="_blank">
+            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fomg%2f&amp;title=%5bNeurIPS%2724%5d%20Opponent%20Modeling%20based%20on%20Subgoal%20Inference" target="_blank">
                 <i class="fa fa-weibo"></i>
             </a>
         </li>
         <li>
-            <a class="email" href="mailto:?subject=%5bECCV%2724%5d%20UniCode%3a%20Learning%20a%20Unified%20Codebook%20for%20Multimodal%20Large%20Language%20Models&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2funicode%2f">
+            <a class="email" href="mailto:?subject=%5bNeurIPS%2724%5d%20Opponent%20Modeling%20based%20on%20Subgoal%20Inference&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fomg%2f">
                 <i class="fa fa-envelope"></i>
             </a>
         </li>
@@ -118,14 +118,14 @@
 
         <h3>Abstract</h3>
 
-	<p align="justify" class="pub-abstract" itemprop="text">In this paper, we propose   extbf{UniCode}, a novel approach within the domain of multimodal large language models (MLLMs) that learns a unified codebook to efficiently tokenize visual, text, and potentially other types of signals. This innovation addresses a critical limitation in existing MLLMs: their reliance on a text-only codebook, which restricts MLLM&rsquo;s ability to generate images and texts in a multimodal context. Towards this end, we propose a language-driven iterative training paradigm, coupled with an in-context pre-training task we term ``image decompression&rdquo;, enabling our model to interpret compressed visual data and generate high-quality images. The unified codebook empowers our model to extend visual instruction tuning to non-linguistic generation tasks. Moreover, UniCode is adaptable to diverse stacked quantization approaches in order to compress visual signals into a more compact token representation. Despite using significantly fewer parameters and less data during training, Unicode demonstrates promising capabilities in visual reconstruction and generation. It also achieves performances comparable to leading MLLMs across a spectrum of VQA benchmarks.</p>
+	<p align="justify" class="pub-abstract" itemprop="text">When an agent is in a multi-agent environment, it may face previously unseen opponents, and it is a challenge to cooperate with other agents to accomplish the task together or to maximize its own rewards. Most opponent modeling methods deal with the non-stationarity caused by unknown opponent policies via predicting the opponent’s actions. However, focusing on the opponent’s action is shortsighted, which also constrains the adaptability to unknown opponents in complex tasks. In this paper, we propose opponent modeling based on subgoal inference, which infers the opponent’s subgoals through historical trajectories. As subgoals are likely to be shared by different opponent policies, predicting subgoals can yield better generalization to unknown opponents. Additionally, we design two subgoal selection modes for cooperative games and general-sum games respectively. Empirically, we show that our method achieves more effective adaptation than existing methods in a variety of tasks.</p>
 
         <div class="row">
             <div class="col-sm-1"></div>
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-                    <div class="col-xs-12 col-sm-9">European Conference on Computer Vision (ECCV), Sep. 29- Oct. 4, 2024.</div>
+                    <div class="col-xs-12 col-sm-9">Thirty-Eighth Conference on Neural Information Processing Systems (NeurIPS), Dec. 9-15, 2024.</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -137,7 +137,7 @@
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
-                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">July, 2024</div>
+                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">September, 2024</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -156,12 +156,12 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://arxiv.org/abs/2403.09072">PDF</a>
+<a class="btn btn-primary btn-outline" href="https://openreview.net/pdf?id=Lt6wO0oZ8k">PDF</a>
 
 
 
 
-<a class="btn btn-primary btn-outline" href="https://z0ngqing.github.io/project/agi/">Project</a>
+<a class="btn btn-primary btn-outline" href="https://z0ngqing.github.io/project/learning/">Project</a>
 
 
 

@@ -7,10 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Zongqing Lu</copyright>
-    <lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[NeurIPS&#39;24] Cradle: Empowering Foundation Agents towards General Computer Control</title>
+      <link>https://z0ngqing.github.io/publication/cradle-iclr/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/cradle-iclr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NeurIPS&#39;24] Pre-Trained Multi-Goal Transformers with Prompt Optimization for Efficient Online Adaptation</title>
+      <link>https://z0ngqing.github.io/publication/mgpo/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/mgpo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[JAIR] Understanding What Affects the Generalization Gap in Visual Reinforcement Learning: Theory and Empirical Evidence</title>
+      <link>https://z0ngqing.github.io/publication/jair24/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/jair24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NeurIPS&#39;24] A Novel Benchmark for Decision-Making in Uncertain and Competitive Games</title>
+      <link>https://z0ngqing.github.io/publication/lsa/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/lsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NeurIPS&#39;24] Multi-Agent Coordination via Multi-Level Communication</title>
+      <link>https://z0ngqing.github.io/publication/seqcomm/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/seqcomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NeurIPS&#39;24] ODRL: A Benchmark for Off-Dynamics Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/odrl/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/odrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NeurIPS&#39;24] Opponent Modeling based on Subgoal Inference</title>
+      <link>https://z0ngqing.github.io/publication/omg/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/omg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NeurIPS&#39;24] RL-GPT: Integrating Reinforcement Learning and Code-as-policy</title>
+      <link>https://z0ngqing.github.io/publication/rl-gpt/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/rl-gpt/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[ECCV&#39;24] UniCode: Learning a Unified Codebook for Multimodal Large Language Models</title>
@@ -342,15 +414,6 @@
       <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/i2q/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-Agent Sequential Decision-Making via Communication</title>
-      <link>https://z0ngqing.github.io/publication/seqcomm/</link>
-      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/seqcomm/</guid>
       <description></description>
     </item>
     

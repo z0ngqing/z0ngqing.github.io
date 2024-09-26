@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://z0ngqing.github.io/news/nips24/</loc>
+    <lastmod>2024-09-26T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://z0ngqing.github.io/news/eccv24/</loc>
     <lastmod>2024-07-04T10:00:00+08:00</lastmod>
   </url>
@@ -154,20 +159,60 @@
   
   <url>
     <loc>https://z0ngqing.github.io/news/</loc>
-    <lastmod>2024-07-04T10:00:00+08:00</lastmod>
+    <lastmod>2024-09-26T10:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://z0ngqing.github.io/</loc>
-    <lastmod>2024-07-04T10:00:00+08:00</lastmod>
+    <lastmod>2024-09-26T10:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://z0ngqing.github.io/publication/</loc>
-    <lastmod>2024-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/cradle-iclr/</loc>
+    <lastmod>2024-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/mgpo/</loc>
+    <lastmod>2024-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/jair24/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/lsa/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/seqcomm/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/odrl/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/omg/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/rl-gpt/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -382,11 +427,6 @@
   <url>
     <loc>https://z0ngqing.github.io/publication/i2q/</loc>
     <lastmod>2022-10-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://z0ngqing.github.io/publication/seqcomm/</loc>
-    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
