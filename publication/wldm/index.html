@@ -20,9 +20,9 @@
 
 
     <link rel="shortcut icon" href="https://z0ngqing.github.io/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" href="https://z0ngqing.github.io/publication/cradle-iclr/">
+    <link rel="canonical" href="https://z0ngqing.github.io/publication/wldm/">
 
-    <title>Cradle: Empowering Foundation Agents towards General Computer Control | Zongqing&#39;s Homepage</title>
+    <title>[ICLR&#39;25] Watch Less, Do More: Implicit Skill Discovery for Video-Conditioned Policy | Zongqing&#39;s Homepage</title>
 
 </head>
 <body id="top">
@@ -72,10 +72,10 @@
 
     <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
         <div class="pub-title">
-            <h1 itemprop="name">Cradle: Empowering Foundation Agents towards General Computer Control</h1>
+            <h1 itemprop="name">[ICLR&#39;25] Watch Less, Do More: Implicit Skill Discovery for Video-Conditioned Policy</h1>
             <span class="pub-authors" itemprop="author">
                 
-                Weihao Tan, Wentao Zhang, Xinrun Xu, Haochong Xia, Ziluo Ding, Boyu Li, Bohan Zhou, Junpeng Yue, Jiechuan Jiang, Yewen Li, Ruyi An, Molei Qin, Chuqiao Zong, Longtao Zheng, YuJie Wu, Xiaoqiang Chai, Yifei Bi, Tianbao Xie, Pengjie Gu, Xiyun Li, Ceyao Zhang, Long Tian, Chaojie Wang, Xinrun Wang, Börje F. Karlsson, Bo An, Shuicheng YAN, Zongqing Lu
+                Jiangxing Wang and Zongqing Lu
                 
             </span>
             <span class="pull-right">
@@ -83,27 +83,27 @@
 <div class="share-box">
     <ul class="share">
         <li>
-            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcradle-iclr%2f" target="_blank">
+            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fwldm%2f" target="_blank">
                 <i class="fa fa-facebook"></i>
             </a>
         </li>
         <li>
-            <a class="twitter" href="https://twitter.com/intent/tweet?text=Cradle%3a%20Empowering%20Foundation%20Agents%20towards%20General%20Computer%20Control&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcradle-iclr%2f" target="_blank">
+            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bICLR%2725%5d%20Watch%20Less%2c%20Do%20More%3a%20Implicit%20Skill%20Discovery%20for%20Video-Conditioned%20Policy&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fwldm%2f" target="_blank">
                 <i class="fa fa-twitter"></i>
             </a>
         </li>
         <li>
-            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcradle-iclr%2f&amp;title=Cradle%3a%20Empowering%20Foundation%20Agents%20towards%20General%20Computer%20Control" target="_blank">
+            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fwldm%2f&amp;title=%5bICLR%2725%5d%20Watch%20Less%2c%20Do%20More%3a%20Implicit%20Skill%20Discovery%20for%20Video-Conditioned%20Policy" target="_blank">
                 <i class="fa fa-linkedin"></i>
             </a>
         </li>
         <li>
-            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcradle-iclr%2f&amp;title=Cradle%3a%20Empowering%20Foundation%20Agents%20towards%20General%20Computer%20Control" target="_blank">
+            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fwldm%2f&amp;title=%5bICLR%2725%5d%20Watch%20Less%2c%20Do%20More%3a%20Implicit%20Skill%20Discovery%20for%20Video-Conditioned%20Policy" target="_blank">
                 <i class="fa fa-weibo"></i>
             </a>
         </li>
         <li>
-            <a class="email" href="mailto:?subject=Cradle%3a%20Empowering%20Foundation%20Agents%20towards%20General%20Computer%20Control&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcradle-iclr%2f">
+            <a class="email" href="mailto:?subject=%5bICLR%2725%5d%20Watch%20Less%2c%20Do%20More%3a%20Implicit%20Skill%20Discovery%20for%20Video-Conditioned%20Policy&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fwldm%2f">
                 <i class="fa fa-envelope"></i>
             </a>
         </li>
@@ -118,14 +118,14 @@
 
         <h3>Abstract</h3>
 
-	<p align="justify" class="pub-abstract" itemprop="text">Despite their success in specific scenarios, existing foundation agents still struggle to generalize across various virtual scenarios, mainly due to the dramatically different encapsulations of environments with manually designed observation and action spaces. To handle this issue, we propose the General Computer Control (GCC) setting to restrict foundation agents to interact with software through the most unified and standardized interface, i.e., using screenshots as input and keyboard and mouse actions as output. We introduce Cradle, a modular and flexible LMM-powered framework, as a preliminary attempt towards GCC. Enhanced by six key modules, Information Gathering, Self-Reflection, Task Inference, Skill Curation, Action Planning, and Memory, Cradle is able to understand input screenshots and output executable code for low-level keyboard and mouse control after high-level planning and information retrieval, so that Cradle can interact with any software and complete long-horizon complex tasks without relying on any built-in APIs. Experimental results show that Cradle exhibits remarkable generalizability and impressive performance across four commercial never before explorer digital games, five software applications, and a comprehensive benchmark, OSWorld. To our best knowledge, Cradle is the first to enable foundation agents to follow the main storyline and complete 40-minute-long real missions in the complex AAA game Red Dead Redemption 2 (RDR2). Cradle can also create a city of a thousand people in Cities: Skylines, farm and harvest parsnips in Stardew Valley, and trade and bargain with a maximal weekly total profit of 87% in Dealer&rsquo;s Life 2. Cradle can not only operate daily software, like Chrome, Outlook, and Feishu, but also edit images and videos using Meitu and CapCut. With a unified interface to interact with any software, Cradle greatly extends the reach of foundation agents by enabling the easy conversion of any software, especially complex games, into benchmarks to evaluate agents&rsquo; various abilities and further collect detailed data, thus paving the way for generalist agents.</p>
+	<p align="justify" class="pub-abstract" itemprop="text">In this paper, we study the problem of video-conditioned policy learning. While previous works mostly focus on learning policies that perform a single skill specified by the given video, we take a step further and aim to learn a policy that can perform multiple skills according to the given video, and generalize to unseen videos by recombining these skills. To solve this problem, we propose our algorithm, Watch-Less-Do-More, an information bottleneck-based imitation learning framework for implicit skill discovery and video-conditioned policy learning. In our method, an information bottleneck objective is employed to control the information contained in the video representation, ensuring that it only encodes information relevant to the current skill (Watch-Less). By discovering potential skills from training videos, the learned policy is able to recombine them and generalize to unseen videos to achieve compositional generalization (Do-More). To evaluate our method, we perform extensive experiments in various environments and show that our algorithm substantially outperforms baselines (up to 2x) in terms of compositional generalization ability.</p>
 
         <div class="row">
             <div class="col-sm-1"></div>
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-                    <div class="col-xs-12 col-sm-9">NeurIPS 2024 Workshop on Open-World Agents</div>
+                    <div class="col-xs-12 col-sm-9">The Thirteenth International Conference on Learning Representations (ICLR), April 24-28, 2025.</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -137,7 +137,7 @@
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
-                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">September, 2024</div>
+                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">February, 2025</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -156,12 +156,12 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://openreview.net/pdf?id=KnuKelOgyC">PDF</a>
+<a class="btn btn-primary btn-outline" href="https://openreview.net/pdf?id=hgvERMkXOx">PDF</a>
 
 
 
 
-<a class="btn btn-primary btn-outline" href="https://z0ngqing.github.io/project/agi/">Project</a>
+<a class="btn btn-primary btn-outline" href="https://z0ngqing.github.io/project/learning/">Project</a>
 
 
 

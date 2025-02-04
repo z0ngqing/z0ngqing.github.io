@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://z0ngqing.github.io/news/iclr25/</loc>
+    <lastmod>2025-02-03T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://z0ngqing.github.io/news/nips24/</loc>
     <lastmod>2024-09-26T10:00:00+08:00</lastmod>
   </url>
@@ -158,21 +163,66 @@
   </url>
   
   <url>
-    <loc>https://z0ngqing.github.io/news/</loc>
-    <lastmod>2024-09-26T10:00:00+08:00</lastmod>
+    <loc>https://z0ngqing.github.io/publication/</loc>
+    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://z0ngqing.github.io/</loc>
-    <lastmod>2024-09-26T10:00:00+08:00</lastmod>
+    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://z0ngqing.github.io/publication/</loc>
-    <lastmod>2024-09-12T00:00:00+00:00</lastmod>
+    <loc>https://z0ngqing.github.io/publication/crossdex/</loc>
+    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/resdex/</loc>
+    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/bpe/</loc>
+    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/news/</loc>
+    <lastmod>2025-02-03T10:00:00+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/otdf/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/lads/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/jept/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/mart/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/wldm/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/mart-copy/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>

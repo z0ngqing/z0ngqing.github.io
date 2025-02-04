@@ -7,13 +7,94 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Zongqing Lu</copyright>
-    <lastBuildDate>Thu, 12 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>[NeurIPS&#39;24] Cradle: Empowering Foundation Agents towards General Computer Control</title>
+      <title>[ICLR&#39;25] Cross-Embodiment Dexterous Grasping with Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/crossdex/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/crossdex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICLR&#39;25] Efficient Residual Learning with Mixture-of-Experts for Universal Dexterous Grasping</title>
+      <link>https://z0ngqing.github.io/publication/resdex/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/resdex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICLR&#39;25] From Pixels to Tokens: Byte-Pair Encoding on Quantized Visual Modalities</title>
+      <link>https://z0ngqing.github.io/publication/bpe/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/bpe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICLR&#39;25] Cross-Domain Offline Policy Adaptation with Optimal Transport and Dataset Constraint</title>
+      <link>https://z0ngqing.github.io/publication/otdf/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/otdf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICLR&#39;25] Discrete Latent Plans via Semantic Skill Abstractions</title>
+      <link>https://z0ngqing.github.io/publication/lads/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/lads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICLR&#39;25] Learning Video-Conditioned Policy on Unlabelled Data with Joint Embedding Predictive Transformer</title>
+      <link>https://z0ngqing.github.io/publication/jept/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/jept/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICLR&#39;25] MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents</title>
+      <link>https://z0ngqing.github.io/publication/mart/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/mart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICLR&#39;25] Watch Less, Do More: Implicit Skill Discovery for Video-Conditioned Policy</title>
+      <link>https://z0ngqing.github.io/publication/wldm/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/wldm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NAACL&#39;25] MLLM-Based Explicit Models of Opponents for Multi-Agent Games</title>
+      <link>https://z0ngqing.github.io/publication/mart-copy/</link>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/mart-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cradle: Empowering Foundation Agents towards General Computer Control</title>
       <link>https://z0ngqing.github.io/publication/cradle-iclr/</link>
       <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
       
