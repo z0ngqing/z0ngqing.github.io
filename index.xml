@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2024 Zongqing Lu</copyright>
-    <lastBuildDate>Tue, 04 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -297,12 +297,21 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/service/</guid>
-      <description>Area Chair and Editorship  Area Chair, ICLR 2024 2025, ICML 2024 2025, NeurIPS 2024, AAMAS 2025
+      <description>Area Chair and Editorship  Area Chair, ICLR 2024 2025, ICML 2024 2025, NeurIPS 2024 2025, AAMAS 2025
  Associate Editor, ACM Journal on Autonomous Transportation Systems, 2022 -
  Guest Editor, Machine Learning Special Issue on RL for Real Life, 2023
   Conference Organization  NeurIPS 2024 Large-Scale Auction Challenge, Co-Organizer
  IEEE Conference on Games 2022, Keynote Co-Chair
  ICML 2021 Workshop on Reinforcement Learning for Real Life, General Co-Chair</description>
+    </item>
+    
+    <item>
+      <title>[TMLR] $f$-Divergence Policy Optimization in Fully Decentralized Cooperative MARL</title>
+      <link>https://z0ngqing.github.io/publication/tvpo/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/tvpo/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -378,11 +387,11 @@
     </item>
     
     <item>
-      <title>[NAACL&#39;25] MLLM-Based Explicit Models of Opponents for Multi-Agent Games</title>
-      <link>https://z0ngqing.github.io/publication/mart-copy/</link>
+      <title>[NAACL&#39;25] LLM-Based Explicit Models of Opponents for Multi-Agent Games</title>
+      <link>https://z0ngqing.github.io/publication/emo/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://z0ngqing.github.io/publication/mart-copy/</guid>
+      <guid>https://z0ngqing.github.io/publication/emo/</guid>
       <description></description>
     </item>
     
@@ -1152,9 +1161,9 @@ FEN Fairness is essential for human society, contributing to stability and produ
       
       <guid>https://z0ngqing.github.io/home/about/</guid>
       <description>I am a tenured Associate Professor in the School of Computer Science at Peking University (PKU).
-I also lead the Multimodal Interaction Research Center at Beijing Academy of Artificial Intelligence (BAAI).
+I am the founder of BeingBeyond, a start-up company on foundation models and embodied AI.
 My current research focuses on
- Reinforcement Learning Multimodal Models General Agents  with the aim of endowing agents with the ability to autonomously acquire skills to accomplish tasks, cooperate, and communicate in the open world, towards artificial general intelligence.</description>
+ Reinforcement Learning Multimodal Models General Agents  with the aim of endowing robots/agents with the ability to autonomously acquire skills to accomplish tasks, cooperate, and communicate in the open world, towards artificial general intelligence.</description>
     </item>
     
     <item>
