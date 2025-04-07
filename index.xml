@@ -6,7 +6,7 @@
     <description>Recent content on Zongqing&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2024 Zongqing Lu</copyright>
+    <copyright>&amp;copy; 2025 Zongqing Lu</copyright>
     <lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -1161,7 +1161,7 @@ FEN Fairness is essential for human society, contributing to stability and produ
       
       <guid>https://z0ngqing.github.io/home/about/</guid>
       <description>I am a tenured Associate Professor in the School of Computer Science at Peking University (PKU).
-I am the founder of BeingBeyond, a start-up company on foundation models and embodied AI.
+I am the founder of BeingBeyond, a start-up company on foundation models for embodied AI.
 My current research focuses on
  Reinforcement Learning Multimodal Models General Agents  with the aim of endowing robots/agents with the ability to autonomously acquire skills to accomplish tasks, cooperate, and communicate in the open world, towards artificial general intelligence.</description>
     </item>
