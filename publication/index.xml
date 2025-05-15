@@ -7,10 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Zongqing Lu</copyright>
-    <lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[ACL&#39;25] Beyond Outcomes: Transparent Assessment of LLM Reasoning in Games</title>
+      <link>https://z0ngqing.github.io/publication/gamebot/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/gamebot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[UAI&#39;25] Best Possible Q-Learning</title>
+      <link>https://z0ngqing.github.io/publication/bql/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/bql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[UAI&#39;25] Creative Agents: Empowering Agents with Imagination for Creative Tasks</title>
+      <link>https://z0ngqing.github.io/publication/creative/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/creative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICML&#39;25] Scaling Large Motion Models with Million-Level Human Motions</title>
+      <link>https://z0ngqing.github.io/publication/puppet/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/puppet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICML&#39;25] Cradle: Empowering Foundation Agents towards General Computer Control</title>
+      <link>https://z0ngqing.github.io/publication/cradle-icml/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/cradle-icml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICML&#39;25] Revisiting Cooperative Off-Policy Multi-Agent Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/tee/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/tee/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[TMLR] $f$-Divergence Policy Optimization in Fully Decentralized Cooperative MARL</title>
@@ -99,15 +153,6 @@
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/emo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cradle: Empowering Foundation Agents towards General Computer Control</title>
-      <link>https://z0ngqing.github.io/publication/cradle-iclr/</link>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/cradle-iclr/</guid>
       <description></description>
     </item>
     
@@ -441,15 +486,6 @@
       <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/publication/mdpo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Best Possible Q-Learning</title>
-      <link>https://z0ngqing.github.io/publication/bql/</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://z0ngqing.github.io/publication/bql/</guid>
       <description></description>
     </item>
     

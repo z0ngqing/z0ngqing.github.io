@@ -20,9 +20,9 @@
 
 
     <link rel="shortcut icon" href="https://z0ngqing.github.io/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" href="https://z0ngqing.github.io/publication/tvpo/">
+    <link rel="canonical" href="https://z0ngqing.github.io/publication/tee/">
 
-    <title>[TMLR] $f$-Divergence Policy Optimization in Fully Decentralized Cooperative MARL | Zongqing&#39;s Homepage</title>
+    <title>[ICML&#39;25] Revisiting Cooperative Off-Policy Multi-Agent Reinforcement Learning | Zongqing&#39;s Homepage</title>
 
 </head>
 <body id="top">
@@ -72,10 +72,10 @@
 
     <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
         <div class="pub-title">
-            <h1 itemprop="name">[TMLR] $f$-Divergence Policy Optimization in Fully Decentralized Cooperative MARL</h1>
+            <h1 itemprop="name">[ICML&#39;25] Revisiting Cooperative Off-Policy Multi-Agent Reinforcement Learning</h1>
             <span class="pub-authors" itemprop="author">
                 
-                Kefan Su and Zongqing Lu
+                Yueheng Li, Guangming Xie, Zongqing Lu
                 
             </span>
             <span class="pull-right">
@@ -83,27 +83,27 @@
 <div class="share-box">
     <ul class="share">
         <li>
-            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2ftvpo%2f" target="_blank">
+            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2ftee%2f" target="_blank">
                 <i class="fa fa-facebook"></i>
             </a>
         </li>
         <li>
-            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bTMLR%5d%20%24f%24-Divergence%20Policy%20Optimization%20in%20Fully%20Decentralized%20Cooperative%20MARL&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2ftvpo%2f" target="_blank">
+            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bICML%2725%5d%20Revisiting%20Cooperative%20Off-Policy%20Multi-Agent%20Reinforcement%20Learning&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2ftee%2f" target="_blank">
                 <i class="fa fa-twitter"></i>
             </a>
         </li>
         <li>
-            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2ftvpo%2f&amp;title=%5bTMLR%5d%20%24f%24-Divergence%20Policy%20Optimization%20in%20Fully%20Decentralized%20Cooperative%20MARL" target="_blank">
+            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2ftee%2f&amp;title=%5bICML%2725%5d%20Revisiting%20Cooperative%20Off-Policy%20Multi-Agent%20Reinforcement%20Learning" target="_blank">
                 <i class="fa fa-linkedin"></i>
             </a>
         </li>
         <li>
-            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2ftvpo%2f&amp;title=%5bTMLR%5d%20%24f%24-Divergence%20Policy%20Optimization%20in%20Fully%20Decentralized%20Cooperative%20MARL" target="_blank">
+            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2ftee%2f&amp;title=%5bICML%2725%5d%20Revisiting%20Cooperative%20Off-Policy%20Multi-Agent%20Reinforcement%20Learning" target="_blank">
                 <i class="fa fa-weibo"></i>
             </a>
         </li>
         <li>
-            <a class="email" href="mailto:?subject=%5bTMLR%5d%20%24f%24-Divergence%20Policy%20Optimization%20in%20Fully%20Decentralized%20Cooperative%20MARL&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2ftvpo%2f">
+            <a class="email" href="mailto:?subject=%5bICML%2725%5d%20Revisiting%20Cooperative%20Off-Policy%20Multi-Agent%20Reinforcement%20Learning&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2ftee%2f">
                 <i class="fa fa-envelope"></i>
             </a>
         </li>
@@ -118,14 +118,14 @@
 
         <h3>Abstract</h3>
 
-	<p align="justify" class="pub-abstract" itemprop="text">Independent learning is a straightforward solution for fully decentralized learning in cooperative multi-agent reinforcement learning (MARL). The study of independent learning has a history of decades, and the representatives, such as independent Q-learning and independent PPO, can achieve good performances on several benchmarks. However, most independent learning algorithms lack convergence guarantees or theoretical support. In this paper, we propose a general formulation of independent policy optimization, $f$-divergence policy optimization. We hope that a more general policy optimization formulation will provide deeper insights into fully decentralized learning. We demonstrate the generality of this formulation and analyze its limitations. Based on this formulation, we further propose a novel independent learning algorithm, TVPO, which theoretically guarantees convergence. Empirically, we demonstrate that TVPO outperforms state-of-the-art fully decentralized learning methods on three popular cooperative MARL benchmarks, thereby verifying the efficacy of TVPO.</p>
+	<p align="justify" class="pub-abstract" itemprop="text">Cooperative Multi-Agent Reinforcement Learning (MARL) has become a critical tool for addressing complex real-world problems. However, off-policy MARL methods, which rely on joint Q-functions, face significant scalability challenges due to the exponentially growing joint action space. In this work, we highlight a critical yet often overlooked issue: erroneous Q-target estimation, primarily caused by extrapolation error. Our analysis reveals that this error becomes increasingly severe as the number of agents grows, leading to unique challenges in MARL due to its expansive joint action space and the decentralized execution paradigm. To address these challenges, we propose a suite of techniques tailored for off-policy MARL, including annealed multi-step bootstrapping, averaged Q-targets, and restricted action representation. Experimental results demonstrate that these methods effectively mitigate erroneous estimations, yielding substantial performance improvements in challenging benchmarks such as SMAC, SMACv2, and Google Research Football.</p>
 
         <div class="row">
             <div class="col-sm-1"></div>
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-                    <div class="col-xs-12 col-sm-9">Transactions on Machine Learning Research (TMLR), 2025</div>
+                    <div class="col-xs-12 col-sm-9">Forty-Second International Conference on Machine Learning (ICML), July 13-19, 2025</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -137,7 +137,7 @@
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
-                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">March, 2025</div>
+                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">May, 2025</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -156,7 +156,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://openreview.net/pdf?id=Wj8yFjIpom">PDF</a>
+<a class="btn btn-primary btn-outline" href="https://openreview.net/pdf?id=JPkJAyutW0">PDF</a>
 
 
 

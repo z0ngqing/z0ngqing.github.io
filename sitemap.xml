@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://z0ngqing.github.io/news/icml25/</loc>
+    <lastmod>2025-05-15T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://z0ngqing.github.io/news/iclr25/</loc>
     <lastmod>2025-02-03T10:00:00+08:00</lastmod>
   </url>
@@ -163,15 +168,51 @@
   </url>
   
   <url>
-    <loc>https://z0ngqing.github.io/publication/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <loc>https://z0ngqing.github.io/news/</loc>
+    <lastmod>2025-05-15T10:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://z0ngqing.github.io/</loc>
-    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-15T10:00:00+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/</loc>
+    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/gamebot/</loc>
+    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/bql/</loc>
+    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/creative/</loc>
+    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/puppet/</loc>
+    <lastmod>2025-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/cradle-icml/</loc>
+    <lastmod>2025-05-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/tee/</loc>
+    <lastmod>2025-05-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -192,12 +233,6 @@
   <url>
     <loc>https://z0ngqing.github.io/publication/bpe/</loc>
     <lastmod>2025-02-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://z0ngqing.github.io/news/</loc>
-    <lastmod>2025-02-03T10:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -228,11 +263,6 @@
   <url>
     <loc>https://z0ngqing.github.io/publication/emo/</loc>
     <lastmod>2025-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://z0ngqing.github.io/publication/cradle-iclr/</loc>
-    <lastmod>2024-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -447,11 +477,6 @@
   <url>
     <loc>https://z0ngqing.github.io/publication/mdpo/</loc>
     <lastmod>2023-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://z0ngqing.github.io/publication/bql/</loc>
-    <lastmod>2023-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>

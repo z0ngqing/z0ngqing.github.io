@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Zongqing Lu</copyright>
-    <lastBuildDate>Mon, 03 Feb 2025 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Seven papers accepted at ICML&#39;25, ACL&#39;25, UAI&#39;25 and TMLR</title>
+      <link>https://z0ngqing.github.io/news/icml25/</link>
+      <pubDate>Thu, 15 May 2025 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/icml25/</guid>
+      <description>Seven papers on RL, Motion Models and AI Agents were accepted at ICML&amp;rsquo;25, ACL&amp;rsquo;25, UAI&amp;rsquo;25, and TMLR. Congratulations to all.</description>
+    </item>
     
     <item>
       <title>Nine papers accepted at ICLR&#39;25 and NAACL&#39;25</title>
