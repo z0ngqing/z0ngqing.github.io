@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Zongqing Lu</copyright>
-    <lastBuildDate>Thu, 15 May 2025 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Five papers accepted at ICCV&#39;25 and IROS&#39;25</title>
+      <link>https://z0ngqing.github.io/news/iccv25/</link>
+      <pubDate>Sat, 28 Jun 2025 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/iccv25/</guid>
+      <description>Five papers on multimodal models and navigation were accepted at ICCV&amp;rsquo;25 and IROS&amp;rsquo;24.</description>
+    </item>
     
     <item>
       <title>Seven papers accepted at ICML&#39;25, ACL&#39;25, UAI&#39;25 and TMLR</title>
@@ -312,6 +321,51 @@
   Conference Organization  NeurIPS 2024 Large-Scale Auction Challenge, Co-Organizer
  IEEE Conference on Games 2022, Keynote Co-Chair
  ICML 2021 Workshop on Reinforcement Learning for Real Life, General Co-Chair</description>
+    </item>
+    
+    <item>
+      <title>[ICCV&#39;25] MotionCtrl: A Real-Time Controllable Vision-Language-Motion Model</title>
+      <link>https://z0ngqing.github.io/publication/motionctrl/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/motionctrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICCV&#39;25] Unified Multimodal Understanding via Byte-Pair Visual Encoding</title>
+      <link>https://z0ngqing.github.io/publication/unibpe/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/unibpe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICCV&#39;25] VideoOrion: Tokenizing Object Dynamics in Videos</title>
+      <link>https://z0ngqing.github.io/publication/videoorion/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/videoorion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICCV&#39;25] GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based VLM Agent Training</title>
+      <link>https://z0ngqing.github.io/publication/gtr/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/gtr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[IROS&#39;25] NOLO: Navigate Only Look Once</title>
+      <link>https://z0ngqing.github.io/publication/nolo/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/nolo/</guid>
+      <description></description>
     </item>
     
     <item>

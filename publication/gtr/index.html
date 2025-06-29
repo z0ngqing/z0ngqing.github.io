@@ -20,9 +20,9 @@
 
 
     <link rel="shortcut icon" href="https://z0ngqing.github.io/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" href="https://z0ngqing.github.io/publication/gamebot/">
+    <link rel="canonical" href="https://z0ngqing.github.io/publication/gtr/">
 
-    <title>[ACL&#39;25] Beyond Outcomes: Transparent Assessment of LLM Reasoning in Games | Zongqing&#39;s Homepage</title>
+    <title>[ICCV&#39;25] GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based VLM Agent Training | Zongqing&#39;s Homepage</title>
 
 </head>
 <body id="top">
@@ -72,10 +72,10 @@
 
     <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
         <div class="pub-title">
-            <h1 itemprop="name">[ACL&#39;25] Beyond Outcomes: Transparent Assessment of LLM Reasoning in Games</h1>
+            <h1 itemprop="name">[ICCV&#39;25] GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based VLM Agent Training</h1>
             <span class="pub-authors" itemprop="author">
                 
-                Wenye Lin, Jonathan Roberts, Yunhan Yang, Samuel Albanie, Zongqing Lu, Kai Han
+                Tong Wei, Yijun Yang, Junliang Xing, Yuanchun Shi, Zongqing Lu, Deheng Ye
                 
             </span>
             <span class="pull-right">
@@ -83,27 +83,27 @@
 <div class="share-box">
     <ul class="share">
         <li>
-            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fgamebot%2f" target="_blank">
+            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fgtr%2f" target="_blank">
                 <i class="fa fa-facebook"></i>
             </a>
         </li>
         <li>
-            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bACL%2725%5d%20Beyond%20Outcomes%3a%20Transparent%20Assessment%20of%20LLM%20Reasoning%20in%20Games&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fgamebot%2f" target="_blank">
+            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bICCV%2725%5d%20GTR%3a%20Guided%20Thought%20Reinforcement%20Prevents%20Thought%20Collapse%20in%20RL-based%20VLM%20Agent%20Training&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fgtr%2f" target="_blank">
                 <i class="fa fa-twitter"></i>
             </a>
         </li>
         <li>
-            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fgamebot%2f&amp;title=%5bACL%2725%5d%20Beyond%20Outcomes%3a%20Transparent%20Assessment%20of%20LLM%20Reasoning%20in%20Games" target="_blank">
+            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fgtr%2f&amp;title=%5bICCV%2725%5d%20GTR%3a%20Guided%20Thought%20Reinforcement%20Prevents%20Thought%20Collapse%20in%20RL-based%20VLM%20Agent%20Training" target="_blank">
                 <i class="fa fa-linkedin"></i>
             </a>
         </li>
         <li>
-            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fgamebot%2f&amp;title=%5bACL%2725%5d%20Beyond%20Outcomes%3a%20Transparent%20Assessment%20of%20LLM%20Reasoning%20in%20Games" target="_blank">
+            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fgtr%2f&amp;title=%5bICCV%2725%5d%20GTR%3a%20Guided%20Thought%20Reinforcement%20Prevents%20Thought%20Collapse%20in%20RL-based%20VLM%20Agent%20Training" target="_blank">
                 <i class="fa fa-weibo"></i>
             </a>
         </li>
         <li>
-            <a class="email" href="mailto:?subject=%5bACL%2725%5d%20Beyond%20Outcomes%3a%20Transparent%20Assessment%20of%20LLM%20Reasoning%20in%20Games&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fgamebot%2f">
+            <a class="email" href="mailto:?subject=%5bICCV%2725%5d%20GTR%3a%20Guided%20Thought%20Reinforcement%20Prevents%20Thought%20Collapse%20in%20RL-based%20VLM%20Agent%20Training&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fgtr%2f">
                 <i class="fa fa-envelope"></i>
             </a>
         </li>
@@ -118,14 +118,14 @@
 
         <h3>Abstract</h3>
 
-	<p align="justify" class="pub-abstract" itemprop="text">Large Language Models (LLMs) are increasingly deployed in real-world applications that demand complex reasoning. To track progress, robust benchmarks are required to evaluate their capabilities beyond superficial pattern recognition. However, current LLM reasoning benchmarks often face challenges such as insufficient interpretability, performance saturation or data contamination. To address these challenges, we introduce GAMEBoT, a gaming arena designed for rigorous and transparent assessment of LLM reasoning capabilities. GAMEBoT decomposes complex reasoning in games into predefined modular subproblems. This decomposition allows us to design a suite of Chain-of-Thought (CoT) prompts that leverage domain knowledge to guide LLMs in addressing these subproblems before action selection. Furthermore, we develop a suite of rule-based algorithms to generate ground truth for these subproblems, enabling rigorous validation of the LLMs&rsquo; intermediate reasoning steps. This approach facilitates evaluation of both the quality of final actions and the accuracy of the underlying reasoning process. GAMEBoT also naturally alleviates the risk of data contamination through dynamic games and head-to-head LLM competitions. We benchmark 17 prominent LLMs across eight games, encompassing various strategic abilities and game characteristics. Our results suggest that GAMEBoT presents a significant challenge, even when LLMs are provided with detailed CoT prompts.</p>
+	<p align="justify" class="pub-abstract" itemprop="text">Reinforcement learning with verifiable outcome rewards (RLVR) has effectively scaled up chain-of-thought (CoT) reasoning in large language models (LLMs). Yet, its efficacy in training vision-language model (VLM) agents for goal-directed action reasoning in visual environments is less established. This work investigates this problem through extensive experiments on complex card games, such as 24 points, and embodied tasks from ALFWorld. We find that when rewards are based solely on action outcomes, RL fails to incentivize CoT reasoning in VLMs, instead leading to a phenomenon we termed thought collapse, characterized by a rapid loss of diversity in the agent&rsquo;s thoughts, state-irrelevant and incomplete reasoning, and subsequent invalid actions, resulting in negative rewards. To counteract thought collapse, we highlight the necessity of process guidance and propose an automated corrector that evaluates and refines the agent&rsquo;s reasoning at each RL step. This simple and scalable GTR (Guided Thought Reinforcement) framework trains reasoning and action simultaneously without the need for dense, per-step human labeling. Our experiments demonstrate that GTR significantly enhances the performance and generalization of the LLaVA-7b model across various visual environments, achieving 3-5 times higher task success rates compared to SoTA models with notably smaller model sizes.</p>
 
         <div class="row">
             <div class="col-sm-1"></div>
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-                    <div class="col-xs-12 col-sm-9">The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), July 27-August 1, 2025.</div>
+                    <div class="col-xs-12 col-sm-9">International Conference on Computer Vision (ICCV), October 19-23, 2025.</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -137,7 +137,7 @@
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
-                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">May, 2025</div>
+                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">June, 2025</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -156,15 +156,13 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://arxiv.org/pdf/2412.13602">PDF</a>
+<a class="btn btn-primary btn-outline" href="https://openreview.net/pdf?id=ZAKIvy4Y9q">PDF</a>
 
 
 
 
 <a class="btn btn-primary btn-outline" href="https://z0ngqing.github.io/project/agi/">Project</a>
 
-
-<a class="btn btn-primary btn-outline" href="https://visual-ai.github.io/gamebot/">Webpage</a>
 
 
 

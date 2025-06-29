@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://z0ngqing.github.io/news/iccv25/</loc>
+    <lastmod>2025-06-28T10:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://z0ngqing.github.io/news/icml25/</loc>
     <lastmod>2025-05-15T10:00:00+08:00</lastmod>
   </url>
@@ -169,20 +174,45 @@
   
   <url>
     <loc>https://z0ngqing.github.io/news/</loc>
-    <lastmod>2025-05-15T10:00:00+08:00</lastmod>
+    <lastmod>2025-06-28T10:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://z0ngqing.github.io/</loc>
-    <lastmod>2025-05-15T10:00:00+08:00</lastmod>
+    <lastmod>2025-06-28T10:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://z0ngqing.github.io/publication/</loc>
-    <lastmod>2025-05-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/motionctrl/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/unibpe/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/videoorion/</loc>
+    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/gtr/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://z0ngqing.github.io/publication/nolo/</loc>
+    <lastmod>2025-06-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>

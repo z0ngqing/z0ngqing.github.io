@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Zongqing Lu</copyright>
-    <lastBuildDate>Thu, 15 May 2025 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Five papers accepted at ICCV&#39;25 and IROS&#39;25</title>
+      <link>https://z0ngqing.github.io/news/iccv25/</link>
+      <pubDate>Sat, 28 Jun 2025 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/iccv25/</guid>
+      <description>Five papers on multimodal models and navigation were accepted at ICCV&amp;rsquo;25 and IROS&amp;rsquo;24.</description>
+    </item>
     
     <item>
       <title>Seven papers accepted at ICML&#39;25, ACL&#39;25, UAI&#39;25 and TMLR</title>

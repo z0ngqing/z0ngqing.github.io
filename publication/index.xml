@@ -7,10 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Zongqing Lu</copyright>
-    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[ICCV&#39;25] MotionCtrl: A Real-Time Controllable Vision-Language-Motion Model</title>
+      <link>https://z0ngqing.github.io/publication/motionctrl/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/motionctrl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICCV&#39;25] Unified Multimodal Understanding via Byte-Pair Visual Encoding</title>
+      <link>https://z0ngqing.github.io/publication/unibpe/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/unibpe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICCV&#39;25] VideoOrion: Tokenizing Object Dynamics in Videos</title>
+      <link>https://z0ngqing.github.io/publication/videoorion/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/videoorion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICCV&#39;25] GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based VLM Agent Training</title>
+      <link>https://z0ngqing.github.io/publication/gtr/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/gtr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[IROS&#39;25] NOLO: Navigate Only Look Once</title>
+      <link>https://z0ngqing.github.io/publication/nolo/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/nolo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[ACL&#39;25] Beyond Outcomes: Transparent Assessment of LLM Reasoning in Games</title>
