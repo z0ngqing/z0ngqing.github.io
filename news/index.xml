@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Zongqing Lu</copyright>
-    <lastBuildDate>Sat, 28 Jun 2025 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Two papers accepted at EMNLP&#39;25 and TMLR</title>
+      <link>https://z0ngqing.github.io/news/emnlp25/</link>
+      <pubDate>Thu, 28 Aug 2025 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/emnlp25/</guid>
+      <description>Two papers on multimodal models were accepted respectively at EMNLP&amp;rsquo;25 and TMLR.</description>
+    </item>
     
     <item>
       <title>Five papers accepted at ICCV&#39;25 and IROS&#39;25</title>
