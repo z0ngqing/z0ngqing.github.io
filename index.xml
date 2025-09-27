@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Zongqing Lu</copyright>
-    <lastBuildDate>Sun, 31 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Four papers accepted at NeurIPS&#39;25</title>
+      <link>https://z0ngqing.github.io/news/nips25/</link>
+      <pubDate>Fri, 26 Sep 2025 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/nips25/</guid>
+      <description>Four papers on multimodal LLMs, reinforcement learning, and robotics were accepted at NeurIPS&amp;rsquo;25. Congratulations to all.</description>
+    </item>
     
     <item>
       <title>Two papers accepted at EMNLP&#39;25 and TMLR</title>
@@ -330,6 +339,42 @@
   Conference Organization  NeurIPS 2024 Large-Scale Auction Challenge, Co-Organizer
  IEEE Conference on Games 2022, Keynote Co-Chair
  ICML 2021 Workshop on Reinforcement Learning for Real Life, General Co-Chair</description>
+    </item>
+    
+    <item>
+      <title>[NeurIPS&#39;25] From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots</title>
+      <link>https://z0ngqing.github.io/publication/bumblebee/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/bumblebee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NeurIPS&#39;25] MEgoHand: Multi-Modal Egocentric Hand-Object Interaction Motion Generation</title>
+      <link>https://z0ngqing.github.io/publication/megohand/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/megohand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NeurIPS&#39;25] OpenMMEgo: Enhancing Egocentric Understanding for LMMs with Open Weights and Data</title>
+      <link>https://z0ngqing.github.io/publication/openmmego/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/openmmego/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[NeurIPS&#39;25] Planning with Quantized Opponent Models</title>
+      <link>https://z0ngqing.github.io/publication/qom/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/qom/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -20,9 +20,9 @@
 
 
     <link rel="shortcut icon" href="https://z0ngqing.github.io/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" href="https://z0ngqing.github.io/publication/selu/">
+    <link rel="canonical" href="https://z0ngqing.github.io/publication/bumblebee/">
 
-    <title>[TMLR] SELU: Self-Learning Embodied Multimodal Large Language Models in Unknown Environments | Zongqing&#39;s Homepage</title>
+    <title>[NeurIPS&#39;25] From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots | Zongqing&#39;s Homepage</title>
 
 </head>
 <body id="top">
@@ -72,10 +72,10 @@
 
     <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
         <div class="pub-title">
-            <h1 itemprop="name">[TMLR] SELU: Self-Learning Embodied Multimodal Large Language Models in Unknown Environments</h1>
+            <h1 itemprop="name">[NeurIPS&#39;25] From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots</h1>
             <span class="pub-authors" itemprop="author">
                 
-                Boyu Li, Haobin Jiang, Ziluo Ding, Xinrun Xu, Haoran Li, Dongbin Zhao, and Zongqing Lu
+                Yuxuan Wang, Ming Yang, Weishuai Zeng, Yu Zhang, Xinrun Xu, Haobin Jiang, Ziluo Ding, Zongqing Lu
                 
             </span>
             <span class="pull-right">
@@ -83,27 +83,27 @@
 <div class="share-box">
     <ul class="share">
         <li>
-            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fselu%2f" target="_blank">
+            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fbumblebee%2f" target="_blank">
                 <i class="fa fa-facebook"></i>
             </a>
         </li>
         <li>
-            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bTMLR%5d%20SELU%3a%20Self-Learning%20Embodied%20Multimodal%20Large%20Language%20Models%20in%20Unknown%20Environments&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fselu%2f" target="_blank">
+            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bNeurIPS%2725%5d%20From%20Experts%20to%20a%20Generalist%3a%20Toward%20General%20Whole-Body%20Control%20for%20Humanoid%20Robots&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fbumblebee%2f" target="_blank">
                 <i class="fa fa-twitter"></i>
             </a>
         </li>
         <li>
-            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fselu%2f&amp;title=%5bTMLR%5d%20SELU%3a%20Self-Learning%20Embodied%20Multimodal%20Large%20Language%20Models%20in%20Unknown%20Environments" target="_blank">
+            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fbumblebee%2f&amp;title=%5bNeurIPS%2725%5d%20From%20Experts%20to%20a%20Generalist%3a%20Toward%20General%20Whole-Body%20Control%20for%20Humanoid%20Robots" target="_blank">
                 <i class="fa fa-linkedin"></i>
             </a>
         </li>
         <li>
-            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fselu%2f&amp;title=%5bTMLR%5d%20SELU%3a%20Self-Learning%20Embodied%20Multimodal%20Large%20Language%20Models%20in%20Unknown%20Environments" target="_blank">
+            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fbumblebee%2f&amp;title=%5bNeurIPS%2725%5d%20From%20Experts%20to%20a%20Generalist%3a%20Toward%20General%20Whole-Body%20Control%20for%20Humanoid%20Robots" target="_blank">
                 <i class="fa fa-weibo"></i>
             </a>
         </li>
         <li>
-            <a class="email" href="mailto:?subject=%5bTMLR%5d%20SELU%3a%20Self-Learning%20Embodied%20Multimodal%20Large%20Language%20Models%20in%20Unknown%20Environments&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fselu%2f">
+            <a class="email" href="mailto:?subject=%5bNeurIPS%2725%5d%20From%20Experts%20to%20a%20Generalist%3a%20Toward%20General%20Whole-Body%20Control%20for%20Humanoid%20Robots&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fbumblebee%2f">
                 <i class="fa fa-envelope"></i>
             </a>
         </li>
@@ -118,14 +118,14 @@
 
         <h3>Abstract</h3>
 
-	<p align="justify" class="pub-abstract" itemprop="text">Recently, multimodal large language models (MLLMs) have demonstrated strong visual understanding and decision-making capabilities, enabling the exploration of autonomously improving MLLMs in unknown environments. However, external feedback like human or environmental feedback is not always available. To address this challenge, existing methods primarily focus on enhancing the decision-making capabilities of MLLMs through voting and scoring mechanisms, while little effort has been paid to improving the environmental comprehension of MLLMs in unknown environments. To fully unleash the self-learning potential of MLLMs, we propose a novel actor-critic self-learning paradigm, dubbed SELU, inspired by the actor-critic paradigm in reinforcement learning. The critic employs self-asking and hindsight relabeling to extract knowledge from interaction trajectories collected by the actor, thereby augmenting its environmental comprehension. Simultaneously, the actor is improved by the self-feedback provided by the critic, enhancing its decision-making. We evaluate our method in the AI2-THOR and VirtualHome environments, and SELU achieves critic improvements of approximately 28% and 30%, and actor improvements of about 20% and 24% via self-learning.</p>
+	<p align="justify" class="pub-abstract" itemprop="text">Achieving general agile whole-body control on humanoid robots remains a major challenge due to diverse motion demands and data conflicts. While existing frameworks excel in training single motion-specific policies, they struggle to generalize across highly varied behaviors due to conflicting control requirements and mismatched data distributions. In this work, we propose BUMBLEBEE (BB), an expert-generalist learning framework that combines motion clustering and sim-to-real adaptation to overcome these challenges. BB first leverages an autoencoder-based clustering method to group behaviorally similar motions using motion features and motion descriptions. Expert policies are then trained within each cluster and refined with real-world data through iterative delta action modeling to bridge the sim-to-real gap. Finally, these experts are distilled into a unified generalist controller that preserves agility and robustness across all motion types. Experiments on two simulations and a real humanoid robot demonstrate that BB achieves state-of-the-art general whole-body control, setting a new benchmark for agile, robust, and generalizable humanoid performance in the real world.</p>
 
         <div class="row">
             <div class="col-sm-1"></div>
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-                    <div class="col-xs-12 col-sm-9">Transactions on Machine Learning Research (TMLR), 2025</div>
+                    <div class="col-xs-12 col-sm-9">Thirty-Ninth Conference on Neural Information Processing Systems (NeurIPS), Dec. 2-7, 2025.</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -137,7 +137,7 @@
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
-                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">August, 2025</div>
+                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">September, 2025</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -156,7 +156,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://openreview.net/pdf?id=G5gROx8AVi">PDF</a>
+<a class="btn btn-primary btn-outline" href="https://arxiv.org/abs/2506.12779">PDF</a>
 
 
 
@@ -185,8 +185,6 @@
         
         
 
-        
-        
         
     </ul>
 </nav>

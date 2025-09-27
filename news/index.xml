@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Zongqing Lu</copyright>
-    <lastBuildDate>Thu, 28 Aug 2025 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Four papers accepted at NeurIPS&#39;25</title>
+      <link>https://z0ngqing.github.io/news/nips25/</link>
+      <pubDate>Fri, 26 Sep 2025 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/nips25/</guid>
+      <description>Four papers on multimodal LLMs, reinforcement learning, and robotics were accepted at NeurIPS&amp;rsquo;25. Congratulations to all.</description>
+    </item>
     
     <item>
       <title>Two papers accepted at EMNLP&#39;25 and TMLR</title>
