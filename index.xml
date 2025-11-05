@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Zongqing Lu</copyright>
-    <lastBuildDate>Fri, 26 Sep 2025 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -339,6 +339,16 @@
   Conference Organization  NeurIPS 2024 Large-Scale Auction Challenge, Co-Organizer
  IEEE Conference on Games 2022, Keynote Co-Chair
  ICML 2021 Workshop on Reinforcement Learning for Real Life, General Co-Chair</description>
+    </item>
+    
+    <item>
+      <title>Embodied AI</title>
+      <link>https://z0ngqing.github.io/project/embodied/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/embodied/</guid>
+      <description>Embodied AI focuses on creating robots that can perceive, reason, and act in the physical world. It brings together dexterous hand manipulation, humanoid whole-body control, and foundation models that link perception, language, and action. By combining these elements, embodied AI aims to enable robots that can generalize and perform complex real-world tasks with human-like adaptability.
+Dexhand Manipulation  Dexterous hand manipulation focuses on enabling robots to interact with objects with the precision, adaptability, and coordination of human hands.</description>
     </item>
     
     <item>
