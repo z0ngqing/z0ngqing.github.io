@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Zongqing Lu</copyright>
-    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[RAL] CROSSER: Learning Generalizable Humanoid Locomotion Through Inverse Dynamics-Guided Cross-Simulator Adaptation</title>
+      <link>https://z0ngqing.github.io/publication/crosser/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/crosser/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[NeurIPS&#39;25] From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots</title>

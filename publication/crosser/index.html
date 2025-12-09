@@ -20,9 +20,9 @@
 
 
     <link rel="shortcut icon" href="https://z0ngqing.github.io/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" href="https://z0ngqing.github.io/publication/bumblebee/">
+    <link rel="canonical" href="https://z0ngqing.github.io/publication/crosser/">
 
-    <title>[NeurIPS&#39;25] From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots | Zongqing&#39;s Homepage</title>
+    <title>[RAL] CROSSER: Learning Generalizable Humanoid Locomotion Through Inverse Dynamics-Guided Cross-Simulator Adaptation | Zongqing&#39;s Homepage</title>
 
 </head>
 <body id="top">
@@ -72,10 +72,10 @@
 
     <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
         <div class="pub-title">
-            <h1 itemprop="name">[NeurIPS&#39;25] From Experts to a Generalist: Toward General Whole-Body Control for Humanoid Robots</h1>
+            <h1 itemprop="name">[RAL] CROSSER: Learning Generalizable Humanoid Locomotion Through Inverse Dynamics-Guided Cross-Simulator Adaptation</h1>
             <span class="pub-authors" itemprop="author">
                 
-                Yuxuan Wang, Ming Yang, Weishuai Zeng, Yu Zhang, Xinrun Xu, Haobin Jiang, Ziluo Ding, Zongqing Lu
+                Zepeng Wang, Xiaochuan Shi, Ziluo Ding, Yuxuan Wang, Zhenguo Sun, Chao Ma and Zongqing Lu
                 
             </span>
             <span class="pull-right">
@@ -83,27 +83,27 @@
 <div class="share-box">
     <ul class="share">
         <li>
-            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fbumblebee%2f" target="_blank">
+            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcrosser%2f" target="_blank">
                 <i class="fa fa-facebook"></i>
             </a>
         </li>
         <li>
-            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bNeurIPS%2725%5d%20From%20Experts%20to%20a%20Generalist%3a%20Toward%20General%20Whole-Body%20Control%20for%20Humanoid%20Robots&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fbumblebee%2f" target="_blank">
+            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bRAL%5d%20CROSSER%3a%20Learning%20Generalizable%20Humanoid%20Locomotion%20Through%20Inverse%20Dynamics-Guided%20Cross-Simulator%20Adaptation&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcrosser%2f" target="_blank">
                 <i class="fa fa-twitter"></i>
             </a>
         </li>
         <li>
-            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fbumblebee%2f&amp;title=%5bNeurIPS%2725%5d%20From%20Experts%20to%20a%20Generalist%3a%20Toward%20General%20Whole-Body%20Control%20for%20Humanoid%20Robots" target="_blank">
+            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcrosser%2f&amp;title=%5bRAL%5d%20CROSSER%3a%20Learning%20Generalizable%20Humanoid%20Locomotion%20Through%20Inverse%20Dynamics-Guided%20Cross-Simulator%20Adaptation" target="_blank">
                 <i class="fa fa-linkedin"></i>
             </a>
         </li>
         <li>
-            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fbumblebee%2f&amp;title=%5bNeurIPS%2725%5d%20From%20Experts%20to%20a%20Generalist%3a%20Toward%20General%20Whole-Body%20Control%20for%20Humanoid%20Robots" target="_blank">
+            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcrosser%2f&amp;title=%5bRAL%5d%20CROSSER%3a%20Learning%20Generalizable%20Humanoid%20Locomotion%20Through%20Inverse%20Dynamics-Guided%20Cross-Simulator%20Adaptation" target="_blank">
                 <i class="fa fa-weibo"></i>
             </a>
         </li>
         <li>
-            <a class="email" href="mailto:?subject=%5bNeurIPS%2725%5d%20From%20Experts%20to%20a%20Generalist%3a%20Toward%20General%20Whole-Body%20Control%20for%20Humanoid%20Robots&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fbumblebee%2f">
+            <a class="email" href="mailto:?subject=%5bRAL%5d%20CROSSER%3a%20Learning%20Generalizable%20Humanoid%20Locomotion%20Through%20Inverse%20Dynamics-Guided%20Cross-Simulator%20Adaptation&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcrosser%2f">
                 <i class="fa fa-envelope"></i>
             </a>
         </li>
@@ -118,14 +118,14 @@
 
         <h3>Abstract</h3>
 
-	<p align="justify" class="pub-abstract" itemprop="text">Achieving general agile whole-body control on humanoid robots remains a major challenge due to diverse motion demands and data conflicts. While existing frameworks excel in training single motion-specific policies, they struggle to generalize across highly varied behaviors due to conflicting control requirements and mismatched data distributions. In this work, we propose BUMBLEBEE (BB), an expert-generalist learning framework that combines motion clustering and sim-to-real adaptation to overcome these challenges. BB first leverages an autoencoder-based clustering method to group behaviorally similar motions using motion features and motion descriptions. Expert policies are then trained within each cluster and refined with real-world data through iterative delta action modeling to bridge the sim-to-real gap. Finally, these experts are distilled into a unified generalist controller that preserves agility and robustness across all motion types. Experiments on two simulations and a real humanoid robot demonstrate that BB achieves state-of-the-art general whole-body control, setting a new benchmark for agile, robust, and generalizable humanoid performance in the real world.</p>
+	<p align="justify" class="pub-abstract" itemprop="text">The reality gap between simulation and real-world dynamics critically hinders the deployment of robust humanoid locomotion policies, as policies trained in a single simulator often overfit to domain-specific dynamics. To address this challenge, we propose CROSSER (Inverse Dynamics-Guided Cross-Simulator Adaptation), a reinforcement learning framework that synergizes heterogeneous simulators by leveraging multi-source data distributions to train policies resilient to cross-simulator dynamic discrepancies. Unlike prior methods that naively train policies from a specific simulator, CROSSER employs an inverse dynamics model trained across diverse simulator trajectories. By quantifying cross-simulator action-space inconsistencies, it can effectively identify and prioritize states where domain-specific biases significantly degrade generalization. Through dynamically penalizing or filtering transitions according to these inconsistencies, CROSSER guides policies to learn unified strategies that harmonize divergent physical priors embedded in multi-simulator data, rather than overfitting to any single source. Our work establishes a novel paradigm for transforming cross-simulator discrepancies into actionable signals through inverse dynamics models, advancing the practical deployment of humanoid robots via collaborative multi-simulator training. Experiments on humanoid locomotion tasks demonstrate that CROSSER significantly enhances cross-simulator performance compared to single-simulator baselines and outperforms existing joint training methods in the locomotion task, while presenting more stable locomotion behaviors.</p>
 
         <div class="row">
             <div class="col-sm-1"></div>
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-                    <div class="col-xs-12 col-sm-9">Thirty-Ninth Conference on Neural Information Processing Systems (NeurIPS), Dec. 2-7, 2025.</div>
+                    <div class="col-xs-12 col-sm-9">IEEE Robotics and Automation Letters, vol. 10, no. 12, pp. 13336-13343, 2025</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -137,7 +137,7 @@
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
-                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">September, 2025</div>
+                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">December, 2025</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -156,7 +156,7 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://arxiv.org/abs/2506.12779">PDF</a>
+<a class="btn btn-primary btn-outline" href="https://ieeexplore.ieee.org/document/11231381/authors#authors">PDF</a>
 
 
 
@@ -185,8 +185,6 @@
         
         
 
-        
-        
         
     </ul>
 </nav>

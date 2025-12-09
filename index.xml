@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Zongqing Lu</copyright>
-    <lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -339,6 +339,15 @@
   Conference Organization  NeurIPS 2024 Large-Scale Auction Challenge, Co-Organizer
  IEEE Conference on Games 2022, Keynote Co-Chair
  ICML 2021 Workshop on Reinforcement Learning for Real Life, General Co-Chair</description>
+    </item>
+    
+    <item>
+      <title>[RAL] CROSSER: Learning Generalizable Humanoid Locomotion Through Inverse Dynamics-Guided Cross-Simulator Adaptation</title>
+      <link>https://z0ngqing.github.io/publication/crosser/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/crosser/</guid>
+      <description></description>
     </item>
     
     <item>
