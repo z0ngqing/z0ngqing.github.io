@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Zongqing Lu</copyright>
-    <lastBuildDate>Fri, 26 Sep 2025 10:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Twelve papers accepted at CVPR&#39;26, ICLR&#39;26, ICRA&#39;26, AAAI&#39;26 and RAL</title>
+      <link>https://z0ngqing.github.io/news/cvpr/</link>
+      <pubDate>Fri, 20 Feb 2026 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/cvpr/</guid>
+      <description>Six papers on embodied intelligence were accepted at CVPR&amp;rsquo;26, three papers on reinforcement learning were accepted at ICLR&amp;rsquo;26, and three papers on robot manipulation were accepted/published in ICRA&amp;rsquo;26, AAAI&amp;rsquo;26 and RAL. Congratulations to all.</description>
+    </item>
     
     <item>
       <title>Four papers accepted at NeurIPS&#39;25</title>

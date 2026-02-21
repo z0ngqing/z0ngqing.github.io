@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2025 Zongqing Lu</copyright>
-    <lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Twelve papers accepted at CVPR&#39;26, ICLR&#39;26, ICRA&#39;26, AAAI&#39;26 and RAL</title>
+      <link>https://z0ngqing.github.io/news/cvpr/</link>
+      <pubDate>Fri, 20 Feb 2026 10:00:00 +0800</pubDate>
+      
+      <guid>https://z0ngqing.github.io/news/cvpr/</guid>
+      <description>Six papers on embodied intelligence were accepted at CVPR&amp;rsquo;26, three papers on reinforcement learning were accepted at ICLR&amp;rsquo;26, and three papers on robot manipulation were accepted/published in ICRA&amp;rsquo;26, AAAI&amp;rsquo;26 and RAL. Congratulations to all.</description>
+    </item>
     
     <item>
       <title>Four papers accepted at NeurIPS&#39;25</title>
@@ -339,6 +348,114 @@
   Conference Organization  NeurIPS 2024 Large-Scale Auction Challenge, Co-Organizer
  IEEE Conference on Games 2022, Keynote Co-Chair
  ICML 2021 Workshop on Reinforcement Learning for Real Life, General Co-Chair</description>
+    </item>
+    
+    <item>
+      <title>[CVPR&#39;26] DemoFunGrasp: Universal Dexterous Functional Grasping via Demonstration-Editing Reinforcement Learning</title>
+      <link>https://z0ngqing.github.io/publication/demofungrasp/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/demofungrasp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[CVPR&#39;26] End-to-End Language-Action Model for Humanoid Whole Body Control</title>
+      <link>https://z0ngqing.github.io/publication/sentinel/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/sentinel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[CVPR&#39;26] Joint-Aligned Latent Action: Towards Scalable VLA Pretraining in the Wild</title>
+      <link>https://z0ngqing.github.io/publication/jala/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/jala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[CVPR&#39;26] OpenT2M: No-frill Motion Generation with Open-source, Large-scale, High-quality Data</title>
+      <link>https://z0ngqing.github.io/publication/opent2m/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/opent2m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[CVPR&#39;26] Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos</title>
+      <link>https://z0ngqing.github.io/publication/vipa/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/vipa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[CVPR&#39;26] GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training</title>
+      <link>https://z0ngqing.github.io/publication/gtr-turbo/</link>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/gtr-turbo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICLR&#39;26] DemoGrasp: Universal Dexterous Grasping from a Single Demonstration</title>
+      <link>https://z0ngqing.github.io/publication/demograsp/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/demograsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[RAL] DemoHLM: From One Demonstration to Generalizable Humanoid Loco-Manipulation</title>
+      <link>https://z0ngqing.github.io/publication/demohlm/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/demohlm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICLR&#39;26] Guided Policy Optimization under Partial Observability</title>
+      <link>https://z0ngqing.github.io/publication/gpo/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/gpo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICLR&#39;26] Multi-Agent Guided Policy Optimization</title>
+      <link>https://z0ngqing.github.io/publication/magpo/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/magpo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[ICRA&#39;26] Towards Proprioception-Aware Embodied Planning for Dual-Arm Humanoid Robots</title>
+      <link>https://z0ngqing.github.io/publication/dualthor/</link>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/dualthor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[AAAI&#39;26] Learning Diverse Bimanual Dexterous Manipulation Skills from Human Demonstrations</title>
+      <link>https://z0ngqing.github.io/publication/bidexhd/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/publication/bidexhd/</guid>
+      <description></description>
     </item>
     
     <item>

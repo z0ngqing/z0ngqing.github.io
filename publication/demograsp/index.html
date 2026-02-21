@@ -20,9 +20,9 @@
 
 
     <link rel="shortcut icon" href="https://z0ngqing.github.io/img/favicon.ico" type="image/x-icon">
-    <link rel="canonical" href="https://z0ngqing.github.io/publication/crosser/">
+    <link rel="canonical" href="https://z0ngqing.github.io/publication/demograsp/">
 
-    <title>[RAL] CROSSER: Learning Generalizable Humanoid Locomotion Through Inverse Dynamics-Guided Cross-Simulator Adaptation | Zongqing&#39;s Homepage</title>
+    <title>[ICLR&#39;26] DemoGrasp: Universal Dexterous Grasping from a Single Demonstration | Zongqing&#39;s Homepage</title>
 
 </head>
 <body id="top">
@@ -72,10 +72,10 @@
 
     <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
         <div class="pub-title">
-            <h1 itemprop="name">[RAL] CROSSER: Learning Generalizable Humanoid Locomotion Through Inverse Dynamics-Guided Cross-Simulator Adaptation</h1>
+            <h1 itemprop="name">[ICLR&#39;26] DemoGrasp: Universal Dexterous Grasping from a Single Demonstration</h1>
             <span class="pub-authors" itemprop="author">
                 
-                Zepeng Wang, Xiaochuan Shi, Ziluo Ding, Yuxuan Wang, Zhenguo Sun, Chao Ma and Zongqing Lu
+                Haoqi Yuan, Ziye Huang, Ye Wang, Chuan Mao, Chaoyi Xu, Zongqing Lu
                 
             </span>
             <span class="pull-right">
@@ -83,27 +83,27 @@
 <div class="share-box">
     <ul class="share">
         <li>
-            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcrosser%2f" target="_blank">
+            <a class="facebook" href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fdemograsp%2f" target="_blank">
                 <i class="fa fa-facebook"></i>
             </a>
         </li>
         <li>
-            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bRAL%5d%20CROSSER%3a%20Learning%20Generalizable%20Humanoid%20Locomotion%20Through%20Inverse%20Dynamics-Guided%20Cross-Simulator%20Adaptation&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcrosser%2f" target="_blank">
+            <a class="twitter" href="https://twitter.com/intent/tweet?text=%5bICLR%2726%5d%20DemoGrasp%3a%20Universal%20Dexterous%20Grasping%20from%20a%20Single%20Demonstration&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fdemograsp%2f" target="_blank">
                 <i class="fa fa-twitter"></i>
             </a>
         </li>
         <li>
-            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcrosser%2f&amp;title=%5bRAL%5d%20CROSSER%3a%20Learning%20Generalizable%20Humanoid%20Locomotion%20Through%20Inverse%20Dynamics-Guided%20Cross-Simulator%20Adaptation" target="_blank">
+            <a class="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fdemograsp%2f&amp;title=%5bICLR%2726%5d%20DemoGrasp%3a%20Universal%20Dexterous%20Grasping%20from%20a%20Single%20Demonstration" target="_blank">
                 <i class="fa fa-linkedin"></i>
             </a>
         </li>
         <li>
-            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcrosser%2f&amp;title=%5bRAL%5d%20CROSSER%3a%20Learning%20Generalizable%20Humanoid%20Locomotion%20Through%20Inverse%20Dynamics-Guided%20Cross-Simulator%20Adaptation" target="_blank">
+            <a class="weibo" href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fdemograsp%2f&amp;title=%5bICLR%2726%5d%20DemoGrasp%3a%20Universal%20Dexterous%20Grasping%20from%20a%20Single%20Demonstration" target="_blank">
                 <i class="fa fa-weibo"></i>
             </a>
         </li>
         <li>
-            <a class="email" href="mailto:?subject=%5bRAL%5d%20CROSSER%3a%20Learning%20Generalizable%20Humanoid%20Locomotion%20Through%20Inverse%20Dynamics-Guided%20Cross-Simulator%20Adaptation&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fcrosser%2f">
+            <a class="email" href="mailto:?subject=%5bICLR%2726%5d%20DemoGrasp%3a%20Universal%20Dexterous%20Grasping%20from%20a%20Single%20Demonstration&amp;body=https%3a%2f%2fz0ngqing.github.io%2fpublication%2fdemograsp%2f">
                 <i class="fa fa-envelope"></i>
             </a>
         </li>
@@ -118,14 +118,14 @@
 
         <h3>Abstract</h3>
 
-	<p align="justify" class="pub-abstract" itemprop="text">The reality gap between simulation and real-world dynamics critically hinders the deployment of robust humanoid locomotion policies, as policies trained in a single simulator often overfit to domain-specific dynamics. To address this challenge, we propose CROSSER (Inverse Dynamics-Guided Cross-Simulator Adaptation), a reinforcement learning framework that synergizes heterogeneous simulators by leveraging multi-source data distributions to train policies resilient to cross-simulator dynamic discrepancies. Unlike prior methods that naively train policies from a specific simulator, CROSSER employs an inverse dynamics model trained across diverse simulator trajectories. By quantifying cross-simulator action-space inconsistencies, it can effectively identify and prioritize states where domain-specific biases significantly degrade generalization. Through dynamically penalizing or filtering transitions according to these inconsistencies, CROSSER guides policies to learn unified strategies that harmonize divergent physical priors embedded in multi-simulator data, rather than overfitting to any single source. Our work establishes a novel paradigm for transforming cross-simulator discrepancies into actionable signals through inverse dynamics models, advancing the practical deployment of humanoid robots via collaborative multi-simulator training. Experiments on humanoid locomotion tasks demonstrate that CROSSER significantly enhances cross-simulator performance compared to single-simulator baselines and outperforms existing joint training methods in the locomotion task, while presenting more stable locomotion behaviors.</p>
+	<p align="justify" class="pub-abstract" itemprop="text">Universal grasping with multi-fingered dexterous hands is a fundamental challenge in robotic manipulation. While recent approaches successfully learn closed-loop grasping policies using reinforcement learning (RL), the inherent difficulty of high-dimensional, long-horizon exploration necessitates complex reward and curriculum design, often resulting in suboptimal solutions across diverse objects. We propose DemoGrasp, a simple yet effective method for learning universal dexterous grasping. We start from a single successful demonstration trajectory of grasping a specific object and adapt to novel objects and poses by editing the robot actions in this trajectory: changing the wrist pose determines where to grasp, and changing the hand joint angles determines how to grasp. We formulate this trajectory editing as a single-step Markov Decision Process (MDP) and use RL to optimize a universal policy across hundreds of objects in parallel in simulation, with a simple reward consisting of a binary success term and a robot-table collision penalty. In simulation, DemoGrasp achieves a 95% success rate on DexGraspNet objects using the Shadow Hand, outperforming previous state-of-the-art methods. It also shows strong transferability, achieving an average success rate of 84.6% across diverse dexterous hand embodiments on six unseen object datasets, while being trained on only 175 objects. Through vision-based imitation learning, our policy successfully grasps 110 unseen real-world objects, including small, thin items. It generalizes to spatial, background, and lighting changes, supports both RGB and depth inputs, and extends to language-guided grasping in cluttered scenes.</p>
 
         <div class="row">
             <div class="col-sm-1"></div>
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-                    <div class="col-xs-12 col-sm-9">IEEE Robotics and Automation Letters, vol. 10, no. 12, pp. 13336-13343, 2025</div>
+                    <div class="col-xs-12 col-sm-9">International Conference on Learning Representations (ICLR), 2026</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -137,7 +137,7 @@
             <div class="col-sm-10">
                 <div class="row">
                     <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
-                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">December, 2025</div>
+                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">February, 2026</div>
                 </div>
             </div>
             <div class="col-sm-1"></div>
@@ -156,12 +156,12 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://ieeexplore.ieee.org/document/11231381/authors#authors">PDF</a>
+<a class="btn btn-primary btn-outline" href="https://arxiv.org/abs/2509.22149">PDF</a>
 
 
 
 
-<a class="btn btn-primary btn-outline" href="https://z0ngqing.github.io/project/agi/">Project</a>
+<a class="btn btn-primary btn-outline" href="https://z0ngqing.github.io/project/embodied/">Project</a>
 
 
 
