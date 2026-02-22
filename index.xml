@@ -6,7 +6,7 @@
     <description>Recent content on Zongqing&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2025 Zongqing Lu</copyright>
+    <copyright>&amp;copy; 2026 Zongqing Lu</copyright>
     <lastBuildDate>Fri, 20 Feb 2026 10:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://z0ngqing.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -333,7 +333,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/teaching/</guid>
-      <description> Undergraduate Courses  Foundation Models and Agents, Fall 2024, 2025 Algorithms, Spring 2019, 2020, 2021, 2022 Data Structures and Algorithms, Spring 2018 Introduction to Computer Systems, Fall 2017  Gradudate Courses  Deep Reinforcement Learning, Spring 2020, 2021, 2022, 2023, 2024, 2025  </description>
+      <description> Undergraduate Courses  Foundation Models and Agents, Fall 2024, 2025 Algorithms, Spring 2019, 2020, 2021, 2022 Data Structures and Algorithms, Spring 2018 Introduction to Computer Systems, Fall 2017  Gradudate Courses  Deep Reinforcement Learning, Spring 2020, 2021, 2022, 2023, 2024, 2025, 2026  </description>
     </item>
     
     <item>
@@ -342,7 +342,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/home/service/</guid>
-      <description>Area Chair and Editorship  Area Chair, ICLR 2024 2025 2026, ICML 2024 2025, NeurIPS 2024 2025
+      <description>Area Chair and Editorship  Area Chair, ICLR 2024 2025 2026, ICML 2024 2025 2026, NeurIPS 2024 2025
  Associate Editor, ACM Journal on Autonomous Transportation Systems, 2022 -
  Guest Editor, Machine Learning Special Issue on RL for Real Life, 2023
   Conference Organization  NeurIPS 2024 Large-Scale Auction Challenge, Co-Organizer
@@ -468,12 +468,12 @@
     </item>
     
     <item>
-      <title>Embodied AI</title>
+      <title>Embodied Intelligence</title>
       <link>https://z0ngqing.github.io/project/embodied/</link>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
       
       <guid>https://z0ngqing.github.io/project/embodied/</guid>
-      <description>Embodied AI focuses on creating robots that can perceive, reason, and act in the physical world. It brings together dexterous hand manipulation, humanoid whole-body control, and foundation models that link perception, language, and action. By combining these elements, embodied AI aims to enable robots that can generalize and perform complex real-world tasks with human-like adaptability.
+      <description>Embodied intelligence focuses on creating robots that can perceive, reason, and act in the physical world. It brings together dexterous hand manipulation, humanoid whole-body control, and foundation models that link perception, language, and action. By combining these elements, embodied AI aims to enable robots that can generalize and perform complex real-world tasks with human-like adaptability.
 Dexhand Manipulation  Dexterous hand manipulation focuses on enabling robots to interact with objects with the precision, adaptability, and coordination of human hands.</description>
     </item>
     
@@ -1468,7 +1468,7 @@ FEN Fairness is essential for human society, contributing to stability and produ
       
       <guid>https://z0ngqing.github.io/home/about/</guid>
       <description>I am a tenured Associate Professor in the School of Computer Science at Peking University (PKU).
-I am the founder of BeingBeyond, a start-up company on foundation models for embodied AI.
+I am the founder of BeingBeyond, a start-up company on foundation models for embodied intelligence.
 My current research focuses on
  Reinforcement Learning Multimodal Models General Agents  with the aim of endowing robots/agents with the ability to autonomously acquire skills to accomplish tasks, cooperate, and communicate in the open world, towards artificial general intelligence.</description>
     </item>

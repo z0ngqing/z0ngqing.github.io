@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Embodied Intelligence on Zongqing&#39;s Homepage</title>
+    <link>https://z0ngqing.github.io/tags/embodied-intelligence/</link>
+    <description>Recent content in Embodied Intelligence on Zongqing&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2026 Zongqing Lu</copyright>
+    <lastBuildDate>Mon, 03 Nov 2025 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://z0ngqing.github.io/tags/embodied-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Embodied Intelligence</title>
+      <link>https://z0ngqing.github.io/project/embodied/</link>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://z0ngqing.github.io/project/embodied/</guid>
+      <description>Embodied intelligence focuses on creating robots that can perceive, reason, and act in the physical world. It brings together dexterous hand manipulation, humanoid whole-body control, and foundation models that link perception, language, and action. By combining these elements, embodied AI aims to enable robots that can generalize and perform complex real-world tasks with human-like adaptability.
+Dexhand Manipulation  Dexterous hand manipulation focuses on enabling robots to interact with objects with the precision, adaptability, and coordination of human hands.</description>
+    </item>
+    
+  </channel>
+</rss>
